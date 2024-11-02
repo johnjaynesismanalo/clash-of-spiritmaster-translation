@@ -1,0 +1,2155 @@
+﻿{{A}}k ปี={{A}}k year
+<color\=#dd7131>[ไต้มู่ไป๋]</color>=<color\=#dd7131>[Dai Mubai]</color>
+[ ((A)) ]<color\=#f5b428>เส้นทางโต้วหลัว {{A}}</color>=[{{A}}] <color\=#f5b428> Douluo Path {{A}}</color>
+ผ่าน=Clear 
+หลัง<href\=6|565596398945928825><color\=#37ff53>[Mulozn]</color></href>ร่วมกิจกรรมฝูงอสูรกลายพันธุ์ที่มิติป่า Ⅲ  และฆ่าฝูงอสูรฟีนิกซ์สำเร็จ เขาก็ได้เจอ <href\=2|565596629705068329><color\=#000000>[50k ปี·วงแหวนแมลงชั่ว]</color></href> ช่างน่าอิจฉาจริงๆ เลย!=<href\=6|565596398945928825><color\=#37ff53>[Mulozn]</color></href>Participated in the demon -mutant group of the forest dimension and killing a group of Phoenix demon. <href\=2|565596629705068329><color\=#000000>[50k year · Evil ring]</color></href> So jealous!
+<color\=#61ddf7>จี้ต๋าเจิ้น:</color>จับทีมไปตีร่น<color\=#37ff53>ฝูงอสูรกลายพันธุ์</color>ที่ป่าสนธยา เป้าหมาย:<color\=#ff1919>มิติป่า Ⅲ·ฝูงอสูรฟีนิกซ์(พื้นฐาน)</color><href\=11|565596629715304791><color\=#37ff53>[เข้าทีม]</href></color>=<color\=#61ddf7>Tao Zhen:</color>Catch the team to play<color\=#37ff53>Mutated monster horde</color>At the Twilight Pao Forest:<color\=#ff1919>Pa Pa Dimension ⅲ · Phoenix demon (basic)</color><href\=11|565596629715304791><color\=#37ff53>[Enter the team]</href></color>
+ミChâm Đấu La彡=ミ Châm đấu la 彡
+ระดับง่าย=Easy mode
+เพิ่มเติม=More
+ไลน์ 1=World 1
+เมืองเทียนโต้ว=Heavenia
+เจ้าหอ=Master
+โลก=word
+2.6.1_54_31_108_45_41_288_41_19_19_2.8.2_2.19_2.19.17=2.6.1_54_31_108_45_41_288_41_19_19_2.8.2_2.19.19.17
+กำลังตรวจสอบเวอร์ชั่น โปรดรอสักครู่=Checking the version Please wait a moment
+ปิดเสียงแล้ว=Muted
+ซ่อม=Repair
+กำลังดาวน์โหลดข้อมูล=Downloading data
+แตะหน้าจอเพื่อข้าม=Tap screen to skip
+ข้าม=Skip
+เปลี่ยนเซิร์ฟ=Change server
+บัญชี=Account
+ประกาศ=Announcement
+ข้อตกลงผู้ใช้งาน=User agreement
+ตั้งค่าความละเอียด=Set resolution
+เควส=Quest
+อัปเกรดได้=Boost
+กำลังปิด=Closing...
+【หลิ่วเอ้อร์หลง】=【Liu Er Long】
+หลิ่วเอ้อร์หลง=Liu Er Long
+ปลุกพลังวิญญาณ=Spirit Awakening
+【คริสตัลสังเวียน】=【Crystal Arena】
+ช่องชมการต่สู้=Spectate Duel
+【โหลวเกา】=【Luo Gao】
+โหลวเกา=Luo Gao
+หล่ออาวุธลับ=H.Wpn Forging
+【ยวี่เสียวกัง】=【Yu Xiaogang】
+ยวี่เสียวกัง=Yu Xiaogang
+เส้นทางโต้วหลัว=Douluo Path
+【พิธีกร】=【Host】
+พิธีกร=Host
+ศึกวิญญาจารย์=Arena
+【ฉินหมิง】=【Qin Ming】
+ฉินหมิง=Qin Ming
+ผจญภัยโลกกว้าง=Adventure
+【อีเมล】=【Mail】
+อีเมล=Mail
+【ตู๋กูเยี่ยน】=【Dugu Yan】
+ตู๋กูเยี่ยน=Dugu Yan
+【จักรพรรดิเสวี่ยเยี่ย】=【Emperor Xue Yue】
+ยกพลท้าดวล=Duel Fest
+【ไป๋เฉินเซียง】=【Bai Chen Xiang】
+ไป๋เฉินเซียง=Bai Chen Xiang
+กิจกรรมจำกัดเวลา=Limited-Time Activities
+【หนิงเฟิงจื้อ】=【Ning Feng Zhi】
+หนิงเฟิงจื้อ=Ning Feng Zhi
+แลนด์สำนัก=Sect
+【กระดานประกาศ】=【News】
+ข่าวโต้วหลัว=News
+【โฟแลนด์】=【Flander】
+โฟแลนด์=Flander
+ฝึกฝนรายวัน=Academy Training
+【เจี้ยนเฉินซิน】=【Chen Xin】
+เจี้ยนเฉินซิน=Chen Xin
+【จ้าวอู๋จี๋】=【Zhao Wu Ji】
+จ้าวอู๋จี๋=Zhao Wu Ji
+ล่าสัตว์วิญญาณ=Spirit Hunt
+เริ่มแล้ว=Start
+ทีมลงดัน=Formation
+ระบบ=system
+ศูนย์\nกลยุทธ์=Strategic\nCenter
+แสงเทพเก้าสี=9-Colored\nDivine Light
+เสาศักดิ์สิทธิ์ฝึกฝน =Sacred Pillar Trial
+บัตรโบนัส=Battlepass
+โบนัส=Welfare
+ร้านประมูล=Auction
+รายวัน=Daily
+มอลล์=Mall
+ท่า=Pose
+ถ่ายรูป=Camera
+เกิดใหม่=Rebirth
+สำนัก=Sect
+เพื่อน=Friends
+สายใย=Bond
+อุปกรณ์วิญญาณ=Artifact
+เป้=Backpack
+จัดทีม=Formation
+วิญญา\nจารย์=Spirit\nMaster
+<color\=#FF0000>[เคลียร์เควสย่อย อัปเลเวล]</color>=<color\=#FF0000>[Complete Side quests to level up]</color>
+[ 54 ]<color\=#2797f6>เส้นทางโต้วหลัว(ยากเย็น)</color>=[54]<color\=#2797f6>Douluo Path (Hard)</color>
+รอง=Side
+ได้รับ<color\=#37ff53>อาวุธลับ SSR</color>=Obtain any <color\=#37ff53>SSR Hidden Weapon</color>
+<color\=#2797f6>อาวุธลับสำนักถัง</color>=<color\=#2797f6>Tang Sect Hidden Weapon</color>
+ใน<color\=#37ff53>ยกพลท้าดวล</color>ได้รับ<color\=#37ff53>ชัยชนะ 5 ครั้ง</color>=Participate in <color\=#37ff53>Duel Fest </color>and score <color\=#37ff53>5 wins</color>
+<color\=#2797f6>ยกพลท้าดวล({{A}})</color>=<color\=#2797f6>Duel Fest ({{A}})</color>
+ยกพลท้าดวล=Duel Fest
+[ 54 ]<color\=#f5b428>เส้นทางโต้วหลัว 16-1</color>=[54]<color\=#f5b428>Douluo Path 16-1</color>
+หลัก=Main
+เส้นทางโต้วหลัว=Douluo Path
+Đường Ngũ=Đường ngũ
+<href\=6|565596393743455635><color\=#37ff53>[рон]</color></href>อัปวิญญาจารย์<href\=2|565596413672116595><color\=#7d26ff>[ไป๋เฉินเซียง]</color></href>ถึง <color\=#37ff53>8</color> ดาวแล้ว!=<href\=6|565596393743455635><color\=#37ff53>[рон]</color></href>Apsawin<href\=2|565596413672116595><color\=#7d26ff>[Bai Chen Xiang]</color></href>to <color\=#37ff53>8</color> Star!
+ศูนย์ผู้ใช้งาน=User\nCenter
+เนื้อหาระบบ=UI Text
+ล็อดหน้าจอ=Lock\nScreen
+เปลี่ยนบัญชี=Switch\nAccount
+565596395227893491=565596395227893491
+รหัส=ID
+เจย์มารี=เจย์มารี
+ชื่อ=Name
+ยังไม่สวมใส่ฉายา=No Title Equipped
+ฉายา=Title
+เซฟตี้ล็อค=Safety Lock
+ย่อภาพปลุกพลัง=Simplified\nSummoning Animation
+การตั้งค่าอื่นๆ=Other settings
+สถานะต่อสู้สองบรรทัด=Multi Battle Status
+รวมดาเมจ=Merge DMG
+อัตราเลือดบอส=Boss HP
+ย่อมุมกล้อง\n=Simplified Camera
+ใช้สกิลลัด=Quick Cast
+โหมดอิมเมอร์ซีฟ=Immersive
+ตั้งค่าต่อสู้=Combat
+เสียงเอฟเฟกต์=Effect
+ดนตรี=Music
+เสียง=Sound
+ตั้งค่าเสียง=Audio
+ย่อเอฟเฟกต์พิเศษ=Special effect
+HFR=HFR
+อากาศ=Weather
+กลางวัน-คืน=Time of Day
+เปิด=On
+ปิด=Off
+Anti-aliasing=Anti-aliasing
+สูงสุด=Haste
+พื้นฐาน=Basic
+ขั้นกลาง=Medium
+ขั้นสูง=High
+สูงมาก=Very High
+ความคมชัด=Graphics
+ผล\nลัพธ์=Effects
+เกียรติ\nยศ=Honor
+นาม\nบัตร=Profile
+ตั้ง\nค่า=Settings
+ตั้งค่า=Set
+<href\=6|565596393743455635><color\=#37ff53>[рон]</color></href>อัปวิญญาจารย์<href\=2|565596413672116595><color\=#7d26ff>[ไป๋เฉินเซียง]</color></href>ถึง <color\=#37ff53>8</color> ดาวแล้ว!=<href\=6|565596393743455635><color\=#37ff53>[рон]</color></href>Apsawin<href\=2|565596413672116595><color\=#7d26ff>[Bai Chen Xiang]</color></href>to <color\=#37ff53>8</color> Star!
+<href\=6|565596390232197742><color\=#37ff53>[จี้ต๋าเจิ้น]</color></href>อัปวิญญาจารย์<href\=2|565596629362356883><color\=#dd7131>[หั่วอู่]</color></href>ถึง <color\=#37ff53>4</color> ดาวแล้ว!=<href\=6|565596390232197742><color\=#37ff53>[Jia Zhen]</color></href>Apsawin<href\=2|565596629362356883><color\=#dd7131>[Hua U]</color></href>to <color\=#37ff53>4</color> Star!
+18:39=18:39
+161/700=161/700
+นามบัตร=Profile
+ผ่านเส้นทางโต้วหลัว=Stages Cleared in Douluo Path
+แรงก์ในสังเวียน=The force in the arena
+แรงก์สังเวียนไต่อันดับ=Arena of the arena climb the rankings.
+วิญญาจารย์ NO1=Top Spiritmasters
+ชื่อเกียรติยศ:ตำนานโต้วหลัว 1=Name of Kiatyot: Legend of Tua Lua 1
+รอทำ=Unachieved
+หลังเติมเงินสะสมเยอะๆ จะบรรลุเงื่อนไข=After adding a lot of accumulation\nWill achieve conditions
+ID:=ID:
+111=111
+◆=◆
+52=52
+180/444=180/444
+เฮ่าเทียน=เฮ่าเทียน
+327=327
+2753717=2753717
+เซิร์ฟ:=Sect:
+เซิร์ฟ: Global Server 48=Sect: Global Server 48
+รอวาง=Vacant
+หล่อที่สุด=Handsome
+ไม่มีแท็บ=No Tags yet
+แท็บ:=Tags:
+คะแนนรวม =Total Rating
+ฅนตื่นธรรม=Awake
+foo3000=Foo3000
+อี้หลางเซิน=อี้หลางเซิน
+เจ้าสำนัก=Sect Leader
+ประกาศสำนัก=Intro
+ข้อมูลสำนัก=Info
+จัดการ=Manage
+ออนไลน์:4=Online: 4
+<color\=#090909>23นาทีก่อน</color>=<color\=#090909>23 minutes ago</color>
+<color\=#090909>67371</color>=<color\=#090909>67371</color>
+<color\=#090909>6633</color>=<color\=#090909>6633</color>
+<color\=#090909>5507645</color>=<color\=#090909>5507645</color>
+<color\=#090909>หอว่องไว·เจ้าหอ</color>=<color\=#090909>Swift Division·Division Chief</color>
+<color\=#090909>Yagj</color>=<color\=#090909>Yagj</color>
+<color\=#090909>17นาทีก่อน</color>=<color\=#090909>17 minutes ago</color>
+<color\=#090909>6065</color>=<color\=#090909>6065</color>
+<color\=#090909>2294164</color>=<color\=#090909>2294164</color>
+<color\=#090909>Mã Thiên Băng</color>=<color\=#090909>Mã thiên băng</color>
+<color\=#090909>11นาทีก่อน</color>=<color\=#090909>11 minutes ago</color>
+<color\=#090909>84141</color>=<color\=#090909>84141</color>
+<color\=#090909>5977</color>=<color\=#090909>5977</color>
+<color\=#090909>1760268</color>=<color\=#090909>1760268</color>
+<color\=#090909>4นาทีก่อน</color>=<color\=#090909>4 minutes ago</color>
+<color\=#090909>83625</color>=<color\=#090909>83625</color>
+<color\=#090909>9298</color>=<color\=#090909>9298</color>
+<color\=#090909>5299472</color>=<color\=#090909>5299472</color>
+<color\=#090909>55</color>=<color\=#090909>55</color>
+<color\=#090909>what</color>=<color\=#090909>what</color>
+<color\=#090909>2นาทีก่อน</color>=<color\=#090909>2 minutes ago</color>
+<color\=#090909>101793</color>=<color\=#090909>101793</color>
+<color\=#090909>6562</color>=<color\=#090909>6562</color>
+<color\=#090909>4756064</color>=<color\=#090909>4756064</color>
+<color\=#090909>หอโอสถ·เจ้าหอ</color>=<color\=#090909>Herb·Division Chief</color>
+<color\=#090909>ดุดำ</color>=<color\=#090909>ดุดำ</color>
+<color\=#090909>86761</color>=<color\=#090909>86761</color>
+<color\=#090909>4520</color>=<color\=#090909>4520</color>
+<color\=#090909>133424</color>=<color\=#090909>133424</color>
+<color\=#090909>Kanilk3</color>=<color\=#090909>Kanilk3</color>
+<color\=#090909>131280</color>=<color\=#090909>131280</color>
+<color\=#090909>15308</color>=<color\=#090909>15308</color>
+<color\=#090909>1123321</color>=<color\=#090909>1123321</color>
+ดุดำ=ดุดำ
+รายการคำขอ=Applications
+ออก=Quit
+ปกติ=Normal
+สถานะบำรุง=Maint. Status
+เงินทุนบำรุง=Maint. Funds
+ค่าอัปเกรด=Upgrade Cost
+เป่าซาน=เป่าซาน
+ออนไลน์=Online
+<color\=#090909>54</color>=<color\=#090909>54</color>
+<color\=#090909>เป่าซาน</color>=<color\=#090909>เป่าซาน</color>
+<color\=#090909>99320</color>=<color\=#090909>99320</color>
+<color\=#090909>5931</color>=<color\=#090909>5931</color>
+<color\=#090909>2999235</color>=<color\=#090909>2999235</color>
+<color\=#090909>หอป้องกัน·เจ้าหอ</color>=<color\=#090909>Defense Division·Division Chief</color>
+<color\=#090909>Tee2</color>=<color\=#090909>Tee2</color>
+<color\=#034800>ออนไลน์</color>=<color\=#034800>Online</color>
+<color\=#090909>ออนไลน์</color>=<color\=#090909>Online</color>
+<color\=#034800>112546</color>=<color\=#034800>112546</color>
+<color\=#034800>6107</color>=<color\=#034800>6107</color>
+<color\=#034800>หอยุทธ์·เจ้าหอ</color>=<color\=#034800>Martial Division·Division Chief</color>
+สำนักส่งคำสั่ง=Sect Order
+เข้าแลนด์=Territory
+บันทึกสำนัก=Sect Log
+สถานะ=Status
+อุทิศสะสม=Total Contrib.
+วีคนี้อุทิศ=Weekly Contrib.
+คะแนน =Rating 
+เลเวล=Level
+ตำแหน่ง=Position
+สมาชิก=Members
+<color\=#090909>สมาชิก</color>=<color\=#090909>Member</color>
+{{A}}K={{A}}K
+รายชื่อ=List
+แอ็คทีฟ=Activity
+ก่อสร้าง=Building
+ข้อมูล=Info
+หลัง<href\=6|565596390426300537><color\=#37ff53>[Kanilk3]</color></href>ร่วมกิจกรรมฝูงอสูรกลายพันธุ์ที่มิติป่า Ⅲ  และฆ่าฝูงอสูรฟีนิกซ์สำเร็จ เขาก็ได้เจอ <href\=2|565596629909558039><color\=#000000>[50k ปี·วงแหวนพืช]</color></href> ช่างน่าอิจฉาจริงๆ เลย!=<href\=6|565596390426300537><color\=#37ff53>[Kanilk3]</color></href>Participated in the demon -mutant group of the forest dimension and killing a group of Phoenix demon. <href\=2|565596629909558039><color\=#000000>[50k year · Plant ring]</color></href> So jealous!
+<href\=6|565596403569617384><color\=#37ff53>[姓氏40名字15]</color></href>อัปวิญญาจารย์<href\=2|565596417466952756><color\=#dd7131>[หลิ่วเอ้อร์หลง]</color></href>ถึง <color\=#37ff53>5</color> ดาวแล้ว!=<href\=6|565596403569617384><color\=#37ff53>[姓氏 40 名字 15]</color></href>Apsawin<href\=2|565596417466952756><color\=#dd7131>[Liu Er Long]</color></href>to <color\=#37ff53>5</color> Star!
+Discord=Discord
+เงินทุน=Funds
+Welcome all country to my guild ยินดีต้อนรับทุกคนทุกประเทศ สู่สำนักเฮ่าเทียน offline 3 day , kick=Welcome All Country To My Guild welcomes everyone in every country.\nTo the Ho Tian Offline 3 Day, Kick
+91351=91351
+<color\=#6b0505>{{A}}</color>/{{A}}=<color\=#6b0505>{{A}}</color>/{{A}}
+อสููร\nพิ\nทักษ์\nสำ\nนัก=Sect\nGuar\ndian
+ร้าน\nสำ\nนัก=Sect\nShop
+ลาน\nกิจ\nกรรม=Sect\nEvent
+ค่าย\nทหาร\nจ้าง=Sect\nMerce\nnary
+คลัง\nสำ\nนัก=Sect\nVault
+สวน\nสมุน\nไพร=Sect\nGarden
+ห้อง\nโถง\nสำ\nนัก=Sect\nLobby
+สำนักประมูล\n=Bureau\n
+Tarot Club=Tarot Club
+สาขาสำนัก=Division
+ห้องโถงสำนัก=Sect Hall
+อุทิศ\nเพชร=Dia\nmond\nDona\ntion
+LV สำนัก:{{A}}=Sect Level: {{A}}
+อุทิศ=Donate
+ค่าอุทิศสำนัก:=Contribution:
+ทุกครั้งที่อุทิศได้รับ=Donation Rewards
+อุทิศ\nเงิน\nยม\nโลก=Gold\nDona\ntion
+วันนี้เหลือสิทธิ์:{{A}}/{{A}}=Attempts: {{A}}/{{A}}
+เงินทุนสำนัก:=Funds:
+ห้องโถง=Lobby
+Kookkik=Kookkik
+เจ้าหอ=Master
+เจ้าหอ:เจย์มารี=Division Chief: เจย์มารี
+LV{{A}}=LV{{A}}
+เจ้าหอ:Tee2=Division Chief: Tee2
+เจ้าหอ:Yagj=Division Chief: YAGI
+เจ้าหอ:ดุดำ=Division Chief: Damai
+อัปเกรด=Promote
+เจ้าหอ:ꜱøɴɢ ᴊɪɴ ᴡøø=Division Chief: ꜱøɴɢ ᴊɪɴ ᴡøø
+โบนัสพัฒนาอสูรพิทักษ์:<color\=#37ff53>40%</color>=Guardian Cultivation\nBonus:<color\=#37ff53>40%</color>
+โบนัสป้องกันศึกปล้นชิง: LV<color\=#37ff53>3</color>=Sect Raid Defender\nBonus: LV<color\=#37ff53>3</color>
+โบนัสโจมตีศึกปล้นชิง: LV<color\=#37ff53>2</color>=Raid Offense\nBonus: LV<color\=#37ff53>2</color>
+สามารถปลูกสมุนไพร LV<color\=#37ff53>2</color>\nผลผลิต:<#comm&comm_currency_0033>x<color\=#37ff53>23</color>=Grow Lv.<color\=#37ff53>2 </color>Herbs\nMaterial Output:<#comm&comm_currency_0033>x<color\=#37ff53>23</color>
+โบนัสได้รับเงินทุน:<color\=#37ff53>33%</color>=Fund Bonus:<color\=#37ff53>33%</color>
+Milan paryiar=Milan Paryiar
+Vietnamese=Vietnamese
+โอริโอ้=โอริโอ้
+ค่าแอ็คทีฟ+{{A}}=AP +{{A}}
+ปล่อยเช่าทหารจ้าง=Place Mercenary
+ส่งข้อความสำนัก=Send messages in Sect Channel
+สำเร็จแล้ว:0/1=Completed: 0/1
+ค่าแอ็คทีฟ+18=AP +18
+ก่อสร้างในสำนัก=Sect Construction
+ไป=Go
+สำเร็จแล้ว:1/2=Completed: 1/2
+ค่าแอ็คทีฟ+12=AP +12
+อุทิศให้สำนัก =Sect Donation
+รับทั้งหมด=Claim All
+วันนี้สำนัก\nแอ็คทีฟ=Sect AP
+1800=1800
+230=230
+934=934
+700=700
+160=160
+467=467
+40=40
+รับแล้ว=Claimed
+233=233
+161=161
+แจกทางอีเมลทุกวันจันทร์ ตี 5=Sent by email by 5 AM every Monday
+ส่วนแบ่ง=Profit Share Reward
+290=290
+8920=8920
+วีคนี้ฉันแอ็คทีฟ:=Personal Weekly:
+วีคนี้สำนักแอ็คทีฟ:=Sect Weekly:
+ฉันแอ็คทีฟ=My Activity
+44=44
+<color\=#61ddf7>ดุดำ:</color>จับทีมไปตีร่น<color\=#37ff53>ฝูงอสูรกลายพันธุ์</color>ที่ป่าสนธยา เป้าหมาย:<color\=#ff1919>มิติป่า Ⅲ·ฝูงอสูรฟีนิกซ์(มหานรก)</color><href\=11|565596630054159389><color\=#37ff53>[เข้าทีม]</href></color>=<color\=#61ddf7>Dusading:</color>Catch the team to play<color\=#37ff53>Mutated monster horde</color>At the Twilight Pao Forest:<color\=#ff1919>Pa Pa Dimension ⅲ · Phoenix demon (Maha Ni</color><href\=11|565596630054159389><color\=#37ff53>[Enter the team]</href></color>
+19:40=19:40
+171/700=171/700
+Neto=Neto
+KALASH=KALASH
+อุทิศสะสม:112.5K=Total Contribution: 112.5K
+วันนี้อุทิศ:840=Daily Contribution: 840
+เช่าทันที=Rent
+ผู้มี: ไก่กา=ผู้มี: ไก่กา
+51=51
+ผู้มี: Đường Ngũ=ผู้มี: Đường Ngũ
+ผู้มี: ดุดำ=ผู้มี:
+ผู้มี: ชิงโหมว=ผู้มี: ชิงโหมว
+ผู้มี: เป่าซาน=ผู้มี: เป่าซาน
+ผู้มี: Yagj=ผู้มี: Yagj
+ผู้มี: หัวเห็ดคุง=ผู้มี: หัวเห็ดคุง
+ผู้มี: FoxyLady=ผู้มี: Foxylady
+อุทิศสะสม>\=<color\=#034800>5000</color>=Total Contribution> \=<color\=#034800>5000</color>
+ผู้มี: Phong Bạt Đấu La=ผู้มี: Phong Bạt đấU LA
+วันนี้อุทิศ>\=<color\=#034800>500</color>=Daily Contribution> \=<color\=#034800>500</color>
+ทั้งหมด=All
+สิทธิ์=Attempts
+ป่าสนธยา: <color\=#37FF53>7/7</color>=Sunset Forest: <color\=#37FF53>7/7</color>
+เส้นทางโต้วหลัว: <color\=#37FF53>3/3</color>=Douluo Path: <color\=#37FF53>3/3</color>
+วีคนี้เหลิอสิทธิ์เล่า:<color\=#37ff53>6/6</color>=Weekly Rental Attempts:<color\=#37ff53>6/6</color>
+กำลังว่าง=Idle
+โปรดเช่าทหารจ้างฝั่งขวา=Select a mercenary
+รายการเช่า=List
+วีคนี้เหลือสิทธิ์ช่วย=Weekly Assist Attempts
+<color\=#37FF53>เวลา 5:00</color> จะคืนทหารจ้างอัตโนมัติ=Rented Mercenary will be returned at\n<color\=#37FF53>5:00 </color>every day.
+<color\=#E5E7FF>สิทธิ์ช่วยต่อสู้จะถูกหักหลังชนะ </color><color\=#37FF53>รีเซ็ตทุกวันจันทร์ 5:00</color>=<color\=#E5E7FF>Assist attempts won't be deducted until battles are won, and attempts </color><color\=#37FF53>reset at 5:00 every Monday.</color>
+วันนี้เช่าทหารจ้าง=Today's Mercenary
+ปล่อยเช่า=Add
+เช่า=Rent
+ทหารจ้างสำนัก=Sect Mercenary
+19:45=19:45
+172/700=172/700
+10=10
+45=45
+กำลังปล่อยเช่า=Added
+ปล่อยเช่าทันที=Add
+บันทึกปล่อยเช่า=Records
+เงื่อนไขผู้ขอเช่า=Requirements
+หยุดให้เช่าใน=Countdown
+ไม่มี=N/A
+ทหารจ้างที่ปล่อยเช่า=Mercenaries for Rent
+วิญญาจารย์ฉัน=Spiritmasters
+อุทิศสะสม>\=<color\=#37FF53>4000</color>=Total Contribution> \=<color\=#37FF53>4000</color>
+เหลือ 10  ชม.13 นาที=10 hours left. 13 minutes.
+สำรอง=Pillar
+เหลือสิทธิ์ปล่อยเช่า:<color\=#00ff00>2</color> ครั้ง=Rental Attempts:<color\=#00ff00>2</color>
+เหลือสิทธิ์ปล่อยเช่า:<color\=#00ff00>1</color> ครั้ง=Rental Attempts:<color\=#00ff00>1</color>
+เหลือสิทธิ์ปล่อยเช่า:<color\=#00ff00>0</color> ครั้ง=Rental Attempts:<color\=#00ff00>0</color>
+ลงต่อสู้=Deploy
+19:46=19:46
+ของ\nราง\nวัล=Loot
+บัน\nทึก\nปก\nป้อง=Defense\nRecord
+รับส่วนแบ่ง=Claim Profit Share
+สต็อกขณะนี้=Stock
+เงินทุนสำนัก=Sect Fund
+เงินทุนสำนัก:=Sect Fund
+เงินทุนสำนัก:          x91.5K=Sect Fund: 				x91.5k
+วัสดุสมุนไพร:          x88.6K=Herb: 					x88.6k
+ค่าอุทิศรายสัปดาห์ยิ่งมาก สามารถรับส่วนแบ่งเพิ่มขึ้น=The higher the weekly contribution, the greater the share.
+ทุกวันจันทร์สามารถรับส่วนแบ่งคลัง=Profit Share can be claimed every Monday.
+สต็อก=Stock
+บันทึกชิง=Pillage\nRecord
+272ms=272ms
+คลัง=Vault
+คลังสำนัก=Sect Vault
+20:00=20:00
+174/700=174/700
+ขณะนี้ยังไม่มีของรางวัลที่รับได้=No loot.
+รับ=Claim
+บันทึกได้รับ=Record
+EliusZN=Eliuszn
+09/22=09/22
+หวังปี้=หวังปี้
+Nạp VIP đấu la=Nạp VIP đấu la
+09/26=09/26
+Phong Tôn Giả=Phong Tôn Giả
+20:01=20:01
+Phong Bạt Đấu La=Phong bạt đấu la
+10/03=10/03
+Foxy=Foxy
+10/08=10/08
+วีดีโอ=Replay
+231ms=231ms
+FoxyLady=Foxylady
+x39=x39
+x23=x23
+13วันก่อน=13 days ago
+x34=X34
+x13=x13
+8วันก่อน=8 days ago
+x46=x46
+x12=x12
+CUTIEGRIL=CutieGril
+เล่=Penetrate
+6วันก่อน=6 days ago
+x56=x56
+x21=x21
+ในศึกชิงสำนักได้เอาชนะสำนัก<color\=#ff0000>Độc Đạo</color> ท่านเอาชนะศัตรูทั้งหมด <color\=#ff0000>5</color> คน บรรลุ<color\=#ff0000> 5 สังหารรวด</color>!\n<color\=#061A66>ได้รับของรางวัล:</color>=In the battle, the office beat the office.<color\=#ff0000>ĐộC đạO</color> He beat all the enemies. <color\=#ff0000>5</color> Achieve<color\=#ff0000> 5 murder</color>!\n<color\=#061A66>Receive prizes:</color>
+ในศึกชิงสำนักได้เอาชนะสำนัก<color\=#ff0000>Độc Đạo</color> ท่านเอาชนะศัตรูทั้งหมด <color\=#ff0000>2</color> คน บรรลุ<color\=#ff0000> 2 สังหารรวด</color>!\n<color\=#061A66>ได้รับของรางวัล:</color>=In the battle, the office beat the office.<color\=#ff0000>ĐộC đạO</color> He beat all the enemies. <color\=#ff0000>2</color> Achieve<color\=#ff0000> 2 murder</color>!\n<color\=#061A66>Receive prizes:</color>
+ในศึกชิงสำนักได้เอาชนะสำนัก<color\=#ff0000>Độc Đạo</color> ท่านเอาชนะศัตรูทั้งหมด <color\=#ff0000>3</color> คน บรรลุ<color\=#ff0000> 3 สังหารรวด</color>!\n<color\=#061A66>ได้รับของรางวัล:</color>=In the battle, the office beat the office.<color\=#ff0000>ĐộC đạO</color> He beat all the enemies. <color\=#ff0000>3</color> Achieve<color\=#ff0000> 3 murder</color>!\n<color\=#061A66>Receive prizes:</color>
+ในศึกชิงสำนักได้เอาชนะสำนัก<color\=#ff0000>Độc Đạo</color> ท่านเอาชนะศัตรูทั้งหมด <color\=#ff0000>6</color> คน บรรลุ<color\=#ff0000> 5 สังหารรวด</color>!\n<color\=#061A66>ได้รับของรางวัล:</color>=In the battle, the office beat the office.<color\=#ff0000>ĐộC đạO</color> He beat all the enemies. <color\=#ff0000>6</color> Achieve<color\=#ff0000> 5 murder</color>!\n<color\=#061A66>Receive prizes:</color>
+1วันก่อน=1 day ago
+บันทึกได้รับของรางวัล=Record received the prize
+273ms=273ms
+Narnia2607=Narnia2607
+AMen=AMen
+<color\=#FF0000>10</color>/50=<color\=#FF0000>10</color>/50
+ต้องการ:=Cost:
+ปลดล็อกขั้น 5=T5 Required
+ปลดล็อกขั้น 4=T4 Required
+ปลดล็อกขั้น 3=T3 Required
+ปลดล็อกขั้น 2=T2 Required
+ปลดล็อกขั้น 1=T1 Required
+เปิดใช้แล้ว=Activated
+พลังวิญญาณขณะนี้=Current SP
+2400=2400
+เคลียร์เควสสัปดาห์นี้แล้ว=Cleared
+ฟื้นฟูพลังวิญญาณ=Restore SP
+374ms=374ms
+แพ้ในการปกป้องศึกชิงสำนักได้ <color\=#5c3600>3</color> ครั้ง\nสัปดาห์ที่แล้วสะสมค่าอุทิศ:<color\=#5c3600>19103</color>(สูงสุดแล้ว)=Can be defeated <color\=#5c3600>3</color> time(s) as a defender in Sect Raid.\nTotal Sect Contribution last week:<color\=#5c3600>19103</color>(MAXED)
+อสูรพิทักษ์HP=Guardian HP
+อสูรพิทักษ์DEF=Guardian DEF
+25.00%=25.00%
+20.00%=20.00%
+อสูรพิทักษ์ATK=Guardian ATK
+ปกป้อง=Raid Defense
+รัศมีพิทักษ์=Guardian Aura
+คุณสมบัติพิทักษ์=Stats
+<color\=#37ff53>10Brigada</color>เพิ่ม EXP <color\=#F5B428>312</color> แต้ม=<color\=#37ff53>10brigada</color>Add Exp <color\=#F5B428>312</color> marking
+27794/200000=27794/200000
+EXP อัปขั้น =Upgrade EXP
+ลงต่อสู้แล้ว=Deployed
+หลัง<href\=6|565596398870270016><color\=#37ff53>[Voky15]</color></href>ร่วมกิจกรรมฝูงอสูรกลายพันธุ์ที่มิติป่า Ⅲ  และฆ่าฝูงอสูรฟีนิกซ์สำเร็จ เขาก็ได้เจอ <href\=2|565596630178899790><color\=#000000>[50k ปี·วงแหวนพืช]</color></href> ช่างน่าอิจฉาจริงๆ เลย!=<href\=6|565596398870270016><color\=#37ff53>[Voky15]</color></href>Participated in the demon -mutant group of the forest dimensions and killed a group of Phoenix demon. <href\=2|565596630178899790><color\=#000000>[50k year · Plant ring]</color></href> So jealous!
+ขั้น 5·วานรยักษ์ไททัน=T5 Titan Ape
+ขั้น 4·วานรยักษ์ไททัน=T4 Titan Ape
+ขั้น 3·วานรยักษ์ไททัน=T3 Titan Ape
+ขั้น 2·วานรยักษ์ไททัน=T2 Titan Ape
+ขั้น 1·วานรยักษ์ไททัน=T1 Titan Ape
+อสููรพิทักษ์สำนัก=Sect Guardian
+20:11=20:11
+176/700=176/700
+Voky15=Voky15
+Эленди=Эленди
+หวังหลิง=หวังหลิง
+20:12=20:12
+02:40:28=02:40:28
+02:40:26=02:40:26
+02:40:24=02:40:24
+02:40:21=02:40:21
+02:40:18=02:40:18
+02:40:22=02:40:22
+02:40:19=02:40:19
+02:40:27=02:40:27
+02:40:25=02:40:25
+02:40:23=02:40:23
+02:40:20=02:40:20
+02:40:16=02:40:16
+02:40:17=02:40:17
+02:40:15=02:40:15
+02:40:14=02:40:14
+02:40:13=02:40:13
+02:40:12=02:40:12
+02:40:10=02:40:10
+02:40:11=02:40:11
+20:22=20:22
+02:40:09=02:40:09
+02:40:08=02:40:08
+02:40:07=02:40:07
+02:40:06=02:40:06
+02:40:05=02:40:05
+02:40:04=02:40:04
+02:40:02=02:40:02
+สวนสมุนไพร=Sect Garden
+รายการเลี้ยงดู=Cultivation List
+0/4 ครั้ง=0/4 times
+1/4 ครั้ง=1/4 times
+2/4 ครั้ง=2/4 times
+3/4 ครั้ง=3/4 times
+4/4 ครั้ง=4/4 times
+วันนี้รดน้ำได้:=Watering Attempts:
+178/700=178/700
+02:40:03=02:40:03
+02:40:01=02:40:01
+02:40:00=02:40:00
+02:39:59=02:39:59
+02:39:58=02:39:58
+02:39:57=02:39:57
+02:39:56=02:39:56
+02:39:55=02:39:55
+Tan San=Tan San
+หงอี้เซียง=หงอี้เซียง
+10Brigada=10Brigada
+<color\=#5C3600>ความชื้นในดินไม่พอ จะต้องรดน้ำ</color>=<color\=#5C3600>Not enough moisture in the soil must be watered.</color>
+รดน้ำ=water
+02:39:54=02:39:54
+02:39:53=02:39:53
+02:39:52=02:39:52
+02:39:51=02:39:51
+02:39:50=02:39:50
+02:39:49=02:39:49
+02:39:48=02:39:48
+02:39:46=02:39:46
+สิทธิ์รดน้ำวันนี้ใช้หมดแล้ว!=All watering attempts have been used!
+02:39:47=02:39:47
+02:39:45=02:39:45
+02:39:44=02:39:44
+02:39:43=02:39:43
+02:39:42=02:39:42
+02:39:41=02:39:41
+02:39:40=02:39:40
+02:39:39=02:39:39
+02:39:38=02:39:38
+02:39:36=02:39:36
+02:39:37=02:39:37
+02:39:35=02:39:35
+02:39:34=02:39:34
+02:39:33=02:39:33
+02:39:31=02:39:31
+239ms=239MS
+02:39:32=02:39:32
+02:39:30=02:39:30
+20:23=20:23
+02:39:29=02:39:29
+zaza=Zaza
+02:39:28=02:39:28
+02:39:27=02:39:27
+วันอาทิตย์\n20:00 - 20:39=Sunday\n20:00-20:39
+สัตว์สงครามยักษ์=Behemoth
+<color\=#f5b428>เอาชนะ</color><color\=#f5b428>สัตว์สงครามยักษ์</color>ที่ปรากฏในสนามรบแนวหน้าสงคราม ก็จะได้รับรางวัลมากมาย และสะสมของรางวัล!=<color\=#f5b428>Defeat </color>the <color\=#f5b428>Behemoth </color>that appeared on\nWarfront Battlefield for rich rewards and\nloot! Build up advantages to earn more\nrewards!
+วันเสาร์\n10:00~14:20,18:00~20:20=Saturday\n10: 00 ~ 14: 20,18: 00 ~ 20: 20
+20:25=20:25
+ศึกสี่สำนัก=Clash of Clans
+<color\=#f5b428>ชิงค่าย</color>กับสำนักอื่นที่สนามรบ ยิ่งยึดครองได้เยอะ ระดับของค่าย และอันดับยิ่งสูง รางวัลก็ยิ่งดี!=<color\=#f5b428>Compete with other sects to occupy camp. </color>The more and the higher level occupied camp is, the higher your sect rank is, and the more rewards you will earn!
+วันพุธ,วันเสาร์\n10:00 - 20:20=Wednesday, Saturday\n10:00-20:20
+<color\=#f5b428>ยึดครอง</color>เมืองในจักรวรรดิต่างๆ จะได้รับ<color\=#f5b428>ค่าอำนาจ</color> ค่าอำนาจยิ่งสูง รางวัลยิ่งดี!=<color\=#f5b428>Compete to </color>occupy all the cities in the empire to obtain <color\=#f5b428>Faction Points. </color> The higher the Faction Points, the greater the rewards will be!
+สงครามเทียนโต้ว=Heavenia Conquest
+วันอังคาร,วันพฤหัส\n08:00 - 20:48=Tuesday, Thursday\n08:00-20:48
+ระยะเวลา=Event Time
+สมาชิกสำนักรวมพลลงศึกชิง เอาชนะ<color\=#f5b428>สมาชิกสำนักศัตรู</color>ที่ปรากฏอย่างไม่ขาดสาย ได้รับของรางวัลจำนวนมาก!=Defeat <color\=#f5b428>members of enemy sects </color>to earn plenty of loot!
+ศึกชิงสำนัก=Sect Raid
+กิจกรรมสำนัก=Sect Events
+20:24=20:24
+วันจันทร์\n20:00 - 20:09=Monday\n20:00-20:09
+ทีมถึง LV<color\=#f5b428>55</color>และปลดล็อกหลังเลือก<color\=#f5b428></color> เปิด=Squad reaches Lv.<color\=#f5b428>55 </color>and unlock by choosing God Position <color\=#f5b428></color> to unlock.
+<color\=#f5b428>ชิงเมือง</color>กับจักรวรรดินอื่นบนแผ่นดิน เมืองที่ยึดครองยิ่งมาก เลเวลยิ่งสูง รางวัลที่ได้รับก็ยิ่งดี!=Compete with other empires on the continent for <color\=#f5b428>City Control. </color>The more and higher level cities you occupy, the greater the rewards will be!
+ศึกกู้แผ่นดิน=Continent Expedition
+สมาชิกสำนักรวมตัวกัน<color\=#f5b428>กินหมูกระทะ</color>,<color\=#f5b428>ถ่ายทอดพลัง</color>,<color\=#f5b428>ตอบคำถาม</color>\nกิจกรรมถ่ายทอดพลังจะต่อเนื่องจนถึง <color\=#f5b428>24:00</color>=Sect members gather together for <color\=#f5b428>Sect BBQ, </color><color\=#f5b428>Impartment, </color><color\=#f5b428>and Banquet Quiz. </color>Impartment will last until <color\=#f5b428>24:00</color>
+นารีสวรรค์=นารีสวรรค์
+ปาร์ตี้สำนัก=Sect Banquet
+ต่อต้านการบุกรุกของ<color\=#f5b428>สัตว์วิญญาณยุทธ์</color>ภายใต้การช่วยเหลือของ<color\=#f5b428>องครักษ์สำนัก</color>=Defeat <color\=#f5b428>Spirit Temple's Spirit Beasts </color>with the help of <color\=#f5b428>Sect Guards</color>
+พิทักษ์สำนัก=Sect Defense
+วันจันทร์\n20:10 - 20:24=Monday\n20:10-20:24
+20:44=20:44
+<color\=#e6eaff>บล็อก</color>=<color\=#e6eaff>Block</color>
+<color\=#e6eaff>ฝึกกับ AI</color>=<color\=#e6eaff>Practice</color>
+<color\=#e6eaff>เทียบฝีมือ</color>=<color\=#e6eaff>Compare</color>
+<color\=#e6eaff>แชท</color>=<color\=#e6eaff>Message</color>
+<color\=#e6eaff>ลบเพื่อน</color>=<color\=#e6eaff>Delete</color>
+<color\=#e6eaff>ดูนามบัตร</color>=<color\=#e6eaff>View Profile</color>
+146=146
+54=54
+รายการบล็อก=Block list
+เพิ่มเพื่อน=Add friends
+เพื่อนข้ามเซิร์ฟ=C.S Friends
+เพื่อนเซิร์ฟนี้=Friends
+45/90=45/90
+จำนวนเพื่อน:=Friends:		
+77=77
+31/36=31/36
+36/36=36/36
+ลิมิตวันนี้:=Daily Limit :	 
+มอบทั้งหมด=Quick Send
+เคลียร์เพื่อนที่หายตัว=Clear Inactive Friends
+5นาทีก่อน=5 minutes ago
+Yagj=Yagj
+Liệt Dương Đấu La=Liệt dương đấu la
+Vô Tận Lam Hải=Vô Tận Lam Hải
+41=41
+55=55
+Tiểu Y Tiên 78=Tiểu y tiên 78
+4  ชม.สิ้นสุด=4 hours
+181/700=181/700
+0/50=0/50
+เพื่อนข้าม SV:=C.S Friends:
+ยังไม่มีเพื่อนข้ามเซิร์ฟ=No friends across the server
+ไม่มีคำขอเพิ่มเพื่อน=No friend request yet
+ไม่มีเพื่อนที่แนะนำได้=No friends to recommend
+แนะนำเพื่อน=Suggested
+Global Server 48=Global Server 48
+แตะป้อนชื่อเพื่อค้นหา=Tap to enter a name
+ค้นหา=Search
+ᴺᵍᵃᶜᴺʰⁱᵉⁿᶜʰᵘᵃ=ᴺᵍᵃᶜᴺʰⁱᵉⁿᶜʰᵘᵃ
+JiJo 007=Jijo 007
+โอเด้ง=โอเด้ง
+Geargun=Geargun
+เพิ่มทั้งหมด=Quick Apply
+เปลี่ยน=Refresh
+544ms=544ms
+จำนวนบล็อก:=Blocked:
+รายชื่อบล็อกว่างเปล่า=Block list is empty
+182/700=182/700
+จบการสนทนา=Close
+ยินดีต้อนรับกลับมา=Welcome back
+หนิงเฟิงจื้อ=Ning Feng Zhi
+21:44=21:44
+5=5
+1=1
+7=7
+1150%=1150%
+“$15.99”="$ 15.99"
+x60=x60
+x300=X300
+$2.99=$ 2.99
+x200=x200
+x680=x680
+226ms=226ms
+$6.99=$ 6.99
+คืนกำไร=Refund
+1880%=1880%
+รับรางวัลเพชร=Receive a diamond award
+31 วัน=31 days
+สุดคุ้ม=Bargain
+ใช้จ่ายอย่างเหมาะสม=Spend rationally
+เล่นเกมให้สนุก=Play reasonably
+3=3
+2300 ฿=2300 ฿
+ลด 40%=40% Off
+<color\=#DCE0FF>รางวัลฉลองผลผลิต Ⅸ</color>=<color\=#DCE0FF>Harvest Gift IX</color>
+249 ฿=249 ฿
+<color\=#DCE0FF>โบนัสพรีเมียม</color>=<color\=#DCE0FF>Premium Subsidy</color>
+729 ฿=729 ฿
+ลด 60%=60% Off
+<color\=#DCE0FF>รางวัลฉลองผลผลิต Ⅶ</color>=<color\=#DCE0FF>Harvest Gift VII</color>
+429 ฿=429 ฿
+<color\=#DCE0FF>กล่องประจำวันแสงสีศักดิ์สิทธิ์ทั้งเก้า V</color>=<color\=#DCE0FF>Nine-Colored Divine\nLight Daily Treat V</color>
+ลด 50%=50% Off
+<color\=#DCE0FF>กล่องประจำวันแสงสีศักดิ์สิทธิ์ทั้งเก้า IV</color>=<color\=#DCE0FF>Nine-Colored Divine\nLight Daily Treat IV</color>
+<color\=#DCE0FF>รางวัลฉลองผลผลิต Ⅳ</color>=<color\=#DCE0FF>Harvest Gift IV</color>
+179 ฿=179 ฿
+ลด 80%=80% Off
+<color\=#DCE0FF>กล่องประจำวันแสงสีศักดิ์สิทธิ์ทั้งเก้า III</color>=<color\=#DCE0FF>Nine-Colored Divine\nLight Daily Treat III</color>
+99 ฿=99 ฿
+ลด 85%=85% Off
+<color\=#DCE0FF>กล่องประจำวันแสงสีศักดิ์สิทธิ์ทั้งเก้า II</color>=<color\=#DCE0FF>Nine-Colored Divine\nLight Daily Treat II</color>
+<color\=#DCE0FF>กล่องประจำวันแสงสีศักดิ์สิทธิ์ทั้งเก้า I</color>=<color\=#DCE0FF>Nine-Colored Divine\nLight Daily Treat I</color>
+329 ฿=329 ฿
+<color\=#DCE0FF>เทพธิดาเก้าสี·แพ็กปลุกหนิงหรงหรง</color>=<color\=#DCE0FF>Ning Rongrong Summon Treat</color>
+19 ฿=19 ฿
+ลด 90%=90% Off
+<color\=#FFE569>จำกัดซื้อรายวัน</color><color\=#FFD117>(1/1) </color>=<color\=#FFE569>Daily Limit </color><color\=#FFD117>(1/1) </color>
+<color\=#FFE569>จำกัดซื้อรายวัน</color><color\=#FFD117>(0/1) </color>=<color\=#FFE569>Daily Limit </color><color\=#FFD117>(0/1) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(1/1) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(1/1) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(0/1) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(0/1) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(2/2) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(2/2) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(1/2) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(1/2) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(0/2) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(0/2) </color>
+<color\=#DCE0FF>รางวัลฉลองผลผลิตⅠ</color>=<color\=#DCE0FF>Harvest Gift I</color>
+<href\=6|565596398523010415><color\=#37ff53>[đường tam]</color></href>อัปวิญญาจารย์<href\=2|565596514647391507><color\=#dd7131>[หนิงหรงหรง]</color></href>ถึง <color\=#37ff53>4</color> ดาวแล้ว!=<href\=6|565596398523010415><color\=#37ff53>[đường tam]</color></href>Apsawin<href\=2|565596514647391507><color\=#dd7131>[Ning Rong Rong]</color></href>to <color\=#37ff53>4</color> Star!
+<color\=#61ddf7>đường tam:</color>จับทีมไปตีร่น<color\=#37ff53>ฝูงอสูรกลายพันธุ์</color>ที่ป่าสนธยา เป้าหมาย:<color\=#ff1919>มิติป่า Ⅲ·ฝูงอสูรฟีนิกซ์(มหานรก)</color><href\=11|565596630512440648><color\=#37ff53>[เข้าทีม]</href></color>=<color\=#61ddf7>đường tam:</color>Catch the team to play<color\=#37ff53>Mutated monster horde</color>At the Twilight Pao Forest:<color\=#ff1919>Pa Pa Dimension ⅲ · Phoenix demon (Maha Ni</color><href\=11|565596630512440648><color\=#37ff53>[Enter the team]</href></color>
+3  ชม.สิ้นสุด=3 hours
+251/700=251/700
+1179.8K=1179.8K
+2580=2080
+252/700=252/700
+57477/66090=57477/66090
+<color\=#696A73>กล่องเพชรแสงสีศักดิ์สิทธิ์ทั้งเก้า</color>=<color\=#696A73>Nine-Colored Divine Light\nSummon Pouch</color>
+<color\=#696A73>98</color>=<color\=#696A73>98</color>
+ลด 30%=30% Off
+<color\=#696A73>จำกัดซื้อรายวัน</color><color\=#696A73>(0/5) </color>=<color\=#696A73>Daily Limit </color><color\=#696A73>(0/5) </color>
+<color\=#696A73>จำกัดซื้อรายวัน</color><color\=#696A73>(1/5) </color>=<color\=#696A73>Daily Limit </color><color\=#696A73>(1/5) </color>
+<color\=#696A73>จำกัดซื้อรายวัน</color><color\=#696A73>(2/5) </color>=<color\=#696A73>Daily Limit </color><color\=#696A73>(2/5) </color>
+<color\=#696A73>จำกัดซื้อรายวัน</color><color\=#696A73>(3/5) </color>=<color\=#696A73>Daily Limit </color><color\=#696A73>(3/5) </color>
+<color\=#696A73>จำกัดซื้อรายวัน</color><color\=#696A73>(4/5) </color>=<color\=#696A73>Daily Limit </color><color\=#696A73>(4/5) </color>
+<color\=#696A73>จำกัดซื้อรายวัน</color><color\=#696A73>(5/5) </color>=<color\=#696A73>Daily Limit </color><color\=#696A73>(5/5) </color>
+<color\=#696A73>ญาณสัตว์ไพลิน</color>=<color\=#696A73>Spirit Orb</color>
+<color\=#696A73>ฟรี</color>=<color\=#696A73>Free</color>
+<color\=#FF0000>0</color>/1=<color\=#FF0000>0</color>/1
+<color\=#DCE0FF>บัตรอังคอร์เฉพาะเทพธิดาเก้าสี</color>=<color\=#DCE0FF>Exclusive Summon Ticket for Rainbow Goddess</color>
+<color\=#DCE0FF>โสมมังกรคริสตัล</color>=<color\=#DCE0FF>Crystal Ginseng</color>
+194ms=194ms
+38=38
+<color\=#FFE569>จำกัดซื้อรายเดือน</color><color\=#FFD117>(62/64) </color>=<color\=#FFE569>Monthly Limit </color><color\=#FFD117>(62/64) </color>
+<color\=#DCE0FF>กล่องมิตรภาพขั้น 4</color>=<color\=#DCE0FF>T4 Intimacy Box</color>
+30=30
+<color\=#DCE0FF>กล่อง EXP วิญญาจารย์</color>=<color\=#DCE0FF>Spiritmaster EXP Box</color>
+48=48
+<color\=#DCE0FF>เงินยมโลก 1 หมื่น</color>=<color\=#DCE0FF>10k Gold</color>
+<color\=#FFE569>จำกัดซื้อรายวีค</color><color\=#FFD117>(25/25) </color>=<color\=#FFE569>Weekly Limit </color><color\=#FFD117>(25/25) </color>
+<color\=#FFE569>จำกัดซื้อรายวีค</color><color\=#FFD117>(70/70) </color>=<color\=#FFE569>Weekly Limit </color><color\=#FFD117>(70/70) </color>
+<color\=#FFE569>จำกัดซื้อรายวีค</color><color\=#FFD117>(35/35) </color>=<color\=#FFE569>Weekly Limit </color><color\=#FFD117>(35/35) </color>
+188=188
+<color\=#FFE569>จำกัดซื้อ</color><color\=#FFD117>(10/10)</color>=<color\=#FFE569>Limit</color><color\=#FFD117>(10/10)</color>
+<color\=#DCE0FF>บัตรปลุกพลังวิญญาณ</color>=<color\=#DCE0FF>Summon Ticket</color>
+5/2=5/2
+ลด 25%=25% Off
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(30/30) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(30/30) </color>
+<color\=#DCE0FF>ญาณสัตว์บุษราคัม</color>=<color\=#DCE0FF>Fiery Spirit Orb</color>
+20=20
+x10=X10
+โบนัส 12 เท่า=12 times bonus
+<color\=#FFE569>จำกัดซื้อรายวัน</color><color\=#FFD117>(10/10) </color>=<color\=#FFE569>Daily Limit </color><color\=#FFD117>(10/10) </color>
+เริ่มในอีก 1 วัน=Start in 1 day
+299 ฿=299 ฿
+<color\=#DCE0FF>ไส้กรอกเห็ดบิน</color>=<color\=#DCE0FF>Volant Sausage</color>
+69 ฿=69 ฿
+<color\=#DCE0FF>ไส้กรอกถอนพิษ</color>=<color\=#DCE0FF>Detox Sausage</color>
+ลด 35%=35% Off
+<color\=#DCE0FF>แพ็ก STA Ⅲ</color>=<color\=#DCE0FF>Stamina Pack III</color>
+<color\=#DCE0FF>แพ็ก STAⅡ</color>=<color\=#DCE0FF>Stamina Pack II</color>
+ลด 75%=75% Off
+<color\=#DCE0FF>แพ็ก STAⅠ</color>=<color\=#DCE0FF>Stamina Pack I</color>
+<color\=#DCE0FF>ไส้กรอกชมพูเร้าใจ</color>=<color\=#DCE0FF>Pink Sausage</color>
+<color\=#696A73>ไส้กรอกฟื้นฟูจัมโบ้</color>=<color\=#696A73>Recovery Sausage</color>
+680=680
+20000=2000
+200=200
+หลังแพ้การต่อสู้จะคืน STA ทั้งหมด=Returns stamina if defeated in battle.
+คืนกำไร1100%=Rebate 1100%
+300=300
+60=60
+คืนกำไร1880%=Rebate 1880%
+￥  30=￥ 30
+31=31
+เหลือ 365 วัน=365 days left
+ต่อ\nอายุ=R\ne\nn\ne\nw
+ต่ออายุอัตโนมัติ=Auto Renew
+เปิดทั้งหมด=Open all
+หากแพ้การต่อสู้ จะคืน STA ทั้งหมด=Returns stamina if defeated in battle.
+รับได้ทุกวัน ต่อเนื่อง 31 วัน=Claim Daily for 31 day(s)
+รับทันที=Claim now
+ วัน= day
+<color\=#00CB13>เหลือ <color\=#00CB13>2</color> วัน</color>=<color\=#00CB13>left <color\=#00CB13>2</color> day</color>
+<color\=#934B1F>เหลือ <color\=#560004>2</color> วัน</color>=<color\=#934B1F>left <color\=#560004>2</color> day</color>
+<color\=#00CB13>เหลือ <color\=#00CB13>0</color> วัน</color>=<color\=#00CB13>left <color\=#00CB13>0</color> day</color>
+ต่อเนื่อง =continuously 
+โบนัส 1000%=1000% bonus
+แดนซิวหลัว=แดนซิวหลัว
+kermee1=kermee1
+579 ฿=579 ฿
+ทดลอง 3 วัน=3-day Trial
+x15=x15
+15=15
+แจกทุกวัน=        Daily Gift
+รับได้ทุกวัน ต่อเนื่อง 7 วัน=Can accept every day for 7 days
+姓氏40名字15=姓氏 40 名字 15
+3700 ฿=3700 ฿
+10000=10000
+1800 ฿=1800 ฿
+5000=5000
+2050=2050
+349 ฿=349 ฿
+1000=1000
+500=500
+35 ฿=35 ฿
+100=100
+290ms=290ms
+998=998
+4880=4880
+4358=4358
+<color\=#05060a>สะสม STA ได้สูงสุด </color><color\=#034800>800</color><color\=#05060a> แต้ม</color>=<color\=#05060a>Collecting the Sta to the maximum </color><color\=#034800>800</color><color\=#05060a> marking</color>
+<color\=#05060a>สิทธิ์เสก STA รายสัปดาห์</color><color\=#034800>9</color>ครั้ง=<color\=#05060a>Weekly Sta</color><color\=#034800>9</color>time
+21:45=21:45
+<color\=#05060a>สามารถซื้อสิทธิ์ท้าทายศึกวิญญาณรอบสะสมแต้มวันละ </color><color\=#034800>5 </color><color\=#05060a>ครั้ง</color>=<color\=#05060a>Able to buy the right to challenge the spirit of the spirits to accumulate points a day </color><color\=#034800>5 </color><color\=#05060a>time</color>
+<color\=#05060a>เพิ่มเพื่อนได้ </color><color\=#034800>100</color><color\=#05060a> คน</color>=<color\=#05060a>Can add friends </color><color\=#034800>100</color><color\=#05060a> person</color>
+<color\=#05060a>มอบหมายอัตโนมัติได้</color>(เปิดในวันที่ 29 ของการเปิดเซิร์ฟ)=<color\=#05060a>Automatic assignment</color>(Open on the 29th of the server)
+<color\=#05060a>เมื่อเข้าร่วมเส้นทางโต้วหลัวในแต่ละวันต่ำกว่า </color><color\=#034800>48</color><color\=#05060a> ครั้ง สามารถกู้คืนสิทธิ์ที่เหลือได้ภายหลัง</color>=<color\=#05060a>When participating in the route of Mato Lua each day is lower </color><color\=#034800>48</color><color\=#05060a> Times can recover the remaining rights later</color>
+<color\=#05060a>สามารถข้ามการต่อสู้สำรวจรังอสูรวันละ </color><color\=#034800>7</color><color\=#05060a> ครั้ง</color>=<color\=#05060a>Able to skip the demonic rays a day </color><color\=#034800>7</color><color\=#05060a> time</color>
+<color\=#05060a>มอบค่ามิตรภาพได้วันละ </color><color\=#034800>40</color><color\=#05060a> ครั้ง</color>=<color\=#05060a>Can give friendship values ​​a day </color><color\=#034800>40</color><color\=#05060a> time</color>
+<color\=#05060a>ซื้อ STA ได้วันละ </color><color\=#034800>6</color><color\=#05060a> ครั้ง</color>=<color\=#05060a>Can buy Sta a day </color><color\=#034800>6</color><color\=#05060a> time</color>
+<color\=#05060a>ซื้อสิทธิ์ท้าทายป่าสนธยาได้วันละ </color><color\=#034800>3</color><color\=#05060a> ครั้ง</color>=<color\=#05060a>Can buy the right to challenge the Twilight Forest a day </color><color\=#034800>3</color><color\=#05060a> time</color>
+<color\=#05060a>รับค่ามิตรภาพได้วันละ </color><color\=#034800>40</color><color\=#05060a> ครั้ง</color>=<color\=#05060a>Can receive friendship values ​​a day </color><color\=#034800>40</color><color\=#05060a> time</color>
+<color\=#05060a>สามารถใช้</color><color\=#034800>เหรียญหล่อ</color><color\=#05060a>เพื่อได้รับเกียรติยศสำนักถัง</color>=<color\=#05060a>Be able to use</color><color\=#034800>Handsome coin</color><color\=#05060a>In order to be honored</color>
+<color\=#05060a>ใช้<color\=#034800>เหรียญหล่อ</color></color><color\=#05060a>จะได้รับ</color><color\=#034800> 130% </color><color\=#05060a>เกียรติยศสำนักถัง</color>=<color\=#05060a>use<color\=#034800>Handsome coin</color></color><color\=#05060a>Will receive</color><color\=#034800> 130% </color><color\=#05060a>Honor of the Bureau of Tank</color>
+<color\=#05060a>กวาดล้างเส้นทางโต้วหลัวได้</color>=<color\=#05060a>Can clear the path</color>
+NEW=New
+<color\=#05060a>ปลดล็อกฟังก์ชั่นซื้อไส้กรอกพลังจัมโบ้ในร้านเพชร</color>=<color\=#05060a>Unlock the function to buy jumbo power sausage in the diamond shop.</color>
+<color\=#05060a>รวมสวัสดิการทั้งหมดของ</color><color\=#034800>เจ้าหอ</color><color\=#05060a></color>=<color\=#05060a>All benefits of </color><color\=#034800>Master I</color><color\=#05060a> are included.</color>
+ช่างใหญ่=Master II
+<color\=#05060a>สวัสดิการ</color><color\=#034800>ช่างใหญ่</color>=<color\=#034800>Master II </color><color\=#05060a>Position Benefits</color>
+11=11
+_______________=_______________
+￥6=￥ 6
+64980=64980
+เพชรที่แถมขณะเติมเงินครั้งแรกจะ=Diamonds that are free while top -up will
+พิเศษ:=Current:
+ปกติ:=Original:
+โบนัส\nพิเศษ=bonus\nspecial
+ได้เลื่อนเป็น=to be promoted to
+ แต้มเกียรติยศสำนักถัง= Merit
+ได้รับอีก=Gain 
+0=0
+<color\=#696A73>จำกัดซื้อรายวีค</color><color\=#696A73>(0/8) </color>=<color\=#696A73>Weekly Limit </color><color\=#696A73>(0/8) </color>
+<color\=#696A73>จำกัดซื้อรายวีค</color><color\=#696A73>(1/8) </color>=<color\=#696A73>Weekly Limit </color><color\=#696A73>(1/8) </color>
+<color\=#696A73>จำกัดซื้อรายวีค</color><color\=#696A73>(2/8) </color>=<color\=#696A73>Weekly Limit </color><color\=#696A73>(2/8) </color>
+<color\=#696A73>จำกัดซื้อรายวีค</color><color\=#696A73>(3/8) </color>=<color\=#696A73>Weekly Limit </color><color\=#696A73>(3/8) </color>
+<color\=#696A73>จำกัดซื้อรายวีค</color><color\=#696A73>(4/8) </color>=<color\=#696A73>Weekly Limit </color><color\=#696A73>(4/8) </color>
+<color\=#696A73>จำกัดซื้อรายวีค</color><color\=#696A73>(5/8) </color>=<color\=#696A73>Weekly Limit </color><color\=#696A73>(5/8) </color>
+<color\=#696A73>จำกัดซื้อรายวีค</color><color\=#696A73>(6/8) </color>=<color\=#696A73>Weekly Limit </color><color\=#696A73>(6/8) </color>
+<color\=#696A73>จำกัดซื้อรายวีค</color><color\=#696A73>(7/8) </color>=<color\=#696A73>Weekly Limit </color><color\=#696A73>(7/8) </color>
+<color\=#696A73>จำกัดซื้อรายวีค</color><color\=#696A73>(8/8) </color>=<color\=#696A73>Weekly Limit </color><color\=#696A73>(8/8) </color>
+<color\=#696A73>หลักฐานสายใย</color>=<color\=#696A73>Bond Token</color>
+<color\=#696A73>1200</color>=<color\=#696A73>1200</color>
+<color\=#696A73>STA</color>=<color\=#696A73>Stamina</color>
+<color\=#696A73>จำกัดซื้อรายวีค</color><color\=#696A73>(0/2) </color>=<color\=#696A73>Weekly Limit </color><color\=#696A73>(0/2) </color>
+<color\=#696A73>จำกัดซื้อรายวีค</color><color\=#696A73>(1/2) </color>=<color\=#696A73>Weekly Limit </color><color\=#696A73>(1/2) </color>
+<color\=#696A73>จำกัดซื้อรายวีค</color><color\=#696A73>(2/2) </color>=<color\=#696A73>Weekly Limit </color><color\=#696A73>(2/2) </color>
+980=980
+<color\=#FFE569>จำกัดซื้อรายเดือน</color><color\=#FFD117>(16/16) </color>=<color\=#FFE569>Monthly Limit </color><color\=#FFD117>(16/16) </color>
+<color\=#FFE569>จำกัดซื้อรายวีค</color><color\=#FFD117>(96/96) </color>=<color\=#FFE569>Weekly Limit </color><color\=#FFD117>(96/96) </color>
+243=243
+x50=X50
+<color\=#696A73>สัญญาถังซานสำนักถัง</color>=<color\=#696A73>Tang Sect Tang San Shard</color>
+<color\=#FFDB4D>ยังต้องใช้ 850\nตราเก็บเกี่ยวเปิด</color>=<color\=#FFDB4D>Still need to use 850 to open</color>
+<color\=#696A73>เลือกกะโหลก SSR</color>=<color\=#696A73>SSR Skull Choice</color>
+880=880
+<color\=#DCE0FF>บัตรปลุกพลัง SSR</color>=<color\=#DCE0FF>SSR Summon Card</color>
+<color\=#DCE0FF>เลือกกระดูกขา 1★</color>=<color\=#DCE0FF>1 ★ Leg Spiritbone Choice</color>
+440=440
+<color\=#DCE0FF>เลือกกระดูกแขน 1★</color>=<color\=#DCE0FF>1 ★ Arm Spiritbone Choice</color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(4/4) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(4/4) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(3/4) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(3/4) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(2/4) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(2/4) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(1/4) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(1/4) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(0/4) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(0/4) </color>
+<color\=#DCE0FF>หยกกระดูกวิบัติ</color>=<color\=#DCE0FF>Crimson Fossil</color>
+<color\=#DCE0FF>วงแหวนจำลอง</color>=<color\=#DCE0FF>Halo Replica</color>
+<color\=#DCE0FF>หลักฐานสัญญา</color>=<color\=#DCE0FF>Proof of Promise</color>
+130=130
+x2=x2
+<color\=#DCE0FF>กล่องสมุนไพร 5 หมื่นปี</color>=<color\=#DCE0FF>50k Year Rare Herb Box</color>
+<color\=#DCE0FF>กล่องวัสดุอาวุธลับ</color>=<color\=#DCE0FF>Hidden Weapon Material Box</color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(5/5) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(5/5) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(4/5) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(4/5) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(3/5) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(3/5) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(2/5) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(2/5) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(1/5) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(1/5) </color>
+<color\=#FFE569>โปรโมชั่น</color><color\=#FFD117>(5/5) </color>=<color\=#FFE569>Purchase Limit </color><color\=#FFD117>(0/5) </color>
+<color\=#DCE0FF>กล่องสมุนไพร</color>=<color\=#DCE0FF>Rare Herb Box</color>
+7 วัน8 ชม.=7 days 8 hours
+ร้านค้าจะปิดใน=The shop will close in
+<color\=#696A73>ไส้กรอกหมึกดำสุดขั้ว</color>=<color\=#696A73>Jasper Sausage</color>
+<color\=#696A73>เสียงบุหรงกระดูกลำตัว</color>=<color\=#696A73>Phoenix's Shriek Trunk</color>
+<color\=#696A73>2600</color>=<color\=#696A73>2600</color>
+x100=X100
+<color\=#FFDB4D>ยังต้องใช้ 2050\nตราเก็บเกี่ยวเปิด</color>=<color\=#FFDB4D>Still need to use 2050 to open</color>
+<color\=#696A73>เทียบเชิญยมบาล</color>=<color\=#696A73>Yama's Invitation</color>
+x27=x27
+<color\=#696A73>เหล็กกล้า</color>=<color\=#696A73>Centsteel</color>
+96=96
+<color\=#696A73>1500</color>=<color\=#696A73>1500</color>
+<color\=#FFDB4D>อีก 15 วันเปิด</color>=<color\=#FFDB4D>Another 15 days</color>
+<color\=#696A73>รางวัลวงแหวน 30000 ปี</color>=<color\=#696A73>30k Year Gen. Halo Gift</color>
+<color\=#DCE0FF>กล่องเกียรติยศ</color>=<color\=#DCE0FF>Honor Box</color>
+18000=18000
+450=450
+2500=2500
+<color\=#DCE0FF>ไส้กรอกสะท้อนจัมโบ้</color>=<color\=#DCE0FF>Clone Sausage</color>
+<color\=#DCE0FF>กล่องสมุนไพร 1 หมื่นปี</color>=<color\=#DCE0FF>10k Year Rare Herb Box</color>
+382ms=382ms
+ลด 34%=34% Off
+<color\=#DCE0FF>กล่องสมุนไพรพันปี</color>=<color\=#DCE0FF>1k Year Rare Herb Box</color>
+150=150
+6000=6000
+<color\=#FFE569>จำกัดซื้อในซีซัน</color><color\=#FFD117>(1/1) </color>=<color\=#FFE569>Season Purchase </color><color\=#FFD117>(1/1) </color>
+<color\=#FFE569>จำกัดซื้อในซีซัน</color><color\=#FFD117>(0/1) </color>=<color\=#FFE569>Season Purchase </color><color\=#FFD117>(0/1) </color>
+<color\=#FFE569>จำกัดซื้อในซีซัน</color><color\=#FFD117>(8/8) </color>=<color\=#FFE569>Season Purchase </color><color\=#FFD117>(8/8) </color>
+<color\=#FFE569>จำกัดซื้อในซีซัน</color><color\=#FFD117>(7/8) </color>=<color\=#FFE569>Season Purchase </color><color\=#FFD117>(7/8) </color>
+<color\=#FFE569>จำกัดซื้อในซีซัน</color><color\=#FFD117>(6/8) </color>=<color\=#FFE569>Season Purchase </color><color\=#FFD117>(6/8) </color>
+<color\=#FFE569>จำกัดซื้อในซีซัน</color><color\=#FFD117>(5/8) </color>=<color\=#FFE569>Season Purchase </color><color\=#FFD117>(5/8) </color>
+<color\=#FFE569>จำกัดซื้อในซีซัน</color><color\=#FFD117>(4/8) </color>=<color\=#FFE569>Season Purchase </color><color\=#FFD117>(4/8) </color>
+<color\=#FFE569>จำกัดซื้อในซีซัน</color><color\=#FFD117>(3/8) </color>=<color\=#FFE569>Season Purchase </color><color\=#FFD117>(3/8) </color>
+<color\=#FFE569>จำกัดซื้อในซีซัน</color><color\=#FFD117>(2/8) </color>=<color\=#FFE569>Season Purchase </color><color\=#FFD117>(2/8) </color>
+<color\=#FFE569>จำกัดซื้อในซีซัน</color><color\=#FFD117>(1/8) </color>=<color\=#FFE569>Season Purchase </color><color\=#FFD117>(1/8) </color>
+<color\=#FFE569>จำกัดซื้อในซีซัน</color><color\=#FFD117>(0/8) </color>=<color\=#FFE569>Season Purchase </color><color\=#FFD117>(0/8) </color>
+<color\=#696A73>จำกัดซื้อในซีซัน</color><color\=#696A73>(1/1) </color>=<color\=#696A73>Season Purchase </color><color\=#696A73>(1/1) </color>
+<color\=#696A73>จำกัดซื้อในซีซัน</color><color\=#696A73>(0/1) </color>=<color\=#696A73>Season Purchase </color><color\=#696A73>(0/1) </color>
+<color\=#DCE0FF>สุ่มวิญญาจารย์ SSR</color>=<color\=#DCE0FF>Random SSR Spiritmaster</color>
+slark=SLARK
+78=78
+x500=x500
+<color\=#DCE0FF>หัวไชเท้า</color>=<color\=#DCE0FF>Radish</color>
+<color\=#FFE569>จำกัดซื้อรายเดือน</color><color\=#FFD117>(10/16) </color>=<color\=#FFE569>Monthly Limit </color><color\=#FFD117>(10/16) </color>
+16=16
+301ms=301ms
+กุหลาบเลือดฟ้า=Blue rose
+12345=12345
+/=/ /
+กิจกรรมจำกัดซื้อ(5/5)=Activities Limited Buy (5/5)
+เลิกขายใน 1 วัน=Stop selling in 1 day
+คนโง่ในผลึก=Polymath
+เหลือสิทธิ์ซื้อ:=Purchase Attempts:
+0 ครั้ง=0 times
+ความคืบหน้าปรารถนาปัจจุบัน:=Current Wish Progress:
+เหลือเวลา : 1 วัน 10 ชม.=Time left: 1 day 10 hours
+0/1=0/1
+กิจกรรมครั้งถัดไป : วัน 01 เดือน 11 06:00:00-วัน 11 เดือน 11 06:00:00=Next event: Day 01 months 11 06: 00: 00-11 months 11 06:00:00
+ทางสู่ความสงบ=Raging Wind
+งานแต่งงานในฝัน=Dream Wedding
+ฟังเพลงกลางวัน=Sing as you like!
+19 ฿+2=19 ฿ +2
+สัญญา 5 ปี=A Ten-year Promise
+21:46=21:46
+69 ฿+4=69 ฿ +4
+แสงเกสรทอง=Golden Blossom in the Rosy Clouds
+เหล็กลาวา=Cast Rock, Melt Iron
+อโลหะอัคคี=Rhinoceros Fire Kirin
+ปณิธานสูงส่ง=Gallant and Free-spirited
+นกนางแอ่นโบยบิน=Swirling Swallow
+เสาวรสกับมะนาว=Lemonade
+จังหวะรัก=Dynamic Rhythm
+เสียงเสน่ห์ดารา=Starry Charm Sound
+แม่มดฟักทอง=Pumpkin Witch
+ดอกบัวพ้นน้ำ=Lotus rising from Water
+เปลวไฟกลางวัน=Rosette
+ซากุระหิมะ=Frost Blossom
+ข้าบ้ากระหน่ำ=Pursuit of Supremacy
+บทเพลงแห่งเคลต์=Song of the Celts
+0/4=0/4
+1/4=1/4
+2/4=2/4
+3/4=3/4
+4/4=4/4
+ปณิธานนิรนาม=Nameless Ambition
+น่าเกรงขาม=Vigorous Tiger
+สิงคีราตรี=Night Glow Gold
+บันทึกลวงตา=Mystic Muse
+ซานตา=Santa Claus
+ค้อน ณ ฮ่าวเทียน=Young Hammerer
+ปกรณัมเพลิงวาตะ=Wind's Whisper
+429 ฿+8=429 ฿ +8
+1120 ฿=1120 ฿
+กระบี่ย่ำบทเพลง=Carefree Sword
+บัลลังก์อิ๋นเยว่=Silver Moon High Throne
+งานเลี้ยงสีแดง=Scarlet Scourge
+ฉลองราตรีหิมะ=Snowy Night Revelry
+คลื่นหิมะเมฆา=Cloud Surge
+เงาล่าลม=Wind Chasing Green Shadow
+คาเฟ่ทะเลลึก=Deep Sea Cafe
+กระเรียนสู่เซียน=Solitary Crane
+กระต่ายรับใบไม้ผลิ=Bunny's New Year Blessing
+เพลงรักแรก=First Snow Long Song
+ยอดพธูแห่งยุค=Glamorous
+ดาวกระจาย=Starfall
+อำนาจสูงส่ง=High Nobility
+ผ้าบางลอยระบำ=Light Veil Dance
+ราชหฤทัยนิรันดร์=Where does your heart belong
+รุ่นยอดฝีมือ=The Golden Generation
+หนึ่งในแผ่นดิน=I'm the only master!
+คลื่นปรารถนา=Wish turns into waves
+สุริยะแสงจันทร์=Moonlight Monologue
+สายน้ำใบไม้ผลิ=Spring Water Radiance
+กระดิ่งหิมะ=Jingle Bells
+สาวแรกรุ่น=Youth is the best years of a person's life
+คำขวัญรัก=Heartbeat Declaration
+รามูเนะ=Melon Soda
+ร่องรอยเงาเสน่หา=Phantom Traces
+0/10=0/10
+ดวงอาทิตย์เที่ยงคืน=Dawnbringer
+729 ฿+20=729 ฿ +20
+เงามืดตกต่ำ=Shadowfall
+เงาเสน่ห์สีชาด=Scarlet Phantom
+เจ้าป่า=Lord of the Forest
+ผีเสื้อลวงเงา=Shadowy Enchantress Butterfly
+ครอบครัวแสงศักดิ์สิทธิ์=Favored by the Holy Light
+การเตือนจากชายแดน=Edge Alert
+729 ฿+12=729 ฿ +12
+208ms=208ms
+1750 ฿=1750 ฿
+มหาสมุทรเทพผีเสื้อ=Butterfly Luan in the Sea
+คลื่นฟ้าคราม=Azure Sea Ripple
+ดวงใจเทพเจ้าสายฟ้า=Heart of the Thunder God
+กระบี่พุ่งฟ้า=Falling Sky Wild Sword
+เหตุการณ์วุ่นวาย=Era of Turmoil
+ราตรีนิรันดร์ลอบกัด=Nightfall Devourer
+ครีบคริสตัลบาง=Crystal Light Fin
+สมุทรลอยฟ้า=Floating in the vast sea
+ระเบียบราตรี=Emperor Night Order
+212ms=212ms
+สัญญาโต้วหลัว=      Lifetime Promise
+กู้รางวัลคืน=Retrieve
+แพ็กรายวัน=Daily Pack
+เติม STA=Stamina Delivery
+17:00-21:00=17: 00-21: 00
+10:00-14:00=10: 00-14: 00
+รับแล้ว:60=Received: 60
+1  ชม.สิ้นสุด=1 hour ends
+23:22=23:22
+268/700=268/700
+800%=800%
+ของสะสมพระสุเมรุ·ถังเฮ่าⅢ=Xumi Tang Hao's Treasure III
+900%=900%
+ของสะสมพระสุเมรุ·ถังเฮ่าⅡ=Xumi Tang Hao's Treasure II
+1050%=1050%
+จำกัดซื้อรายวัน(1/1)=Daily Limit (1/1)
+ของสะสมพระสุเมรุ·ถังเฮ่าⅠ=Xumi Tang Hao's Treasure I
+ขายหมดแล้ว=Sold out
+จำกัดซื้อรายวัน(0/1)=Daily Limit (0/1)
+สัญญามหัศจรรย์ SR=SR Omni Shard
+99 ฿ ซื้อทั้งหมด=99 ฿ Buy all
+ลด=reduce
+15%=15%
+เปลี่ยนวิญญาจารย์ปรารถนา=Change Wish Spiritmaster
+ใช้โกลด์กู้=Basic
+ใช้เพชรกู้=Deluxe
+หากใช้เพชร จะกู้คืนรางวัลส่วนใหญ่ของ 5 วันได้=Deluxe Retrieval can recover most of the resources in 5 days.
+กู้คืน=Retrieve
+เควสรายวัน=Daily Quest
+80=80
+ปลูกสวนสมุนไพร=Grow Herbs
+2=2
+240=240
+สิทธิ์ท้าทายที่คืน\nใช้ได้วันต่อวันเท่านั้น=Return challenge attempts\nAvailable on the day
+ประกาศจับในโลก=Most Wanted
+ป่าซิงโต้ว=Aster Forest
+6=6
+886ms=886MS
+กู้คืนได้        ครั้ง=Attempts\n
+MYN WOW=Myn Wow
+4000=4000
+299ms=299ms
+1600=1600
+หากใช้โกลด์ จะกู้คืนรางวัลส่วนน้อยของ 5 วันได้=Basic Retrieval can recover a little bit of the 5 days.
+21=21
+19=19
+18=18
+17=17
+14=14
+13=13
+12=12
+8=8
+
+66=66
+4=4
+8888=8888
+x66=x66
+x1=x1
+x8888=x8888
+50000 ปี=50000 years
+40000 ปี=40000 years
+วงแหวนจำลอง=Halo Replica
+23:34=23:34
+[ระเบิด·บงกชพระพิโรธ]DMGสุดท้ายเพิ่มขึ้น50%=[Burst · Wrath of Buddha Lotus] Final DMG increased by 50%.
+หลัง<#comm&comm_sp_0913> LV+30 เป็นผล=<#comm&comm_sp_0913> Effective after Level 30
+ทุกครั้งที่ตนเองปล่อยอาวุธลับในแขนเสื้อ,ลด[ระเบิด·บงกชพระพิโรธ]1รอบ[ท่ารวมพลัง]=Every time the holder releases a hand technique, it reduces [Burst · Wrath of Buddha Lotus] by 1 turn [Charge]
+หลัง<#comm&comm_sp_0913> LV+40 เป็นผล=<#comm&comm_sp_0913> Effective after Level 40
+[ระเบิด·บงกชพระพิโรธ]DMGสุดท้ายเพิ่มขึ้น100%=[Burst · Wrath of Buddha Lotus] Final DMG increased by 100%.
+หลัง<#comm&comm_sp_0913> LV+60 เป็นผล=<#comm&comm_sp_0913> Effective after Level 60
+ผู้ถือครองแนบ[ระเบิด·บงกชพระพิโรธ]ในช่วง[ท่ารวมพลัง]ใช้อาวุธลับ[บงกชพระพิโรธ]กับเป้าหมายทำให้เกิดDMG120%ของจำนวนDMGรวม=[Burst · Wrath of Buddha Lotus] adds additional DMG equal to 120% of the total DMG dealt to the [Wrath of Buddha Lotus] target by the holder using a H.Wpn during [Charge]
+หลัง<#comm&comm_sp_0913> LV+80 เป็นผล=<#comm&comm_sp_0913> Effective after Level 80
+ฝ่ายศัตรูทุกการตายของหน่วย1ค\nน,ผู้ถือครองจะแนบ[ระเบิด·บงกชพระพิโรธ]เพิ่มในช่วง[ท่ารวมพลัง]ใช้อาวุธลับ[บงกชพระพิโรธ]กับเป้าหมายทำให้เกิดDMG120%ของจำนวนDMGรวม=The enemy of every unit death 1\nNon, the holders will attach [bomb · Bongkot Phra Roroth] increased during the [Ruam Power]. Use a secret weapon [Bongkot Rorotha] with the target, resulting in DMG120%of the total number DMG.
+หลัง<#comm&comm_sp_0913> LV+120 เป็นผล=<#comm&comm_sp_0913> Effective after Level 120
+หลัง<#comm&comm_sp_0913> LV+10 เป็นผล=<#comm&comm_sp_0913> Effective after Level 10
+4<#comm&star>:=4<#comm&star>:
+1<#comm&star2>:=1<#comm&star2>:
+2<#comm&star2>:=2<#comm&star2>:
+4<#comm&star2>:=4<#comm&star2>:
+5<#comm&star2>:=5<#comm&star2>:
+4<#comm&star3>:=4<#comm&star3>:
+[ระเบิด·บงกชพระพิโรธ]DMGสุดท้ายเพิ่มขึ้น25%=[Burst · Wrath of Buddha Lotus] Final DMG increased by 25%.
+วิญญาจารย์ใช้บงกชพระพิโรธสร้าง [DMGอาวุธลับ] <color\=#f5b428>871</color>,<color\=#f5b428>000</color> แก่หน่วยศัตรู,หลังจากใช้สกิลนี้จะสับเปลี่ยนเป็น [ระเบิด·บงกชพระพิโรธ] และเข้าสู่[ท่ารวมพลัง] <color\=#f5b428>5</color> รอบ;\nเมื่อวิญญาจารย์ใช้[ระเบิด·บงกชพระพิโรธ]ทำให้เกิด [DMGอาวุธลับ] <color\=#f5b428>2</color>,<color\=#f5b428>613</color>,<color\=#f5b428>000</color> แก่ศัตรูทั้งหมด,หลังจากที่สกิลนี้สับเปลี่ยนกลับเป็น[บงกชพระพิโรธ]=The Hidden Weapon Spiritmaster uses Wrath of Buddha Lotus to deal <color\=#f5b428>871,100</color> Hidden Weapon DMG to a single enemy. After use, this skill switches to [Burst · Wrath of Buddha Lotus] and enters a <color\=#f5b428>5</color> -turn [Charge];\When the H.Wpn Spiritmaster uses [Burst · Wrath of Buddha Lotus],it deals <color\=#f5b428>2</color>,<color\=#f5b428>613</color>,<color\=#f5b428>000</color> H.Wpn DMG to all the enemies, after which the skill switches back to [Wrath of the Buddha Lotus].
+244ms=244ms
+แต้ม=Score
+กระสุน 2 แต้ม=2 Ammo
+ไม่มี CD=No CD
+สกิล=H.Wpn Skill
+2.96%=2.96%
+CRIT DMG=CRIT DMG
+70738=70738
+HP=HP
+8842=8842
+DEF=DEF
+11494=11494
+ATK อาวุธลับ=H.Wpn ATK
+คุณสมบัติ=H.Wpn Stats
+ตัวอย่างหล่อ=Forge Preview
+หล่อ=Forge
+<color\=#B00808>0</color>/2=<color\=#B00808>0</color>/2
+บงกชพระพิโรธ=Fury Lotus
+270/700=270/700
+2614=2614
+23:35=23:35
+ฝูงอสูรฟีนิกซ์（มหานรก）=ฝูงอสูรฟีนิกซ์ (Hell)
+MYN WOW<color\=#0078ff>(สำนักเดียวกัน)</color>=Myn Wow<color\=#0078ff>(Same Sect)</color>
+62397/66090=62397/66090
+2102=2102
+1407.7K=1407.7K
+13/700=13/700
+11:03=11:03
+เริ่มใน 22 ชม.=Start in 22 hours
+ฝึกขั้วโลกเหนือ=Arctic Endurance
+กำลังสมัคร=Sign Up
+ถังซานสำนักถัง=Tang Sect Tang San
+ยวี่เทียนซิน=Yu Tianxin
+<href\=6|565596397115998940><color\=#37ff53>[yuji]</color></href>อัปวิญญาจารย์<href\=2|565596555519434624><color\=#dd7131>[ถังซานสำนักถัง]</color></href>ถึง <color\=#37ff53>6</color> ดาวแล้ว!=<href\=6|565596397115998940><color\=#37ff53>[Yuji]</color></href>Apsawin<href\=2|565596555519434624><color\=#dd7131>[Tang Sect Tang San]</color></href>to <color\=#37ff53>6</color> Star!
+<href\=6|565596397115998940><color\=#37ff53>[yuji]</color></href>อัปวิญญาจารย์<href\=2|565596476004694608><color\=#dd7131>[ยวี่เทียนซิน]</color></href>ถึง <color\=#37ff53>5</color> ดาวแล้ว!=<href\=6|565596397115998940><color\=#37ff53>[Yuji]</color></href>Apsawin<href\=2|565596476004694608><color\=#dd7131>[Yu Tianxin]</color></href>to <color\=#37ff53>5</color> Star!
+Ncs=Ncs
+11:04=11:04
+Min Khant JR=Min Khant JR
+153ms=153ms
+<color\=#61ddf7>ฉัน:</color>รีบส่งดวงดีให้ชาวสำนักด้วยสิ=<color\=#61ddf7>I:</color>Hurry and send good luck to the people.
+คุย=talk
+11:19=11:19
+75/700=75/700
+2212=2212
+65752/66090=65752/66090
+ราย\nวัน=Daily
+จำกัด\nเวลา=Timed
+ผล\nงาน=Achive\nments
+ปฏิ\nทิน=Calen\ndar
+รีเซ็ตเควสทุกวัน ในเวลา <color\=#034800>5:00</color> สะสมค่าแอ็คทีฟได้=Quest refresh daily at <color\=#034800>5:00</color>
+เคลียร์ฝึกฝนเกิงซิน1ครั้ง=Complete 1x Genxin Trials.
+คืบหน้า:=Progress:
+ค่าแอ็คทีฟ=AP
+สำรวจรังอสูรและชนะ 1 ครั้ง=Win in Den Exploration 1x
+มอบค่ามิตรภาพ 5 ครั้ง=Send Friendship Points 5x
+0/5=0/5
+เคลียร์ประกาศจับในโลก 3 ครั้ง=Clear Most Wanted 3x
+0/3=0/3
+ปลูกในสวนสมุนไพร 1 ครั้ง=Grow Herbs in Sect Garden 1x
+912=912
+วีคนี้แอ็คทีฟ=Weekly AP
+120=120
+180=180
+365=365
+550=550
+825=825
+1100=1100
+ขณะนี้แอ็คทีฟ:=Current AP:
+ทุกถึง 500 จะได้รับบัตรปลุกพลังวิญญาณ=Summon Tickets guaranteed for every 500 AP
+<color\=#FDDE77>461</color>/500=<color\=#FDDE77>461</color>/500
+มีบัตรแล้ว=Tickets
+เคลียร์เควสสำนักรายสัปดาห์ 10 ครั้ง=Clear sect weekly quest 10x
+เคลียร์เควสสำนักรายสัปดาห์ 5 ครั้ง=Clear sect weekly quest 5x
+990=990
+1/1=1/1
+ล็อกอินเกมทุกวัน=Daily Login
+สำรวจรังอสูรและชนะ 4 ครั้ง=Win in Den Exploration 4x
+200/200=200/200
+ใช้ 200 STA=Consume 200 Stamina
+400/400=400/400
+ใช้ 400 STA=Consume 400 Stamina
+215=215
+12/12=12/12
+ผ่านเส้นทางโต้วหลัว 12 ครั้ง=Clear Douluo Path 12x
+11:20=11:20
+6/6=6/6
+ผ่านเส้นทางโต้วหลัว 6 ครั้ง=Clear Douluo Path 6x
+3/3=3/3
+ผ่านป่าล่าวิญญาณ 3 ครั้ง=Clear Hunting Forest 3x
+ผ่านป่าล่าวิญญาณ 6 ครั้ง=Clear Hunting Forest 6x
+ผ่านโรงเรียนฝึกฝน 1 ครั้ง=Clear Academy Training 1x
+9/9=9/9
+ผ่านป่าล่าวิญญาณ 9 ครั้ง=Clear Hunting Forest 9x
+ผ่านโรงเรียนฝึกฝน 3 ครั้ง=Clear Academy Training 3x
+ผ่านป่าสนธยา 1 ครั้ง=Clear Sunset Forest 1x
+ผ่านป่าสนธยา 2 ครั้ง=Clear Sunset Forest 2x
+ผ่านป่าสนธยา 3 ครั้ง=Clear Sunset Forest 3x
+ผ่านด่านป่าซิงโต้ว 4 ครั้ง=Clear Aster Forest 4x
+ผ่านด่านป่าซิงโต้ว 2 ครั้ง=Clear Aster Forest 2x
+ปลุกพลังวิญญาณยุทธ์ 1 ครั้ง=Summon Spiritmasters 1x
+ปลุกพลังวิญญาณยุทธ์ 2 ครั้ง=Summon Spiritmasters 2x
+ซื้อ STA 1 ครั้ง=Purchase Stamina 1x
+ซื้อ STA 2 ครั้ง=Purchase Stamina 2x
+ใช้ 200 เพชร=Use Diamond 200x
+ผ่านความทรงจำวิญญาจารย์ 3 ครั้ง=Clear Spiritmaster Memoir 3x
+ใช้ 400 เพชร=Use Diamond 400x
+136ms=136ms
+ชมการต่อสู้ 1 ครั้ง=Spectate Duel 1x
+5/5=5/5
+ปลุกพลังวิญญาณยุทธ์ 5 ครั้ง=Summon Spiritmasters 5x
+548ms=548ms
+10/10=10/10
+ปลุกพลังวิญญาณยุทธ์ 10 ครั้ง=Summon Spiritmasters 10x
+20/20=20/20
+ปลุกพลังวิญญาณยุทธ์ 20 ครั้ง=Summon Spiritmasters 20x
+76/700=76/700
+ฮาวเทียน=ฮาวเทียน
+NguyễnDoãn=Nguyễndoãn
+<color\=#5c3600>พยายามเอาชนะ</color>บอสประกาศจับในแนวหน้าสนามรบด่านเจียหลิง เพื่อรับ<color\=#5c3600>รางวัลเฉพาะบอส</color>มากมาย ได้รับ<color\=#5c3600>รางวัลดรอปกระดูกวิญญาณ!</color>สุดล้ำค่า=<color\=#5c3600>Try to overcome</color>Boss announced the arrest in front of the Jia Ling Battlefield to receive<color\=#5c3600>Boss only</color>Many received<color\=#5c3600>Spirit bone award!</color>Precious
+11:35=11:35
+ระยะเวลา:วันอาทิตย์-20:00 - 20:39=Event Time: Sunday 20:00-20:39
+ระยะเวลา:วันอังคาร,วันพฤหัส,วันเสาร์,วันอาทิตย์-10:00 - 23:58=Event Time: Tuesday, Thursday, Saturday, Sunday 10:00-23:58
+การฝึกฝนเสาศักดิ์สิทธิ์=Sacred Pillar Trial
+เปิดเมื่อ:ฟังก์ชั่นยังไม่เปิด=Requires: Function not yet unlocked.
+ประกาศจับสนามรบ=Battlefield Bounty
+ระยะเวลา:วันจันทร์,วันพุธ,วันศุกร์,วันอาทิตย์-11:00 - 23:59=Event Time: Monday, Wednesday, Friday, Sunday 11:00-23:59
+โลกประกาศจับ=Most Wanted
+ สิทธิ์:ไม่จำกัด= Attempts: Unlimited
+ระยะเวลา:วันศุกร์-06:00 - 20:32=Event Time: Friday 06:00-20:32
+แชท=Chat
+78/700=78/700
+<color\=#5c3600>พยายามเอาชนะ</color>บอสประกาศจับทั่วทุกมุมโลก รับ<color\=#5c3600>รางวัลเจ้าของบอส</color>จำนวนมาก และได้รับรางวัลดรอป<color\=#5c3600>กระดูกวิญญาณที่ล้ำค่าอย่างยิ่ง!</color>=<color\=#5c3600>Try to overcome</color>Boss announced to catch all over the world.<color\=#5c3600>Boss owner</color>A lot and received the drop award<color\=#5c3600>The very precious spirit bones!</color>
+<href\=6|565596403772287022><color\=#37ff53>[เตาเสี้ยวฟาชุ่ย]</color></href>ได้รับวิญญาจารย์SSR<href\=2|565596404084533606><color\=#dd7131>[ยวี่เทียนซิน]</color></href>จากการปลุกพลังวิญญาณยุทธ์!=<href\=6|565596403772287022><color\=#37ff53>[Fresh Fash Tui]</color></href>Received ssr<href\=2|565596404084533606><color\=#dd7131>[Yu Tianxin]</color></href>From awakening the power of the strategy!
+เวลาสมัคร:วันเสาร์-6:30~9:29,15:30~17:29=Sign-up time: Saturday 6:30-9:29, 15:30-17:29
+ระยะเวลา:วันเสาร์-10:00~14:20,18:00~20:20=Event Time: Saturday 10:00-14:20, 18:00-20:20
+เข้าร่วม<color\=#5c3600>เสาศักดิ์สิทธิ์ฝึกฝน</color> ท้าทายพรหมยุทธ์ 7 เสาศักดิ์สิทธิ์บนเกาะเทพสมุทร เพื่อรับ<color\=#5c3600>รางวัลมาตรฐาน</color>จำนวนมาก พัฒนาตนเองในการท้าทายต่อเนื่อง!=participate<color\=#5c3600>Sacred Pillar Trial</color> Challenge the Brahma Strategic 7, the sacred title on the goddess of thep Samut to receive<color\=#5c3600>Standard award</color>A lot of self -development in continuous challenges!
+ระยะเวลา:วันพุธ,วันเสาร์-10:00 - 20:20=Event Time: Wednesday, Saturday 10:00-20:20
+เวลาสมัคร:วันจันทร์-9:00 - 19:59=Sign-up time: Monday 9: 00-19:59
+ระยะเวลา:วันจันทร์-20:00 - 20:09=Event Time: Monday 20:00-20:09
+เวลาสมัคร:วันจันทร์-9:00 - 20:09=Sign-up time: Monday 9:00-20:09
+ระยะเวลา:วันจันทร์-20:10 - 20:24=Event Time: Monday 20:10-20:24
+<href\=6|565596416110086810><color\=#37ff53>[Plunderer]</color></href>อัปวิญญาจารย์<href\=2|565596475448822396><color\=#dd7131>[หลิ่วเอ้อร์หลง]</color></href>ถึง <color\=#37ff53>4</color> ดาวแล้ว!=<href\=6|565596416110086810><color\=#37ff53>[PLUNDERER]</color></href>Apsawin<href\=2|565596475448822396><color\=#dd7131>[Liu Er Long]</color></href>to <color\=#37ff53>4</color> Star!
+<color\=#5c3600>เอาชนะ</color><color\=#5c3600>สัตว์สงครามยักษ์</color>ที่ปรากฏในสนามรบแนวหน้าสงคราม ก็จะได้รับรางวัลมากมาย และสะสมของรางวัล!=<color\=#5c3600>Defeat the </color><color\=#5c3600>Behemoth</color>that appeared on Warfront Battlefield for rich rewards and loot! Build up advantages to earn more rewards!
+11:36=11:36
+เวลาสมัคร:วันอังคาร,วันพฤหัส-9:00 - 16:59=Sign-up time: Tuesday, Thursday 9:00-16:59
+ระยะเวลา:วันอังคาร,วันพฤหัส-17:00 - 22:59=Event Time: Tuesday, Thursday 17:00-22:59
+ฝูงอสูรกลายพันธุ์=Mutated Spirit Beast
+ศึกชิง:วันอังคาร,พฤหัส 20:00-20:50=Sign-up time: Tuesday, Thursday 20: 00-20: 50
+ประกาศศึก:วันอังคาร,พฤหัส 8:00-18:00=Event Time: Tuesday, Thursday 8: 00-18: 00
+<href\=6|565596416110086810><color\=#37ff53>[Plunderer]</color></href>อัปวิญญาจารย์<href\=2|565596419291958261><color\=#dd7131>[เมิ่งเสินจี]</color></href>ถึง <color\=#37ff53>6</color> ดาวแล้ว!=<href\=6|565596416110086810><color\=#37ff53>[PLUNDERER]</color></href>Apsawin<href\=2|565596419291958261><color\=#dd7131>[Meng Shen Gi]</color></href>to <color\=#37ff53>6</color> Star!
+สมาชิกสำนักรวมตัวกัน<color\=#5c3600>กินหมูกระทะ</color>,<color\=#5c3600>ถ่ายทอดพลัง</color>,<color\=#5c3600>ตอบคำถาม</color>\nกิจกรรมถ่ายทอดพลังจะต่อเนื่องจนถึง <color\=#5c3600>24:00</color>=Sect members gather for the <color\=#5c3600>Sect BBQ</color>, <color\=#5c3600>Impartment</color>,<color\=#5c3600> Sect Quiz</color>.Impartment will last until <color\=#5c3600>24:00</color>.
+เปิดเมื่อ:ทีมถึง LV<color\=#5c3600>55</color>และปลดล็อกหลังเลือก<color\=#5c3600></color> เปิด=Opened: Team to LV<color\=#5c3600>55</color>and unlock by choosing God Position <color\=#5c3600></color> to unlock.
+<color\=#5c3600>จับทีม 2 คน</color>รับการบุกรุกของฝูงอสูร <color\=#5c3600>3 ชุด</color>! ยิ่งชนะฝูงอสูรที่มีระดับสูง รางวัลก็จะยิ่งดี!=<color\=#5c3600>Catch 2 teams</color>Accepting the invasion of the demon herd <color\=#5c3600>3 sets</color>!\nThe more the demon wins\nThe prize will be even better!
+<color\=#5c3600>ชิงเมือง</color>กับจักรวรรดินอื่นบนแผ่นดิน เมืองที่ยึดครองยิ่งมาก เลเวลยิ่งสูง รางวัลที่ได้รับก็ยิ่งดี!=<color\=#5c3600>Win the city</color>With other earth Empires on the land\nThe city that occupies the higher the level, the higher the award. The better!
+Plunderer=PLUNDERER
+เข้าร่วม<color\=#5c3600>ฝึกขั้วโลกเหนือ</color> ไล่ล่าสัตว์ร้ายขั้วโลกเหนือ ปล้นชิง<color\=#5c3600>แก่นสัตว์ร้าย</color> ฝึกฝนตนให้แข็งแกร่งในการฝึกฝน!=participate<color\=#5c3600>Arctic Endurance</color> Chase the beast of the North Pole robbery<color\=#5c3600>Essence</color> Train yourself to be strong in practice!
+11:37=11:37
+206ms=206ms
+<color\=#9ccfff>สัปดาห์นี้เหลือสิทธิ์:</color>15/15=<color\=#9ccfff>Weekly attempts:</color>15/15
+ชิปถังซาน สำนักถังและวัสดุอาวุธลับ=Tang Sect Tang San Shard\nand H.Wpn Material(s)
+ฝึกเกิงซิน=Genxin Trials
+<color\=#9ccfff>สำเร็จแล้ว:</color>ไม่จำกัด=<color\=#9ccfff>Attempts:</color>Unlimited
+สมุนไพรกระดูกวิญญาณล้ำค่า=Spiritbones, Summon Tickets, and Herbs
+20k ปี=20k year
+ฝึกยอดยุทธ์=Apex Drill
+224ms=224ms
+<color\=#9ccfff>รางวัลพิเศษ: </color><color\=#ff0000>0</color>/3=<color\=#9ccfff>Extra Rewards: </color><color\=#ff0000>0</color>/3
+ตำรา EXP วิญญาจารย์มากมาย=Earn Spiritmasters EXP Book
+โรงเรียนฝึกฝน=Academy Training
+กิจกรรมรายวัน=Academy Training
+11:45=11:45
+80/700=80/700
+2218=2218
+11:46=11:46
+ราชันแห่งใต้หล้า=Supreme Pontiff
+ระบำฮ่าวเทียน=Clear Sky Hammer
+ไม้หอมพิรุณ=Needle-Tailed Swift
+เสน่ห์กระต่ายอรชร=Soft Bone Rabbit
+ผ่านทั้งหมดแล้ว=All passed
+อสูรพันมือ=Thousand Hand Asura
+100k ปี=100k year
+กระดูกมังกรโจมตีกิเลน=Bone Dragon
+6 วัน 23 ชม.59  นาที59  วินาที=6 days 23 hours 59 minutes 59 seconds
+สรุปเวลา=Summary
+ได้รับ EXP วิญญาจารย์มากมาย=Received a lot of Spirit
+ฝึกยุทธ์สุดขีด=Practicing the extreme
+ไวติดจรวด=Rocket
+มังกรไฟคลั่ง=Fire Dragon
+แกว่งกระบี่แปดทิศ=Seven Kill Sword
+แก้ว 9 สมบัติ=Nine-Tiled Pagoda
+งามล่มเมือง=Charming Fox
+เงาส่งโลกันตร์=Hell Spirit
+ผ่านเส้นทางโต้วหลัว<color\=#f5b428>18-6</color>=Clear Douluo Path <color\=#f5b428>18-6</color>
+ทุ่งหงส์อัคคี=Phoenix Fire
+ผ่านเส้นทางโต้วหลัว<color\=#f5b428>17-6</color>=Clear Douluo Path <color\=#f5b428>17-6</color>
+กุหลาบอัคคีฟ้า=Blue Rose
+6 วัน สิ้นสุด=Ends in 6 days
+5 วัน สิ้นสุด=Ends in 5 days
+4 วัน สิ้นสุด=Ends in 4 days
+3 วัน สิ้นสุด=Ends in 3 days
+2 วัน สิ้นสุด=Ends in 2 days
+1 วัน สิ้นสุด=Ends in 1 days
+ของขวัญอัปดาว <color\=#f5b428>3</color>/4=Promotion Benefits: <color\=#f5b428>3</color>/4
+ของขวัญอัปดาว <color\=#f5b428>4</color>/5=Promotion Benefits: <color\=#f5b428>4</color>/5
+ของขวัญอัปดาว <color\=#f5b428>5</color>/6=Promotion Benefits: <color\=#f5b428>5</color>/6
+ของขวัญอัปดาว <color\=#f5b428>6</color>/7=Promotion Benefits: <color\=#f5b428>6</color>/7
+ของขวัญอัปดาว <color\=#f5b428>7</color>/8=Promotion Benefits: <color\=#f5b428>7</color>/8
+ของขวัญอัปดาว <color\=#f5b428>8</color>/9=Promotion Benefits: <color\=#f5b428>8</color>/9
+ของขวัญอัปดาว <color\=#f5b428>9</color>/10=Promotion Benefits: <color\=#f5b428>9</color>/10
+จำกัดเวลา!=Time-limited!	
+บันทึกปลุกพลัง=Summon Record
+ทดลองเล่นวิญญาจารย์=Spiritmaster Demo
+จับ 10 ครั้ง=Draw 10 times
+จับ 1 ครั้ง=Draw once
+สิทธิ์สุ่มจับ=Draws
+320=320
+<href\=6|565596390232197742><color\=#37ff53>[จี้ต๋าเจิ้น]</color></href>ได้รับวิญญาจารย์SSR<href\=2|565596463944145099><color\=#dd7131>[ตู๋กูป๋อ]</color></href>จากการปลุกพลังวิญญาณยุทธ์!=<href\=6|565596390232197742><color\=#37ff53>[จี้ต๋าเจิ้น]</color></href>Received ssr<href\=2|565596463944145099><color\=#dd7131>[Tu Kop]</color></href>From awakening the power of the strategy!
+เริ่มใน 21 ชม.=Start in 21 hours
+12:08=12:08
+84/700=84/700
+2290=2290
+12:09=12:09
+749ms=749MS
+ แจก= Achieved
+เทพธิดาเก้าสี·หนิงหรงหรง=Nine-Colored\nGoddess· Ning Rongrong
+กิ๊ฟเซ็ทอัปดาว SP Ⅰ=SP Spiritmaster Star Ascension\nGift I
+รางวัลที่ได้รับเมื่อวิญญาจารย์ SP ในรอบนี้อัปดาวจนครบเงื่อนไข ซึ่งรางวัลจะต่างไปตามระดับ, ระดับดาวที่วิญญาจารย์รอบนั้นๆ ไปถึง=Reward given when the current SP Spiritmaster reaches certain star level. The content of the gift varies depending on the quality and star level of the spiritmaster.
+ระดับ:=Rarity: 
+ชั้นเยี่ยม=Rare
+191ms=191ms
+ได้รับไอเทมดังนี้:=Get the following items:
+<color\=#dd7131>จันทราในวารี</color>=<color\=#dd7131>Moon in Water</color>
+กิ๊ฟเซ็ทอัปดาว SP Ⅱ=SP Spiritmaster Star Ascension\nGift II
+ตำนาน=Legend
+กิ๊ฟเซ็ทอัปดาว SP Ⅲ=SP Spiritmaster Star Ascension\nGift III
+25=25
+กวี=Epic
+กิ๊ฟเซ็ทอัปดาว SP Ⅳ=SP Spiritmaster Star Ascension\nGift IV
+กิ๊ฟเซ็ทอัปดาว SP Ⅴ=SP Spiritmaster Star Ascension\nGift V
+225ms=225ms
+กิ๊ฟเซ็ทอัปดาว SP Ⅵ=SP Spiritmaster Star Ascension\nGift VI
+อภินิหาร=Godly
+พรีวิว=Preview
+เทพธิดาเก้าสีหนิงหรงหรง·ครีบคริสตัลบาง=Colorful Goddess\nNing Rongrong · Crystal Fin
+12:10=12:10
+สุ่มวิญญาจาย์ขั้นสูง=Random High-Level Spiritmaster
+<color\=#dd7131>ผีเสื้อแห่งฝัน</color>=<color\=#dd7131>Illusory Butterfly</color>
+<color\=#dd7131>วัวอสรพิษมรกต</color>=<color\=#dd7131>Celestial Oxerpent</color>
+170ms=170ms	
+<color\=#dd7131>สำนักถัง·เสียวอู่</color>=<color\=#dd7131>Tang Sect· Xiao Wu</color>
+<color\=#dd7131>พรหมยุทธ์คันศรน้ำแข็ง</color>=<color\=#dd7131>Phromyut Kansorn Ice</color>
+<color\=#dd7131>ทั่วป๋ายวิ๋น</color>=<color\=#dd7131>Plume Guru</color>
+<color\=#dd7131>ถังเลี่ย</color>=<color\=#dd7131>Tang Lie</color>
+<color\=#dd7131>ม้าน้ำ</color>=<color\=#dd7131>Seahorse</color>
+<color\=#dd7131>แม่มดทะเล</color>=<color\=#dd7131>Sea Witch</color>
+<color\=#dd7131>หนามโลหิต</color>=<color\=#dd7131>Ci Xue</color>
+<color\=#dd7131>มังกรทะเล</color>=<color\=#dd7131>Sea Dragon</color>
+<color\=#dd7131>เสอหลง</color>=<color\=#dd7131>She Long</color>
+<color\=#dd7131>เสี่ยวไป๋</color>=<color\=#dd7131>Xiao Bai</color>
+<color\=#dd7131>ถังเยว่หัว</color>=<color\=#dd7131>Tang Yuehua</color>
+<color\=#dd7131>ปี๋ปี่ตง</color>=<color\=#dd7131>Bibiana</color>
+<color\=#dd7131>กู่หรง</color>=<color\=#dd7131>Gu Rong</color>
+<color\=#dd7131>เยี่ยน</color>=<color\=#dd7131>Yan</color>
+<color\=#dd7131>หนิงหรงหรง</color>=<color\=#dd7131>Ning Rongrong</color>
+<color\=#dd7131>ออสก้า</color>=<color\=#dd7131>Oscar</color>
+<color\=#dd7131>กุ่ยเม่ย</color>=<color\=#dd7131>Spectre</color>
+<color\=#dd7131>อาอิ๋น</color>=<color\=#dd7131>Ayin</color>
+357ms=357ms
+<color\=#dd7131>เมิ่งเสินจี</color>=<color\=#dd7131>Meng Shenji</color>
+<color\=#dd7131>หั่วอู่</color>=<color\=#dd7131>Huo Wu</color>
+<color\=#dd7131>หูเลี่ยน่า</color>=<color\=#dd7131>Hu Liena</color>
+<color\=#dd7131>ตู๋กูป๋อ</color>=<color\=#dd7131>Dugu Bo</color>
+<color\=#dd7131>จูจู๋ชิง</color>=<color\=#dd7131>Zhu Zhuqing</color>
+<color\=#dd7131>เสียเยว่</color>=<color\=#dd7131>Xie Yue</color>
+<color\=#dd7131>หลิ่วเอ้อร์หลง</color>=<color\=#dd7131>Liu Erlong</color>
+<color\=#dd7131>หม่าหงจวิ้น</color>=<color\=#dd7131>Ma Hong Jun</color>
+<color\=#dd7131>ไต้มู่ไป๋</color>=<color\=#dd7131>Dai Mubai</color>
+<color\=#dd7131>เจี้ยนเฉินซิน</color>=<color\=#dd7131>Chen Xin</color>
+<color\=#dd7131>ถังฮ่าว</color>=<color\=#dd7131>Tang Hao</color>
+<color\=#dd7131>เฟิงเซี่ยวเทียน</color>=<color\=#dd7131>Feng Xiaotian</color>
+<color\=#dd7131>เยว่กวน</color>=<color\=#dd7131>Yue Guan</color>
+สุ่มได้ไอเทม 1 ชิ้น=Randomly get 1 from the following:
+12:11=12:11
+752/75804=752/75804
+Lv.54=LV.54
+2458=2458
+1403.8K=1403.8K
+23/700=23/700
+13:18=13:18
+เริ่มใน 20 ชม.=Start in 20 hours
+ผ่านเส้นทางโต้วหลัว(ยากเย็น)14-3=Clear Douluo Path (Hard) 14-3
+<color\=#61ddf7>Austin Griffin:</color><#f02001>=<color\=#61ddf7>Austin Griffin:</color><#f02001>
+<color\=#61ddf7>Austin Griffin:</color><#f02017>=<color\=#61ddf7>Austin Griffin:</color><#f02017>
+ใช้ในการเปิดใช้สกิน<color\=#37ff53>เทพธิดาเก้าสีหนิงหรงหรง·ครีบคริสตัลบาง</color>=Can be used to activate the skin <color\=#37ff53>Colorful Goddess\nNing Rongrong · Crystal Fin</color>
+220ms=220ms
+13:19=13:19
+เจ้าสามารถปลุกพลังวิญญาจารย์ได้ที่นี่=You can summon spiritmasters here.
+ปลุก 10 ครั้ง=Summon x10
+ปลุกพลัง=Summon
+ปลุกพลัง<color\=#f5b248>ถังซานสำนักถัง</color> และ<color\=#f5b248>อาวุธลับต่างๆ</color>!=Summon <color\=#f5b248>Tang Sect Tang San</color> and <color\=#f5b248>various Hidden Weapons</color>!
+กงล้อปีกค้างคาว=Bat Wing Reincarnation
+ลางอันมงคล=Phoenix Leading Nine Chicks
+ฝ่ายศัตรูทุกการตายของหน่วย1คน,ผู้ถือครองจะแนบ[ระเบิด·บงกชพระพิโรธ]เพิ่มในช่วง[ท่ารวมพลัง]ใช้อาวุธลับ[บงกชพระพิโรธ]กับเป้าหมายทำให้เกิดDMG120%ของจำนวนDMGรวม=For each enemy unit that has been killed, [Burst · Wrath of Buddha Lotus] adds additional DMG equal to 120% of the total DMG dealth to the [Wrath of Buddha Lotus] target by the holder using a H.Wpn during [Charge]
+<color\=#61ddf7>Yagj:</color><#f02036>=<color\=#61ddf7>Yagj:</color><#f02036>
+<color\=#61ddf7>Phong Bạt Đấu La:</color><color\=#37ff53><อั่งเปาสำนัก></color>Huynh Đệ Đồng Tâm=<color\=#61ddf7>Phong bạt đấu la:</color><color\=#37ff53></color>Huynh đệ đồng täm
+13:33=13:33
+26/700=26/700
+13:35=13:35
+โลหิตโพธิ์=Bodhi Blood
+
+หลังจากที่ฝ่ายเราใช้อาวุธลับ <color\=#f5b428>2</color> ครั้ง วิญญาจารย์อาวุธลับโจมตีครั้งต่อไปจะปล่อยเลือดโพธิ์ไล่ล่าฝ่ายศัตรูที่โดนโจมตีทั้งหมด ดาเมจของการไล่ล่าคือ <color\=#f5b428>100%</color> ของดาเมจที่โจมตีในครั้งแรก เอฟเฟกต์นี้ <color\=#f5b428>1</color> เทิร์นทริกเกอร์ได้มากสุด <color\=#f5b428>1</color>ครั้ง=After using H.Wpn twice, the H.Wpn Spiritmaster will unleash Bodhi Blood on all struck enemies on their next ATK, dealing additional DMG equal to <color\=#f5b428>100%</color> of the original ATK. This effect can trigger once per turn
+
+หลังโลหิตโพธิ์ไล่โจมตีสำเร็จ ดาเมจท้ายสุดที่วิญญาจารย์สายอาวุธลับทำโดยอาวุธลับกลไกหรืออาวุธลับในแขนเสื้อครั้งถัดไปจะเพิ่มขึ้น230% แต่ต้องใช้กระสุนเพิ่ม1ลูก=After successfully striking with Bodhi Blood, the H.Wpn Spiritmaster's final DMG dealt by the next mechanical or hand-held H.Wpn increases by an additional 230%, but requires an extra ammunition
+
+เมื่อทริกเกอร์ ดาเมจท้ายสุดที่ทำโดยอาวุธลับกลไกหรืออาวุธลับในแขนเสื้อครั้งถัดไปจะเพิ่มขึ้น270%=Triggering increases the final DMG dealt by the next mechanical or hand-held H.Wpn by an additional 320%.
+
+หากสกิลอาวุธลับยังติดเอฟเฟกต์CD ลิมิตเวลาCDก็จะลดลงถาวร1เทิร์น=If the H.Wpn skill has a skill CD effect, its maximum CD permanently decreases by 1 turn
+
+เมื่อทริกเกอร์ ดาเมจท้ายสุดที่ทำโดยอาวุธลับกลไกหรืออาวุธลับในแขนเสื้อครั้งถัดไปจะเพิ่มขึ้น320%=Triggering increases the final DMG dealt by the next mechanical or hand-held H.Wpn by an additional 270%.
+
+ดาเมจจากการไล่โจมตีข้างต้นเป็น70%ของการปล่อยดาเมจอาวุธลับครั้งก่อน และทำให้ดาเมจท้ายสุดที่เป้าหมายได้รับเพิ่มขึ้น30% ต่อเนื่อง2เทิร์น=Damage from the above attack is 70%of the release of the previous secret weapon.\nAnd causing the final damage to the target, increased by 30% continuously, 2 turns
+13:36=13:36
+234ms=234ms
+29/700=29/700
+13:55=13:55
+ผู้ครอบครองอาวุธลับนี้หากในเทิร์นตนเองใช้อาวุธลับหลายครั้ง เมื่อสิ้นสุดเทิร์นก็จะใช้กระสุนที่เหลือไล่โจมตีศัตรูที่ใช้อาวุธลับกลไก ดาเมจที่ทำเป็น50%ของการปล่อยดาเมจอาวุธลับครั้งก่อน พร้อมกันนั้นจะสิ้นสุดเทิร์นปัจจุบันทันที=ผas
+8 แสนปี·ราชสีห์ทองคำสามตา=800,000· Three-Eyed Golden Lion
+4 แสนปี·พญาแมงป่องน้ำแข็งมรกต=400,000· Ice Emerald Emperor Scorpion
+4 แสนปี·พญามังกรดำตาทอง=400,000· Golden-Eyed Black Dragon
+คะแนนดรอป=Drop Rating
+4 แสนปี·ต้นไม้แห่งชีวิต=400,000· Tree of Life
+มดพลังยักษ์=Giant Ant
+เริ่มใน 13 ชม.=Start in 13 hours.
+อสูรเกราะเกล็ด=Scalmon
+ราชาค้างคาวทองหม่น 3 หัว=Three-Headed Bat
+แมงป่องหางแดง=Erythrocorpio
+ดรอปพื้นฐานเพิ่มขึ้น ทุกสัปดาห์จะเลือก 1 สนามเพื่อรับรางวัล 1 ครั้ง รางวัลนี้จะส่งสองเท่า=Basic drop increase, can only choose one round per week to receive a reward, which will be doubled.
+สมัครแล้ว=Sign Up
+ข่าวเขตพื้นที่=News
+ที่ราบน้ำแข็งร้าง=Frozen Wasteland
+ยืนยิ้มที่ริมบึง=ยืนยิ้มที่ริมบึง
+รางวัลร่วมสนุก=Participation Rewards
+รางวัลไร้เจ้าของ=Unclaimed Rewards
+รางวัลสิทธิ์=Ownership Rewards
+ไปท้าทาย=Challenge
+จุติสนามรบวันศุกร์ 20:00, วันเสาร์ 13:00=Friday at 20:00, Saturday at 13:00
+เขตเสี่ยงอันตราย=High-Risk Zone
+20:19=20:19
+93/700=93/700
+lnw=lnw
+บอสประกาศจับ<color\=#f5b42b>ราชาปฐพี</color> ที่ท่านติดตามจะคืนชีพในอีก<color\=#f5b42b> 2 </color>นาที! โปรดอย่าลืมไปท้าทาย!=Boss announced<color\=#f5b42b>King</color> That you follow will resurrect<color\=#f5b42b> 2 </color>Minutes! Please don't forget to challenge!
+94/700=94/700
+คุณสมบัติระดับดาวอุปกรณ์วิญญาณ=Artifact Star Stat
+อุปกรณ์วิญญาณต่อสู้=Combat Artifact
+คุณสมบัติอุปกรณ์วิญญาณ=Artifact Attributes
+<color\=#5a5b69>อัปเกรดได้รับดาเมจถึง 100%</color>=<color\=#5a5b69>DMG taken increase to 100%.</color>
+<color\=#5a5b69>2<#comm&star>ปลดล็อก:</color>=<color\=#5a5b69>2<#comm&star>Unlock:</color>
+<color\=#5a5b69>3<#comm&star>ปลดล็อก:</color>=<color\=#5a5b69>3<#comm&star>Unlock:</color>
+<color\=#5a5b69>4<#comm&star>ปลดล็อก:</color>=<color\=#5a5b69>4<#comm&star>Unlock:</color>
+<color\=#5a5b69>5<#comm&star>ปลดล็อก:</color>=<color\=#5a5b69>5<#comm&star>Unlock:</color>
+<color\=#5a5b69>6<#comm&star>ปลดล็อก:</color>=<color\=#5a5b69>6<#comm&star>Unlock:</color>
+เมื่ออุปกรณ์วิญญาณถึง <color\=#f5b428>1<#comm&star></color>/<color\=#5a5b69>2<#comm&star></color>/<color\=#5a5b69>3<#comm&star></color>/<color\=#5a5b69>4<#comm&star></color>/<color\=#5a5b69>5<#comm&star></color>/<color\=#5a5b69>6<#comm&star></color> หลังวิญญาจารย์สายควบคุมฝ่ายเราใส่เอฟเฟกต์ควบคุมหรือลดทอนพลังวิญญาณสะสมครบ 3 ครั้ง สร้างดาเมจพลังโจมตี <color\=#f5b428>200%</color>/<color\=#5a5b69>400%</color>/<color\=#5a5b69>600%</color>/<color\=#5a5b69>800%</color>/<color\=#5a5b69>1000%</color>/<color\=#5a5b69>1200%</color> ให้กับศัตรูทั้งหมด กระตุ้นสูงสุด 1 ครั้งต่อการต่อสู้ 1 รอบ หลังกระตุ้น ได้รับดาเมจของศัตรูทั้งหมดจะเพิ่มขึ้นถาวร 50% =When the Artifact reaches <color\=#f5b428>1<#comm&star></color>/<color\=#5a5b69>2<#comm&star></color>/<color\=#5a5b69>3<#comm&star></color>/<color\=#5a5b69>4<#comm&star></color>/<color\=#5a5b69>5<#comm&star></color>/<color\=#5a5b69>6<#comm&star></color>, after the ally Control Spiritmaster has applied control effects or reduced Soul Power 3 times, it inflicts <color\=#f5b428>200%</color>/<color\=#5a5b69>400%</color>/<color\=#5a5b69>600%</color>/<color\=#5a5b69>800%</color>/<color\=#5a5b69>1000%</color>/<color\=#5a5b69>1200%</color> ATK DMG to all enemies, triggers once per battle. After triggering, all enemies' damage taken permanently increase by 50%.
+
+เมื่ออุปกรณ์วิญญาณถึง <color\=#5a5b69>1<#comm&star></color>/<color\=#f5b428>2<#comm&star></color>/<color\=#5a5b69>3<#comm&star></color>/<color\=#5a5b69>4<#comm&star></color>/<color\=#5a5b69>5<#comm&star></color>/<color\=#5a5b69>6<#comm&star></color> หลังวิญญาจารย์สายควบคุมฝ่ายเราใส่เอฟเฟกต์ควบคุมหรือลดทอนพลังวิญญาณสะสมครบ 3 ครั้ง สร้างดาเมจพลังโจมตี <color\=#5a5b69>200%</color>/<color\=#f5b428>400%</color>/<color\=#5a5b69>600%</color>/<color\=#5a5b69>800%</color>/<color\=#5a5b69>1000%</color>/<color\=#5a5b69>1200%</color> ให้กับศัตรูทั้งหมด กระตุ้นสูงสุด 1 ครั้งต่อการต่อสู้ 1 รอบ หลังกระตุ้น ได้รับดาเมจของศัตรูทั้งหมดจะเพิ่มขึ้นถาวร 50% =When the Artifact reaches <color\=#5a5b69>1<#comm&star></color>/<color\=#f5b428>2<#comm&star></color>/<color\=#5a5b69>3<#comm&star></color>/<color\=#5a5b69>4<#comm&star></color>/<color\=#5a5b69>5<#comm&star></color>/<color\=#5a5b69>6<#comm&star></color>, after the ally Control Spiritmaster has applied control effects or reduced Soul Power 3 times, it inflicts <color\=#5a5b69>200%</color>/<color\=#f5b428>400%</color>/<color\=#5a5b69>600%</color>/<color\=#5a5b69>800%</color>/<color\=#5a5b69>1000%</color>/<color\=#5a5b69>1200%</color> ATK DMG to all enemies, triggers once per battle. After triggering, all enemies' damage taken permanently increase by 50%.
+
+เมื่ออุปกรณ์วิญญาณถึง <color\=#5a5b69>1<#comm&star></color>/<color\=#5a5b69>2<#comm&star></color>/<color\=#f5b428>3<#comm&star></color>/<color\=#5a5b69>4<#comm&star></color>/<color\=#5a5b69>5<#comm&star></color>/<color\=#5a5b69>6<#comm&star></color> หลังวิญญาจารย์สายควบคุมฝ่ายเราใส่เอฟเฟกต์ควบคุมหรือลดทอนพลังวิญญาณสะสมครบ 3 ครั้ง สร้างดาเมจพลังโจมตี <color\=#5a5b69>200%</color>/<color\=#5a5b69>400%</color>/<color\=#f5b428>600%</color>/<color\=#5a5b69>800%</color>/<color\=#5a5b69>1000%</color>/<color\=#5a5b69>1200%</color> ให้กับศัตรูทั้งหมด กระตุ้นสูงสุด 1 ครั้งต่อการต่อสู้ 1 รอบ หลังกระตุ้น ได้รับดาเมจของศัตรูทั้งหมดจะเพิ่มขึ้นถาวร 50% =When the Artifact reaches <color\=#5a5b69>1<#comm&star></color>/<color\=#5a5b69>2<#comm&star></color>/<color\=#f5b428>3<#comm&star></color>/<color\=#5a5b69>4<#comm&star></color>/<color\=#5a5b69>5<#comm&star></color>/<color\=#5a5b69>6<#comm&star></color>, after the ally Control Spiritmaster has applied control effects or reduced Soul Power 3 times, it inflicts <color\=#5a5b69>200%</color>/<color\=#5a5b69>400%</color>/<color\=#f5b428>600%</color>/<color\=#5a5b69>800%</color>/<color\=#5a5b69>1000%</color>/<color\=#5a5b69>1200%</color> ATK DMG to all enemies, triggers once per battle. After triggering, all enemies' damage taken permanently increase by 50%.
+
+เมื่ออุปกรณ์วิญญาณถึง <color\=#5a5b69>1<#comm&star></color>/<color\=#5a5b69>2<#comm&star></color>/<color\=#5a5b69>3<#comm&star></color>/<color\=#f5b428>4<#comm&star></color>/<color\=#5a5b69>5<#comm&star></color>/<color\=#5a5b69>6<#comm&star></color> หลังวิญญาจารย์สายควบคุมฝ่ายเราใส่เอฟเฟกต์ควบคุมหรือลดทอนพลังวิญญาณสะสมครบ 3 ครั้ง สร้างดาเมจพลังโจมตี <color\=#5a5b69>200%</color>/<color\=#5a5b69>400%</color>/<color\=#5a5b69>600%</color>/<color\=#f5b428>800%</color>/<color\=#5a5b69>1000%</color>/<color\=#5a5b69>1200%</color> ให้กับศัตรูทั้งหมด กระตุ้นสูงสุด 1 ครั้งต่อการต่อสู้ 1 รอบ หลังกระตุ้น ได้รับดาเมจของศัตรูทั้งหมดจะเพิ่มขึ้นถาวร 50% =When the Artifact reaches <color\=#5a5b69>1<#comm&star></color>/<color\=#5a5b69>2<#comm&star></color>/<color\=#5a5b69>3<#comm&star></color>/<color\=#f5b428>4<#comm&star></color>/<color\=#5a5b69>5<#comm&star></color>/<color\=#5a5b69>6<#comm&star></color>, after the ally Control Spiritmaster has applied control effects or reduced Soul Power 3 times, it inflicts <color\=#5a5b69>200%</color>/<color\=#5a5b69>400%</color>/<color\=#5a5b69>600%</color>/<color\=#f5b428>800%</color>/<color\=#5a5b69>1000%</color>/<color\=#5a5b69>1200%</color> ATK DMG to all enemies, triggers once per battle. After triggering, all enemies' damage taken permanently increase by 50%.
+
+เมื่ออุปกรณ์วิญญาณถึง <color\=#5a5b69>1<#comm&star></color>/<color\=#5a5b69>2<#comm&star></color>/<color\=#5a5b69>3<#comm&star></color>/<color\=#5a5b69>4<#comm&star></color>/<color\=#f5b428>5<#comm&star></color>/<color\=#5a5b69>6<#comm&star></color> หลังวิญญาจารย์สายควบคุมฝ่ายเราใส่เอฟเฟกต์ควบคุมหรือลดทอนพลังวิญญาณสะสมครบ 3 ครั้ง สร้างดาเมจพลังโจมตี <color\=#5a5b69>200%</color>/<color\=#5a5b69>400%</color>/<color\=#5a5b69>600%</color>/<color\=#5a5b69>800%</color>/<color\=#f5b428>1000%</color>/<color\=#5a5b69>1200%</color> ให้กับศัตรูทั้งหมด กระตุ้นสูงสุด 1 ครั้งต่อการต่อสู้ 1 รอบ หลังกระตุ้น ได้รับดาเมจของศัตรูทั้งหมดจะเพิ่มขึ้นถาวร 50% =When the Artifact reaches <color\=#5a5b69>1<#comm&star></color>/<color\=#5a5b69>2<#comm&star></color>/<color\=#5a5b69>3<#comm&star></color>/<color\=#5a5b69>4<#comm&star></color>/<color\=#f5b428>5<#comm&star></color>/<color\=#5a5b69>6<#comm&star></color>, after the ally Control Spiritmaster has applied control effects or reduced Soul Power 3 times, it inflicts <color\=#5a5b69>200%</color>/<color\=#5a5b69>400%</color>/<color\=#5a5b69>600%</color>/<color\=#5a5b69>800%</color>/<color\=#f5b428>1000%</color>/<color\=#5a5b69>1200%</color> ATK DMG to all enemies, triggers once per battle. After triggering, all enemies' damage taken permanently increase by 50%.
+
+เมื่ออุปกรณ์วิญญาณถึง <color\=#5a5b69>1<#comm&star></color>/<color\=#5a5b69>2<#comm&star></color>/<color\=#5a5b69>3<#comm&star></color>/<color\=#5a5b69>4<#comm&star></color>/<color\=#5a5b69>5<#comm&star></color>/<color\=#f5b428>6<#comm&star></color> หลังวิญญาจารย์สายควบคุมฝ่ายเราใส่เอฟเฟกต์ควบคุมหรือลดทอนพลังวิญญาณสะสมครบ 3 ครั้ง สร้างดาเมจพลังโจมตี <color\=#5a5b69>200%</color>/<color\=#5a5b69>400%</color>/<color\=#5a5b69>600%</color>/<color\=#5a5b69>800%</color>/<color\=#5a5b69>1000%</color>/<color\=#f5b428>1200%</color> ให้กับศัตรูทั้งหมด กระตุ้นสูงสุด 1 ครั้งต่อการต่อสู้ 1 รอบ หลังกระตุ้น ได้รับดาเมจของศัตรูทั้งหมดจะเพิ่มขึ้นถาวร 50% =When the Artifact reaches <color\=#5a5b69>1<#comm&star></color>/<color\=#5a5b69>2<#comm&star></color>/<color\=#5a5b69>3<#comm&star></color>/<color\=#5a5b69>4<#comm&star></color>/<color\=#5a5b69>5<#comm&star></color>/<color\=#f5b428>6<#comm&star></color>, after the ally Control Spiritmaster has applied control effects or reduced Soul Power 3 times, it inflicts <color\=#5a5b69>200%</color>/<color\=#5a5b69>400%</color>/<color\=#5a5b69>600%</color>/<color\=#5a5b69>800%</color>/<color\=#5a5b69>1000%</color>/<color\=#f5b428>1200%</color> ATK DMG to all enemies, triggers once per battle. After triggering, all enemies' damage taken permanently increase by 50%.
+
+เนตรแห่งความกลัว=Eye of Fear
+ประเภท:=Item Type:	
+จำกัดอาชีพ=Class Restriction
+สกิลอุปกรณ์วิญญาณ=Artifact Skills
+เลเวล:<color\=#FF9600>1</color>=Level:<color\=#FF9600>1</color>
+เลเวล:<color\=#FF9600>2</color>=Level:<color\=#FF9600>2</color>
+เลเวล:<color\=#FF9600>3</color>=Level:<color\=#FF9600>3</color>
+เลเวล:<color\=#FF9600>4</color>=Level:<color\=#FF9600>4</color>
+เลเวล:<color\=#FF9600>5</color>=Level:<color\=#FF9600>5</color>
+เลเวล:<color\=#FF9600>6</color>=Level:<color\=#FF9600>6</color>
+อุปกรณ์วิญญาณควบคุม=Control Artifact
+120ms=120ms
+2.6.1_54_31_108_45_41_289_41_19_19_2.8.2_2.19_2.19.17=2.6.1_54_31_108_45_41_289_41_19_2.8.2_2.19.17
+แบบสอบถาม=questionnaire
+เคลียร์เควสทั้งหมดแล้ว=Clear all quests
+วิหารเทพสมุทร=Sea God Temple
+ค้นหาทาง=Search
+จองเซิร์ฟใหม่=Reserve a new server
+ประกาศเล่นเกมอย่างเหมาะสม: ลด ละ เลิก ปฏิเสธเกมเถื่อน ระวังมิจฉาชีพ จัดเวลาเล่นเกมอย่างเหมาะสม เพื่อสุขภาพที่แข็งแรง=Announcement of the game appropriately: Reduce and stop rejecting illegal games.\nBe careful of criminals\nAppropriate game time\nFor strong health
+Douluo Dalu : สัประยุทธ์วิญญาจารย์ จากนิยายออนไลน์ "โต้วหลัวต้าลู่" สู่เกมส์ถือถือ =Douluo Dalu: Sitthipit\nFrom online novels\n"Too Lua Lu Lu" to the game holding 
+ฉันได้อ่านและยอมรับ<href\=12><color\=#1568ff>ข้อตกลงผู้ใช้งาน</color></href>,<href\=20><color\=#1568ff>นโยบายความเป็นส่วนตัว</color></href>=I read and accepted <href\=12><color\=#1568ff>User agreement </color></href>&<href\=20><color\=#1568ff> Privacy policy</color></href>
+<color\=#5a5b69>ถึงพิสัย วิญญาจารย์อุปกรณ์ Lv.1 จะปลดล็อก</color>=<color\=#5a5b69>Reach Soul Guide Lv.1 Boundary to unlock</color>
+<color\=#61ddf7>CUTGRIL:</color><#f02001>=<color\=#61ddf7>CutGril:</color><#f02001>
+20:37=20:37
+96/700=96/700
+<color\=#5a5b69>อัปเกรดได้รับดาเมจถึง 150%</color>=<color\=#5a5b69>DMG taken increase 150%.</color>
+<color\=#5a5b69>ถึงพิสัย วิญญาจารย์อุปกรณ์ Lv.3 จะปลดล็อก</color>=<color\=#5a5b69>Reach Soul Guide Lv.3 Boundary to unlock</color>
+<color\=#5a5b69>อัปเกรดได้รับดาเมจถึง 250%</color>=<color\=#5a5b69>DMG taken increase to 250%.</color>
+<color\=#5a5b69>ถึงพิสัย วิญญาจารย์อุปกรณ์ Lv.5 จะปลดล็อก</color>=<color\=#5a5b69>Reach Soul Guide Lv.5 Boundary to unlock</color>
+<color\=#5a5b69>อัปเกรดได้รับดาเมจถึง 400%</color>=<color\=#5a5b69>DMG taken increase to 400%.</color>
+<color\=#5a5b69>ถึงพิสัย วิญญาจารย์อุปกรณ์ Lv.7 จะปลดล็อก</color>=<color\=#5a5b69>Reach Soul Guide Lv.7 Boundary to unlock</color>
+<color\=#5a5b69>อัปเกรดได้รับดาเมจถึง 600%</color>=<color\=#5a5b69>DMG taken increase to 600%.</color>
+<color\=#5a5b69>ถึงพิสัย วิญญาจารย์อุปกรณ์ Lv.9 จะปลดล็อก</color>=<color\=#5a5b69>Reach Soul Guide Lv.9 Boundary to unlock</color>
+ATK=ATK
+
+มาพอดีเลย งานเลี้ยงกำลังเริ่มแล้ว!=Come on, the party is starting!
+2479=2479
+972/75804=972/75804
+1407.5K=1407.5K
+189/700=189/700
+เริ่มใน 8 ชม.=Start in 8 hours
+<href\=6|565596390251043226><color\=#37ff53>[Pakunoda]</color></href>ลงใจกลางป่า Ⅱ และฆ่ามดพลังยักษ์สำเร็จด้วยความยากลำบาก หลังจากนั้น เขาก็ได้เจอ<href\=2|565596636892815561><color\=#000000>[50k ปี·วงแหวนแมลงชั่ว]</color></href> ช่างน่าอิจฉาจริงๆ เลย!=<href\=6|565596390251043226><color\=#37ff53>[Pakunoda]</color></href>Encouraged in the middle of the forest ⅱ and killed the giant ants successfully with difficulty. After that, he met.<href\=2|565596636892815561><color\=#000000>[50k year · Evil ring]</color></href> So jealous!
+<color\=#61ddf7>ฉัน:</color>คุณใช้ดวงดีไปหมดแล้ว=<color\=#61ddf7>I:</color>You have all good luck.
+ปาร์ตี้ไส้กรอก=Sausage Cookout
+วิชาวิหายสะชั้น 7=Celestial Arts VII
+วิชาวิหายสะชั้น 6=Celestial Arts VI
+วิชาวิหายสะชั้น 5=Celestial Arts V
+วิชาวิหายสะชั้น 4=Celestial Arts IV
+วิชาวิหายสะชั้น 3=Celestial Arts III
+วิชาวิหายสะชั้น 2=Celestial Arts II
+วิชาวิหายสะชั้น 1=Celestial Arts I
+237=237
+เยลลี่ไส้กรอกคริสตัล=Crystal Jelly Sausage
+เพิ่มดาเมจท้ายสุด=Increased Final DMG
+1.00%=1.00%
+คุณสมบัติตีบวกกระดูก=Halo Enh. Stats
+10.00%=10.00%
+SPIRIT=Willpower
+0.50%=0.50%
+ใช้แล้ว:=Used:
+<color\=#f5b428>0/30</color>=<color\=#f5b428>0/30</color>
+ใช้งาน=Use
+ไส้กรอกหมึกดำสุดขั้ว=Jasper Sausage
+ทุกคนATK=Squad ATK
+770=770
+ทุกคนDEF=Squad DEF
+ทุกคนSPD=Squad SPD
+0.5=0.5
+600=600
+ไส้กรอกรมควัน=Flame Grilled Sausage
+<color\=#f5b428>21/60</color>=<color\=#f5b428>21/60</color>
+ไส้กรอกสายรุ้งแพรวพราว=Dazzling Rainbow Sausage
+5500=5500
+ทุกคนHP=Squad HP
+ไส้กรอกหอแก้ว 9 สมบัติ=Nine Treasure Glazed Sausage
+<color\=#f5b428>5/12</color>=<color\=#f5b428>5/12</color>
+เจ้าชอบกินอะไร? ไม่ต้องเกรงใจ เลือกได้เลย=What do you like to eat?\nYou don't have to be considerate.
+Chhun=Chhun
+0.30%=0.30%
+1623=1623
+0.40%=0.40%
+ทุกคนCRIT DMG=Squad Crit DMG
+181=181
+<color\=#f5b428>25/45</color>=<color\=#f5b428>25/45</color>
+0.20%=0.20%
+ทุกคนCRIT RATE=Squad Crit Rate
+1818=1818
+0.07%=0.07%
+คุณสมบัติพื้นฐานกระดูก=Spiritbone Basic Stats
+<color\=#f5b428>17/80</color>=<color\=#f5b428>17/80</color>
+ไส้กรอกแก่นแท้อาหารเทพ=Food Good Essence Sausage
+<color\=#f5b428>18/45</color>=<color\=#f5b428>18/45</color>
+ไส้กรอกเห็ดบิน=Flying Sausage
+ไส้กรอกชมพูเร้าใจ=Pink Sausage
+36=36
+<color\=#f5b428>7/45</color>=<color\=#f5b428>7/45</color>
+ไส้กรอกสะท้อนจัมโบ้=Clone Sausage
+ยินดีต้อนรับทุกท่านมากินอาหารอร่อยๆ ร่วมกัน=Welcome, everyone. Let's eat delicious food together.
+4500=4500
+ไส้กรอกเจลาตินชูกำลัง=Refreshing Gel Sausage
+ไส้กรอกบัวหิมะ=Ice Lotus Sausage
+manu=manu
+0.05%=0.05%
+23=23
+<color\=#f5b428>42/180</color>=<color\=#f5b428>42/180</color>
+ไส้กรอกฟื้นฟูจัมโบ้=Recovery Sausage
+<color\=#f5b428>7/180</color>=<color\=#f5b428>7/180</color>
+ไส้กรอกถอนพิษ=Detox Sausage
+<color\=#f5b428>0/120</color>=<color\=#f5b428>0/120</color>
+ไส้กรอกเพิ่มพลัง=Supplement Sausage (L)
+เยลลี่ที่ใสพร่างพราว ใช้ใน<งานเลี้ยงไส้กรอก>สามารถเพิ่ม<color\=#37ff53>คุณสมบัติตีบวกวงแหวนทั้งหมด</color>,<color\=#37ff53>จิตวิญญาณทั้งหมด</color>,<color\=#37ff53>โบนัสDMGขั้นสูงทั้งหมด</color>.ได้รับจากกิจกรรมการกลับมาของวิญญาจารย์แบบจำกัดเวลา.=Dazzling jelly\nCan be added<color\=#37ff53>All rings</color>,,<color\=#37ff53>All souls</color>,,<color\=#37ff53>All advanced DMG bonus</color>.ได้รับจากกิจกรรมการกลับมาของวิญญาจารย์แบบจำกัดเวลา.
+ทุกคนคุณสมบัติตีบวกกระดูก=Squad Halo Enh. Stats
++10.00%=+10.00%
+ทุกคนSPIRIT=Squad Willpower
++0.50%=+0.50%
+ทุกคนเพิ่มดาเมจท้ายสุด=Increased Squad Final DMG
++1.00%=+1.00%
+Amr Eid=AMR EID
+01:05=01:05
+01:23=01:23
+192/700=192/700
+Lavitachi=Lavitachi
+ลัทธิมาร=ลัทธิมาร
+ทุกคนกระดูกตีบวก ATK=Squad Halo Enh. Stats
+ไส้กรอกสายรุ้งแพรวพราวราวกับเพชร เมื่อใช้ใน <งานฉลองไส้กรอก> จะเพิ่ม <color\=#37ff53> ATK ทั้งหมด </color>, <color\=#37ff53> DEF ทั้งหมด </color>, <color\=#37ff53> HP ทั้งหมด </color>, <color\=#37ff53> คุณสมบัติตีบวกกระดูกวิญญาณ </color> สามารถรับได้จากเควสรายวันในระหว่างเปิดกิจกรรมร้านค้ารูปลักษณ์=A diamond-like Dazzling Rainbow Sausage, when consumed will enhance <color\=#37ff53> Squad ATK</color>,<color\=#37ff53> Squad DEF</color>,<color\=#37ff53> Squad HP</color>, and <color\=#37ff53> Squad Halo Enhancement Stats.</color> Obtainable during the Appearance Shop event through Daily Quest.
+01:25=01:25
+193/700=193/700
+01:29=01:29
+ไส้กรอกหมึกดำที่เหนือความสุดขีด ใช้ใน<ปาร์ตี้ไส้กรอก> สามารถเพิ่ม<color\=#37ff53>ATK ให้ทุกคน</color> <color\=#37ff53>DEF ให้ทุกคน</color> <color\=#37ff53>SPD ให้ทุกคน</color>=Allows the consumer to go beyond their limits. Use it to enhance <color\=#37ff53>Squad ATK</color>,<color\=#37ff53> Squad DEF</color> , <color\=#37ff53>Squad SPD</color>.
++0.5=+0.5
++770=+770
++78=+78
++0.25%=+0.25%
+การกินไส้กรอกแบบต่างๆ จะทำให้เกิดผลลัพธ์ต่างกัน=Eating different sausages rewards various stats.
+01:31=01:31
++4000=+4000
++200=+200
++500=+500
++2.50%=+2.50%
+<href\=6|565596397640825248><color\=#37ff53>[Chhun]</color></href>ได้รับวิญญาจารย์SP<href\=2|565596637093765622><color\=#ff2727>[เทพธิดาเก้าสี·หนิงหรงหรง]</color></href>จากการปลุกพลังวิญญาณยุทธ์!=<href\=6|565596397640825248><color\=#37ff53>[Chhun]</color></href>Received the spirit of SP<href\=2|565596637093765622><color\=#ff2727>[Nine -colored goddess · Ning Rong Rong]</color></href>From awakening the power of the strategy!
+<href\=6|565596397640825248><color\=#37ff53>[Chhun]</color></href>อัปวิญญาจารย์<href\=2|565596469270615001><color\=#dd7131>[กู่หรง]</color></href>ถึง <color\=#37ff53>5</color> ดาวแล้ว!=<href\=6|565596397640825248><color\=#37ff53>[Chhun]</color></href>Apsawin<href\=2|565596469270615001><color\=#dd7131>[Ku Rong]</color></href>to <color\=#37ff53>5</color> Star!
+01:32=01:32
++5500=+5500
++100=+100
++700=+700
++4.67%=+4.67%
+194/700=194/700
+tan san=Tan San
+NAENDRA=Nandra
+Matuzalem=Matuzalem
+ถังแก๊ส=ถังแก๊ส
+Dee=Dee
+ไส้กรอกภาพลวงตาหอแก้ว 9 สมบัติ เมื่อใช้ใน <งานฉลองไส้กรอก> จะเพิ่ม <color\=#37ff53> ATK ทั้งหมด </color>,<color\=#37ff53> DEF ทั้งหมด </color>,<color\=#37ff53> HP ทั้งหมด </color>, <color\=#37ff53> คุณสมบัติตีบวกกระดูก </color> สามารถรับได้ในกิจกรรมปิดผนึกเลเวล 89 หิมะรังแกน้ำค้าง=A dreamy Nine Treasure Glazed Sausage, when consumed, can enhance <color\=#37ff53> Squad ATK</color>,<color\=#37ff53> Squad DEF</color>,<color\=#37ff53> Squad HP</color>, and <color\=#37ff53> Squad Halo Enhancement Stats.</color> Obtainable in Lv. 89 Seal Event, Pride in the Snow.
+หากเรารวมพลังกัน ชัยชนะก็จะเป็นของเรา=If we join together, we will be victorious.
+โซ่พลังวิญญาณ=Spirit Link
+การ์ดวงแหวน=Spirit Halo Gallery
+การ์ดศาสตรา=Artifact Gallery
+การ์ดอาวุธลับ=H.Wpn Gallery
+การ์ดกระดูก=Spiritbone Gallery
+การ์ดวิญญาจารย์=Gallery
+วิญญาจารย์ใจตรงกัน=Bond
+แรร์=Rarity
+49=49
+35=35
+<color\=#66C6EA>47</color>=<color\=#66C6EA>47</color>
+เลือกวิญญาจารย์=Select
+01:36=01:36
+มิตรภาพ=Intimacy
+อาวุธลับ=H.Wpn
+ซัพพอร์ต/ป้องกัน=Support/Defense
+ควบคุม=Control
+โจมตีว่องไว=Agility
+โจมตีหนัก=Bruiser
+ข้าจะคุ้มครองทุกคนในทีมเอง=I will protect everyone in the team.
+01:43=01:43
+<color\=#5c3600>ได้รับจากกิจกรรมกิจกรรมเก็บเกี่ยวเท่านั้น</color>=<color\=#5c3600>This can only be obtained during Bumper Harvest event.</color>
+รางวัลฉลองผลผลิตⅠ=Harvest Gift I
+75=75
+ได้\nไอเทม=Contains
+ซื้อไอเทม=Purchase
+195/700=195/700
+ตราเก็บเกี่ยว=Chapter of Harvest
+ระดับ:ตำนาน=Level: Legend
+ที่มา=Origin
+บัตรปลุกพลังวิญญาณ=Summoning Ticket
+
+<color\=#373C60>เวลาจับคู่:</color>ทุกวัน05:00-23:59=<color\=#373C60>Match time:</color>Every day 05: 00-23: 59
+ซีซัน S7·ซีชั่นช่วงที่Ⅱ=Season S7 · Segment II
+<color\=#8a8154>11/1-12/1</color>=<color\=#8a8154>11/1-12/1</color>
+อันดับเซิร์ฟนี้: =Server Ranking: 
+-=-
+อันดับโลก: =World Ranking: 
+1000/1300=1000/1300
+ราชาวิญญาณทองเหลือง=Bronze
+โหมดยุติธรรม=Fair Mode
+รายละเอียดการจัดอันดับ=Ranking details
+2205=2205
+SpaceONE=Spaceone
+2206=2206
+58=58
+Thương Vợ Thương Con=Thương Vợ THương Con
+Global Server 31=Global Server 31
+2214=2214
+73=73
+ctrl=ctrl
+ขนนกเย็นยะเยือก3=ขนนกเย็นยะเยือก3
+อันดับสุดขีดจำกัด=Apex Ranking
+ถึงระดับจักรพรรดิวิญญาณเงิน=To the Emperor level
+88888=88888
+ซีชั่นช่วงที่Ⅱรางวัล=Segment II Reward
+4ช่วงซีชั่นถึงวิญญาณพรหมยุทธ์ม่วงศักดิ์\nจะได้รับ (0/4)=Receive after reaching Amethyst in 4 stages(0/4)
+4ช่วงซีชั่นถึงวิญญาณพรหมยุทธ์ม่วงศักดิ์\nจะได้รับ (1/4)=Receive after reaching Amethyst in 4 stages(1/4)
+4ช่วงซีชั่นถึงวิญญาณพรหมยุทธ์ม่วงศักดิ์\nจะได้รับ (2/4)=Receive after reaching Amethyst in 4 stages(2/4)
+4ช่วงซีชั่นถึงวิญญาณพรหมยุทธ์ม่วงศักดิ์\nจะได้รับ (3/4)=Receive after reaching Amethyst in 4 stages(3/4)
+4ช่วงซีชั่นถึงวิญญาณพรหมยุทธ์ม่วงศักดิ์\nจะได้รับ (4/4)=Receive after reaching Amethyst in 4 stages(4/4)
+รายละเอียด=Details
+รางวัลซีซัน=\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeason Reward
+<href\=6|565596397128403398><color\=#37ff53>[มารสวรรค์]</color></href>ได้รับวิญญาจารย์SSR<href\=2|565596458750198844><color\=#dd7131>[ไต้มู่ไป๋]</color></href>จากการปลุกพลังวิญญาณยุทธ์!=<href\=6|565596397128403398><color\=#37ff53>[Mara Sawan]</color></href>Received ssr<href\=2|565596458750198844><color\=#dd7131>[Bai Bai]</color></href>From awakening the power of the strategy!
+<color\=#61ddf7>มารสวรรค์:</color>รีบมาดูสิ! ฉันเพิ่งจะปลุกพลังวิญญาจารย์<href\=2|565596637191584182><color\=#dd7131>[ไต้มู่ไป๋]</color></href>!\n<href\=18|565596637191584194_565596397128403398_3><color\=#2f51cf>[แตะเพื่ออวยพรเขา]</color></href>=<color\=#61ddf7>Mara Sawan:</color>Hurry and see! I just awaken the power.<href\=2|565596637191584182><color\=#dd7131>[Bai Bai]</color></href>!\n<href\=18|565596637191584194_565596397128403398_3><color\=#2f51cf>[Tap to bless him]</color></href>
+01:57=01:57
+198/700=198/700
+01:58=01:58
+400=400
+ถึงระดับวิญญาณพรหมยุทธ์ม่วงศักดิ์=Reach Amethyst Tier
+ถึงระดับราชทินนามพรหมยุทธ์=Reach Guru Tier
+800=800
+ถึงระดับพรหมยุทธ์สุดขีดจำกัด=Reach Apex Tier
+ถึงระดับพรหมยุทธ์เลิศภพ=Reach Unrivaled Tier
+ถึงระดับมหาปราชญ์วิญญาณทอง=Reach Gold Tier
+ถึงระดับราชาวิญญาณเงิน=Reach Silver Tier
+Tott=TOTT
+{{A}}เปิดสนามรบหลัง=Battlefield opens in {{A}} 
+คะแนน {{A}}=CP: {{A}}
+{{A}}K={{A}}K
+เปิดแล้ว=Open
+{{A}} ชม. สิ้นสุด={{A}}
+แสงแก้วหยกงาม=แสงแก้วหยกงาม
+<href\=6|565596395227893491><color\=#37ff53>[เจย์มารี]</color></href>อัปวิญญาจารย์<href\=2|565596469325493271><color\=#ff2727>[พระสุเมรุ·ถังเฮ่า]</color></href>ถึง <color\=#37ff53>7</color> ดาวแล้ว!=<href\=6|565596395227893491><color\=#37ff53>[Jay Marie]</color></href>Apsawin<href\=2|565596469325493271><color\=#ff2727>[Phra Sumeru · Tang Hao]</color></href>to <color\=#37ff53>7</color> Star!
+<href\=6|565596478320343238><color\=#37ff53>[NhạcĐộ]</color></href>ได้รับวิญญาจารย์SSR<href\=2|565596487458654053><color\=#dd7131>[เมิ่งเสินจี]</color></href>จากการปลุกพลังวิญญาณยุทธ์!=<href\=6|565596478320343238><color\=#37ff53>[NHạCđộ]</color></href>Received ssr<href\=2|565596487458654053><color\=#dd7131>[Meng Shen Gi]</color></href>From awakening the power of the strategy!
+{{A}} แสนปี·ราชสีห์ทองคำสามตา={{A}}00,000 · Three-Eyed Golden Lion
+{{A}} แสนปี·พญาแมงป่องน้ำแข็งมรกต={{A}}00,000 · Ice Emerald Emperor Scorpion
+เขตแดนพญาน้ำแข็ง=Ice Emperor's Domain
+เป้ชั่วคราว=Temporary backpack
+วันเสาร์-11:00 - 19:50<color\=#5068e7>เพื่อเตรียมการในช่วงรบ,</color>20:00 - 20:20<color\=#5068e7>เป็นช่วงรบ</color>=Saturday -11:00 - 19:50<color\=#5068e7>To prepare during the battle,</color>20:00 - 20:20<color\=#5068e7>As a battle</color>
+ช่วงเตรียมการรบของสี่สำนัก=Fighting period of four schools
+Thần=Thần
+Phu Yen=Phu Yen
+สำนักทั้งหมดยกเว้นข้างต้น กลุ่มละ {{A}} สำนัก=All sects other than those mentioned above shall be in a groupds of {{A}}.
+VS=VS
+สนามฝ่ายเรา=Our field
+แบ่งสนามรบ=Divide the battlefield
+รังอสูรนรก=Infernal Den
+<color\=#61ddf7>Tan San:</color><#f02017>=<color\=#61ddf7>Tan San:</color><#f02017>
+<color\=#61ddf7>YU HAO:</color><#f02023>=<color\=#61ddf7>Yu Hao:</color><#f02023>
+灵冰斗罗=灵冰斗罗
+ไปปลุกพลัง=Summon Now
+ช่วงกิจกรรมเติมเงินสะสมทุกวัน {{A}} ฿（{{B}}）=Top up ฿{{A}} everyday during the event（{{B}})
+ระยะเวลา:{{A}} วัน สิ้นสุด=Event Time: Ends in {{A}} days
+รางวัลปลุกพลัง=Awakening Gift
+อยากตามหาความลับของมันงั้นเหรอ......?=Want to find its secret ......?
+เหอะๆ เจ้าตื่นเต้นอะไร?=Hehe, what are you excited?
+{{A}}ms={{A}}ms
+สำเร็จแล้ว:{{A}}=Completed: {{A}}
+ประเภทสมุนไพร=Type
+ชนิดสมุนไพร=Category
+เลือกเมล็ดพันธุ์=Select Seed
+Austin Griffin=Austin Griffin
+รางวัลขั้นต่ำ=Basic Rewards
+โบนัสคาดการณ์=Est. Bonus
+ดอกเบญจมาศสวรรค์=Celestimums
+สมุนไพร:LV {{A}}=Herbs: LV {{A}}
+สายโจมตีหนัก=Bruiser
+{{A}}%={{A}}%
+ดอกฤดีอาวรณ์=Crimson Lycoris
+สายโจมตีว่องไว=Agility
+เซียนวารีหยก=Jade Narcissus
+สายควบคุม=Control
+กล้วยไม้เซียน {{A}} กลีบ=Octapetal Orchid
+สายซัพพอร์ต=Support
+สายป้องกัน=Defense
+เลี้ยงดู=Plant
+li=li
+บันทึกเป็นทีมล่วงหน้า=Save Formation
+ทีมล่วงหน้า=Formation\nScheme
+เขตแดนพญาน้ำแข็ง·ทีมไล่ล่า=Phaya Ice Boundary · Team Chase
+เฟิงเซี่ยวเทียน=Feng Xiao Tian
+พระสุเมรุ·ถังเฮ่า=Phra Sumeru · Tang Hao
+ซัพพอร์ต=Support
+ยังเพิ่มแต้มไม่เต็ม=Not fully assigned
+วิญญาจารย์หลัก=Main spirit
+จำนวนลงต่อสู้=Deployed:
+DEEPAK=Deepak
+วันนี้ใช้สิทธิ์สำนักถังข้ามได้:{{A}}=Attempts left to skip: {{A}}
+จำกัดเวลา=Limit
+สนามไล่ล่าราชวงศ์=Dynasty chase field
+ป่าสนธยา=Sunset Forest
+ป่าล่าวิญญาณ=Hunting Forest
+ประวัติดรอป=History
+เวลารีเฟรช:<color\=#00CB13>16:34:08</color>=Refresh time:<color\=#00CB13>16:34:08</color>
+เวลารีเฟรช:<color\=#00CB13>16:34:07</color>=Refresh time:<color\=#00CB13>16:34:07</color>
+เหลือสิทธิ์:{{A}}=Left right: {{A}}
+รังอสูรในกวี=Demonstone in the poet
+พยัคฆ์ตามรกต=Tiger according to the emerald
+kjhjkh=kjhjkh
+jhkjh=jhkjh
+ฝูงอสูรค้างคาว=A group of cousin
+สิทธิ์ท้าทายวันนี้:<color\=#ff0000>{{A}}</color>=Today's attempts: <color\=#ff0000>{{A}}</color>
+ฆ่าแล้ว=	  Killed
+สายแมงป่องยักษ์=	Scorpion
+สายงู=	 Serpent
+สายสัตว์ปีก=	 Volant
+สายโล่=	 Scalmon
+ขณะนี้เขต:ใจกลางป่า Ⅱ=Current Region:\nForest (Core) II
+ทหารจ้าง=Mercenary
+Lv.{{A}} ({{B}} ปี-{{C}} ปี)=LV.{{A}} ({{B}} Year - {{C}} Year)
+ใจกลางป่า Ⅱ=Forest (Core) II			
+สัตว์วิญญาณชุดถัดไปปรากฏใน:=Spirit Beasts refresh in:
+รังถัดไป=Reset Den
+ท้า=defy
+ถอย=Retreat
+สูงสุด  {{A}}ปี=Maximum {{A}} year
+อายุ=age
+ประเภทดรอป=Drop type
+อัปอีก <color\=#F4B32A>2</color> เลเวลปลดล็อกถึง <color\=#F4B32A>ใจกลางป่า Ⅲ</color>=<color\=#F4B32A>2</color> more level(s) to unlock <color\=#F4B32A>Fores (Core) III</color>
+หมูเขี้ยวยักษ์=Giant pork
+มนุษย์หมาป่า=Wolf
+โหมดพื้นฐาน=Basic mode
+แมนนวล=Manual
+หมาป่านรก=Hemp
+แยกกระดูกที่สอดคล้องเงื่อนไขแล้ว=Eligible spiritbones have been salvaged.
+สถิติข้อมูล=Statistics
+<color\=#E978CE>{{A}} ปี</color>=<color\=#E978CE>{{A}} Year</color>
+<color\=#ffffff>{{A}} ปี</color>=<color\=#ffffff>{{A}} Year</color>
+วงแหวนแมงป่องยักษ์({{A}}k ปี)=Giant Scorpion Ring ({{A}}k Year)
+เข้ารังถัดไป=Next Den
+ลองอีกครั้ง=Again
+{{A}} ปี={{A}} Year
+{{A}}k ปี={{A}}K Year
+รังอสูรมือเอก{{A}}=Demonstone Hand Hands {{A}}
+รีเฟรช<#comm&comm_currency_0001>{{A}}ทันที=Refresh for <#comm&comm_currency_0001>{{A}}
+รีเฟรช<#comm&comm_currency_0001>{{A}}ทันที=Refresh for <#comm&comm_currency_0001>{{A}}
+รีเฟรช<#comm&comm_currency_0001>{{A}}ทันที=Refresh for <#comm&comm_currency_0001>{{A}}
+รีเฟรช<#comm&comm_currency_0001>{{A}}ทันที=Refresh for <#comm&comm_currency_0001>{{A}}
+ป่าส่วนใน Ⅰ=Forest (Interior) I			
+ใจกลางป่า Ⅰ=Forest (Core) I			
+ป่าส่วนใน Ⅲ=Forest (Interior) III			
+ป่าส่วนใน Ⅱ=Forest (Interior) II			
+ป่าส่วนกลาง Ⅲ=Forest (Central) III		
+ป่าส่วนกลาง Ⅱ=Forest (Central) II		
+ป่าส่วนกลาง Ⅰ=Forest (Central) I			
+ป่ารอบนอก Ⅲ=Forest (Peripheral) III			
+ป่ารอบนอก Ⅱ=Forest (Peripheral) II			
+({{A}} ปี-{{B}} ปี)=({{A}} Year -{{B}} Year)
+ป่ารอบนอก Ⅰ=Forest (Peripheral) I			
+Lv.{{A}}=Lv.{{A}}
+ใจกลางป่า Ⅲ=Forest (Core) III			
+สายพืช=Crop
+รีเฟรช {{A}} น.=Refresh {{A}}
+เปิดศึกหลัง {{A}} นาที{{B}} วินาที=Battlefield opens in {{A}} minutes {{B}} second
+ต้นไม้แห่งชีวิต {{A}} แสนปี={{A}}00,000\nTree of Life 
+ราชสีห์ทองคำสามตา {{A}} แสนปี={{A}}00,000\nThree-Eyed Golden Lion
+พญามังกรดำตาทอง {{A}} แสนปี={{A}}00,000\nGolden-Eyed Black Dragon
+ว่าง=Idle
+พญาแมงป่องน้ำแข็งมรกต {{A}} แสนปี={{A}}00,000\nIce Emerald Emperor Scorpion
+<color\=#FF1919>Global Server 45</color>=<color\=#FF1919>Global Server 45</color>
+<color\=#FF1919>Golu</color>=<color\=#FF1919>Golu</color>
+เปิดศึกหลัง {{A}} วินาที=Battle opens in {{A}} seconds
+สัตว์วิญญาณ=Soul animal
+<color\=#FF1919>Cửu Thiên</color>=<color\=#FF1919>Cửu Thiên</color>
+<color\=#FF1919>Boss</color>=<color\=#FF1919>Boss</color>
+<color\=#FF1919>YEBO</color>=<color\=#FF1919>Yebo</color>
+<color\=#FF1919>Thuật Tiểu Thành</color>=<color\=#FF1919>Thuật Tiểu Thành</color>
+<color\=#FF1919>Top1Sv</color>=<color\=#FF1919>Top1sv</color>
+<color\=#FF1919>Natalie</color>=<color\=#FF1919>Natalie</color>
+Hoá Thần Cảnh=Hoá thần cảnh
+<color\=#FF1919>Hoá Thần Cảnh</color>=<color\=#FF1919>Hoá thần cảnh</color>
+<color\=#FF1919>Sideris</color>=<color\=#FF1919>Sideris</color>
+<color\=#FF1919>Lucky Roll</color>=<color\=#FF1919>Lucky Roll</color>
+<color\=#FF1919>Metkachkills</color>=<color\=#FF1919>Metkachkills</color>
+pu=pu
+Global Server {{A}}=Global Server {{A}}
+CP:{{A}}=CP: {{A}}
+เข้า=enter
+เซิร์ฟเวอร์:ไม่มี=Server: No
+CP:ไม่มี=CP: No
+รอเข้า=Wait
+สร้างทีม=Create a team
+รีเฟรช=Refresh
+จับทีมขั้วโลกเหนือ=Catch the North Pole team
+ยื่นขอแล้ว=Apply
+<color\=#61ddf7>ATuLaHầu :</color>จับทีมฝึกขั้วโลกเหนือแล้ว มาจับทีมช่วงชิงขุมทรัพย์กันเถอะ!<color\=#37ff53><href\=112|564752215113023657>[เข้าร่วมทีม]</href></color>=<color\=#61ddf7>Atulahầu:</color>Arrested the North Pole Training Team\nLet's capture the treasure team!<color\=#37ff53><href\=112|564752215113023657>[Join the team]</href></color>
+รายการสัตว์ร้าย=Spirit Beast
+ทัมฝึกฝน=Tum
+จับทีมด่วน=Team Up
+จับทีมสามคน หลังจับทีม รางวัลสิทธิ์จะแชร์ทั้งทีม คนละ {{A}} ชุด=Catch the three teams after catching the rights team to share the whole team. {{A}}
+AHieenen=Ahieenn
+<color\=#FF1919>AHieenen</color>=<color\=#FF1919>Ahieenn</color>
+<color\=#FF1919>๐VyrusTa๐</color>=<color\=#FF1919>0vyrusta00</color>
+สมัครเข้าทีมสำเร็จ รอกัปตันตกลง=Waiting for the Team Leader to respond.
+สมาชิกทีมอีกฝ่ายเต็มแล้ว=Team is currently full.
+<color\=#61ddf7>FoxyLady:</color>จับทีมฝึกขั้วโลกเหนือแล้ว มาจับทีมช่วงชิงขุมทรัพย์กันเถอะ!<color\=#37ff53><href\=112|564752215116304007>[เข้าร่วมทีม]</href></color>=<color\=#61ddf7>Foxylady:</color>Arrested the North Pole Training Team\nLet's capture the treasure team!<color\=#37ff53><href\=112|564752215116304007>[Join the team]</href></color>
+ขั้วโลกเหนือ=North Pole
+ฝึกขั้วโลกเหนือ·ช่วงจับทีม=Practicing the North Pole · The team capture
+<color\=#FF1919>Phoenix</color>=<color\=#FF1919>Phoenix</color>
+<color\=#FF1919>WinterHail</color>=<color\=#FF1919>Winterhail</color>
+<color\=#FF1919>ชิงโหมว</color>=<color\=#FF1919>ชิงโหมว</color>
+<color\=#FF1919>VtonV</color>=<color\=#FF1919>VTONV</color>
+<color\=#FF1919>ZHANG YAMI</color>=<color\=#FF1919>Zhang Yami</color>
+<color\=#FF1919>เซียวหยาง</color>=<color\=#FF1919>เซียวหยาง</color>
+<color\=#FF1919>อู่ต๋ง</color>=<color\=#FF1919>อู่ต๋ง</color>
+<color\=#FF1919>Gà Tiêu Dao</color>=<color\=#FF1919>Gà Tiêu Dao</color>
+<color\=#FF1919>Thiên Tuyến</color>=<color\=#FF1919>Thiên tuyến</color>
+<color\=#FF1919>ԍà cнιcκᴇɴsнoᴀɴԍ</color>=<color\=#FF1919>ԍà c 5ιcκᴇɴsнoᴀɴԍ</color>
+<color\=#FF1919>TamCa 79</color>=<color\=#FF1919>Tamca 79</color>
+Gà Tam Hoàng=Gà Tam Hoàng
+<color\=#FF1919>Gà Tam Hoàng</color>=<color\=#FF1919>Gà Tam Hoàng</color>
+S{{A}}S Tin Tin=S{{A}}S Tin Tin
+<color\=#FF1919>S0S Tin Tin</color>=<color\=#FF1919>S0S Tin Tin</color>
+ENDLESS=Endless
+<color\=#FF1919>ENDLESS</color>=<color\=#FF1919>Endless</color>
+<color\=#FF1919>ꜱøɴɢ ᴊɪɴ ᴡøø</color>=<color\=#FF1919>ꜱøɴɢ ᴊɪɴ ᴡøø</color>
+<color\=#FF1919>AnsSan</color>=<color\=#FF1919>Antisan</color>
+<color\=#FF1919>Diễm Diễm</color>=<color\=#FF1919>Diễm diễm</color>
+<color\=#FF1919>Shikishima</color>=<color\=#FF1919>Shikishima</color>
+<color\=#FF1919>TRH18</color>=<color\=#FF1919>TRH18</color>
+<color\=#FF1919>นักรบกัญชาog</color>=<color\=#FF1919>นักรบกัญชาog</color>
+<color\=#FF1919>Gà Không Biết Gáy</color>=<color\=#FF1919>Gà Không Biết Gáy</color>
+<color\=#FF1919>Ak79</color>=<color\=#FF1919>AK79</color>
+<color\=#FF1919>phongbe01</color>=<color\=#FF1919>phongbe01</color>
+เขตสำรวจ\n<color\=#dd7131>(กำลังเคลื่อนที่)</color>=Survey\n<color\=#dd7131>(Moving)</color>
+4 แสนปี·ราชสีห์ทองคำสามตา\n<color\=#E6EAFF>(ว่าง)</color>=400,000 · Three-Eyed Golden Lion\n<color\=#E6EAFF>(free)</color>
+8 แสนปี·พญาแมงป่องน้ำแข็งมรกต\n<color\=#E6EAFF>(ว่าง)</color>=800,000 · Ice Emerald Emperor Scorpion\n<color\=#E6EAFF>(free)</color>
+{{A}} นาที={{A}} minutes
+กำลังคืนชีพ(<color\=#f5b428>{{A}} นาที{{A}} วินาที</color>)=Resurrected (<color\=#f5b428>{{A}} minutes {{A}} second</color>)
+ปิดสนามรบหลัง {{A}} นาที{{B}} วินาที=Battlefield ends in {{A}} minutes {{B}} second
+<color\=#FF1919>ATuLaHầu </color>=<color\=#FF1919>Atulahầu </color>
+กำลังคืนชีพ(<color\=#f5b428>{{A}} วินาที</color>)=Resurrected (<color\=#f5b428>{{A}} second</color>)
+ยกเลิกค้นหาทางออโต้=Auto-move cancelled
+เรียกรวมลูกทีม=SOS
+เก็บ=Claim
+{{A}} วินาที={{A}} second
+กำลังเก็บ..=Keeping ..
+เก็บสำเร็จ=Accomplish
+เปิดหีบสำเร็จ ได้รับขุมทรัพย์ขั้วโลกเหนือ=Open the trunk successfully\nReceived the north pole treasure
+เก็บหีบไร้เจ้าของสำเร็จ ยังได้รับหีบไร้เจ้าของอีก {{A}} อัน=Successfully kept the owner of the owner\nAlso received another owner's chest
+หีบไร้เจ้าของ=Owner
+กำลังเก็บ.=Storage.
+<color\=#FF1919>LIJIN</color>=<color\=#FF1919>Lijin</color>
+VtonV=VTONV
+<color\=#FF1919>Clitoris</color>=<color\=#FF1919>Clitoris</color>
+สัตว์ร้ายคืนชีพแล้ว หลังเอาชนะ จะได้รับรางวัลจำนวนมาก=The beast resurrected after defeating will receive a lot of awards.
+เข้าร่วมปล้นชิง=Rob
+8 แสนปี·พญาแมงป่องน้ำแข็งมรกต\n<color\=#ff2727>(กำลังต่อสู้)</color>=800,000 · Ice Emerald Emperor Scorpion\n<color\=#ff2727>(Fighting)</color>
+<color\=#{{A}}FF{{B}}></color>=<color \=#{{A}}zff{{B}}> </ color>
+ดีบัฟหมู่=Debuff Group
+ได้รับดาเมจลดลง=DMG↓
+ATK , HP, CRIT, CRIT DMG เพิ่มขึ้น=ATK, HP, Crit, Crit DMG
+-{{A}}=-{{A}}
+แมงป่องหยก.เกราะศึก=Jade Scorpion· Wargear
+เทพสังหาร=Deathgod Domain
+<color\=#FF1919>4466.4M</color>=<color\=#FF1919>4466.4M</color>
+สัตว์ร้ายคืนชีพแล้ว หลังเอาชนะ จะได้รับรางวัลจำนวนมาก=The beast resurrected after defeating will receive a lot of awards.
+เวทนา=Compassion
+ATK ลดลง=ATK↓
+เทพปกปักษ์=Divine Blessing
+เทพปกปักษ์·SPD=Thep Paknak · SPD
+เทพปกปักษ์·พลังโจมตี=Thep Pakkrak · attack power
+{{A}} นาที {{B}} วินาที={{A}} minutes {{B}} second
+ไม่มีข้อมูล=No information
+CRIT สูงขึ้น=CRIT DMG↑
+ตรา {{A}} สมบัติ={{A}} brand
+ชื่อผู้เล่น=Player name
+พลังจิตสูงขึ้น =Willpower↑
+เมตตาเทพ=Divine Grace
+หั่วอู่=Huh
+ร้อนระอุ=Blazing
+ระเบิดวงแหวน=Explosive Ring
+เจ้าแมงป่อง·พิโรธ=Imperial Scorpion· Fury
+ยิ่งดาเมจทีมสูง ยิ่งมีโอกาสได้รับรางวัลสิทธิ์ชั่วคราวสูง=The higher the team damage, the higher the chance of getting a generous reward.
+x{{A}}=X{{A}}
+โจมตีปกติ=Normal Attack
+บัฟเดี่ยว=Single buff
+ดาเมจสูงขึ้น =ATK↑
+ฟื้นฟูสูงขึ้น=Regeneration
+เทพปกปักษ์·พลังจิต=Thep Paknak · Psychic
+∞=∞
+สีสันงดงาม=Brilliance
+แผดเผา=Scorch
+ซาตานพยัคฆ์=Apotheosis
+ทีมของ Golu รับคำท้าประลองสำเร็จ ได้รับรางวัลสิทธิ์ 赤红天蝎=Golu's team received successful challenges.\nReceive the rights 赤红天蝎
+เยาะเย้ย=Taunt
+เจาะเกราะ=Armor Breaker
++{{A}}=+{{A}}
+หีบสิทธิ์=Rights
+รางวัลฆ่า=Kill
+แผดเผาสิ้นสุด=End
+อันดับทีม=Team
+พลังโจมตีสูงขึ้น =ATK↑
+บัฟหมู่=Buff Group
+อัปเกรด ATK =ATK↑
+อันดับผู้เล่น=Player
+ดาเมจ=Damage
+ชื่อทีม=Team Name
+อันดับ=Rank
+ออโต้=Auto
+ปีศาจแมงมุมเลือดสังหาร=Bloodthirsty Demon Spider
+ยุพาชมพู=Pink Spider
+กำลังปล้นชิง=Robbery
+<color\=#FF1919>ViệtBìu</color>=<color\=#FF1919>Việtbìu</color>
+บัฟสิ้นสุด=Buff Ends
+แมงมุมหลวง·เทพวาจา=Arachnid · Kotodama
+มึนงง=Stun
+ได้รับดาเมจสูงขึ้น=DMG Taken↑
+<color\=#FF1919>1278.9B</color>=<color\=#FF1919>1278.9B</color>
+มึนงงสิ้นสุด=Dizzy
+<href\=6|565596563280872328><color\=#37ff53>[KhayHan1478]</color></href>ได้รับวิญญาจารย์SSR<href\=2|565596576520112169><color\=#dd7131>[ตู๋กูป๋อ]</color></href>จากการปลุกพลังวิญญาณยุทธ์!=<href\=6|565596563280872328><color\=#37ff53>[Khayhan1478]</color></href>Received ssr<href\=2|565596576520112169><color\=#dd7131>[Tu Kop]</color></href>From awakening the power of the strategy!
+กวางมงคล·เสียงกวาง=Auspicious Deer· Decree
+หนามไฟ=Fire Thorns
+ดีบัฟสิ้นสุด=Good Buff ends
+อัปเกรดลิมิตพลังวิญญาณ=SP Limit↑
+เยาะเย้ยสิ้นุสด=End
+ทีมของ Clitoris ในการต่อสู้สัตว์ร้าย {{A}}K ของปริมาณดาเมจถูกดูดซับแก่นสัตว์ร้าย=Clitoris's team in the fighting {{A}}k beast of Damage volume is absorbed by the beast.
+ชนะ=Victory
+แตะหน้าจอเพื่อไปต่อ=Touch the screen to continue
+อันดับดาเมจส่วนตัวที่ {{A}} ได้รับรางวัลฆ่าที่สอดคล้องกับอันดับ=Personal damage that {{A}} won the killing award in line with the rankings.
+แตะหน้าจอเพื่อไปต่อ({{A}})=Touch the screen to go ({{A}})
+<color\=#FF1919>วินเซนต์</color>=<color\=#FF1919>Wincent</color>
+ฝึกขั้วโลกเหนือ·ช่วงไล่ล่า=Practice North Pole · Chase
+เอาชนะ{{A}} แสนปี·ต้นไม้แห่งชีวิต จะดรอปหีบไร้เจ้าของจำนวนมาก=Beat {{A}} hundred thousand years · Tree of life\nWill drop a large number of owners
+Gà Tiêu Dao=Gà Tiêu Dao
+8 แสนปี·พญาแมงป่องน้ำแข็งมรกต\n<color\=#ff2727>(กำลังโจมตี)</color>=800,000 · Ice Emerald Emperor Scorpion\n<color\=#ff2727>(Attack)</color>
+ViệtBìu=Việtbìu
+ลูกทีม=Team
+{{A}} สิ้นสุด={{A}} ends
+<color\=#96A9D3>ลูกทีมเหลือรอด 1 คน:กัปตันได้รับดาเมจลดลง50% SPDเพิ่มขึ้น50แต้ม</color>\n\nลูกทีมเหลือรอด 2 คน:กัปตันได้รับดาเมจลดลง100% SPDเพิ่มขึ้น100แต้ม=<color\=#96A9D3>The team survived 1. People: Captain gets a damage to 50% SPD.</color>\n\nThe team survived 2. People: Captain gets a damage to 100% SPD.
+โบนัสคุณสมบัติลูกทีม=Bonus of the team qualifications
+Clitoris=Clitoris
+LIJIN=Lijin
+CP:<color\=#E9B528>{{A}}</color>=CP:<color\=#E9B528>{{A}}</color>
+Top{{A}}Sv=Top{{A}}sv
+หัวหน้าทีม=Team leader
+สแตนด์บาย=Standby
+เวทีประลอง=Stage
+ดูแผนที่=See the map
+desing_UI_WinArcticRegion_{{A}}_{{B}}=Desing_UI_WINARCTICREGION_{{A}}_{{B}}
+{{A}} นาที{{B}} วินาที={{A}} minutes {{B}} second
+ออกสนามรบ=Launch
+ดรอปไร้เจ้าของ=Owner
+รางวัลสิทธิ์(คนละชุด)=Awards (different sets)
+ภายใน {{A}} วินาที เอาชนะฝ่ายโจมตี จะสามารถลดเวลาป้องกัน=Within {{A}} seconds, beat the attack.\nWill be able to reduce protection time
+โจมตี=attack
+รางวัลที่ได้รับหลังสรุปสนามรบ จะส่งไอเทมผ่านอีเมล=Awards received after the battlefield summary\nWill send items via email
+รอแมตช์=Wait for the match
+ทีม Clitoris=Clitoris team
+เจ้าเวทีประลองปัจจุบัน:=Current show stage:
+กำลังช่วงชิง(<color\=#f5b428>{{A}} นาที{{A}} วินาที</color>)=Hunting (<color\=#f5b428>{{A}} minutes {{A}} second</color>)
+กำลังช่วงชิง(<color\=#f5b428>{{A}} วินาที</color>)=Hunting (<color\=#f5b428>{{A}} second</color>)
+ทีม=team
+ทีม phongbe{{A}}=PHONGBE{{A}} team
+ส่งข้อความเรียกรวมให้ลูกทีมแล้ว=Send a message to the team.
+Phoenix=Phoenix
+Metkachkills=Metkachkills
+Lucky Roll=Lucky Roll
+Thuật Tiểu Thành=Thuật Tiểu Thành
+TRH{{A}}=TRH{{A}}
+ATuLaHầu =Atulahầu 
+กำลังแมตช์=Matching
+รอฝ่ายตรงข้ามดาวน์โหลดการต่อสู้..=Waiting for the opponent...
+ลดพลังป้องกัน=Reduce defense power
+พลังป้องกันวิญญาจารย์ทั้งสองฝ่ายลดลงจำนวนมาก=The power to protect the souls of both sides decreased a lot.
+ยิ่งดาเมจสูง ยิ่งมีโอกาสได้รับสิทธิ์สูง=The higher the Damage, the more chances of receiving privileges.
+เยี่ยน=Yan
+หยางอู๋ตี๋=Yang Wudi
+อาอิ๋น=Ayin
+ลดการใช้=Reduce use
+เจตนากระตุ้น=Stimulate
+ถูกเจตนาเปลี่ยน=Torture
+ได้รับพิษ=Poisoned
+เกราะคุ้มกันพยัคฆ์ขาว=White Tiger Protection
+ฆ่า=kill
+โล่=Shield
+เพิ่มการใช้=SPD UP
+อัปเกรด HP =HP UP
+ตู๋กูป๋อ=ตู๋กูป๋อ
+พลังจิตลดลง=Willpower Down
+ทีมของ Clitoris รับคำท้าประลองสำเร็จ ได้รับรางวัลสิทธิ์ 八十万年·冰碧帝皇蝎=Clitoris's team received the challenge.\nReceived the right 八十万年 八十万年 冰碧帝皇蝎 冰碧帝皇蝎
+ยินดีด้วย ท่านกลายเป็นเจ้าเวทีประลองแล้ว=Congratulations, he became a showdown.
+แมงป่องพิษร้อยปี=A hundred years poisonous scorpion
+ทีมของ phongbe{{A}} รับคำท้าประลองสำเร็จ ได้รับรางวัลสิทธิ์ 四十万年·生命之树=Phongbe{{A}} teams received a successful showdown.\nReceived the right 四十万年 四十万年 生命之树 生命之树
+ตาย=dead
+เอาชนะ{{A}} แสนปี·พญามังกรดำตาทอง จะดรอปหีบไร้เจ้าของจำนวนมาก=Defeating {{A}}00,000 Golden-Eyed Black Dragon King will drop numerous unclaimed chests.
+Cửu Thiên=Cửu Thiên
+เอาชนะ{{A}} แสนปี·ราชสีห์ทองคำสามตา จะดรอปหีบไร้เจ้าของจำนวนมาก=Defeat {{A}}00,000 · Three-Eyed Golden Lion will drop numerous unclaimed chests.
+ขัดจังหวะการเก็บ=Interrupted storage
+กำลังเก็บ...=Keeping ...
+เป้ชั่วคราววันเสาร์=Temporary Saturday
+เลือกสนามนี้=Choose this field
+เป้ชั่วคราววันศุกร์=Temporary Friday
+หมาป่านรกเงาพิสดาร=หมาป่านรกเงาพิสดาร
+แมวสีสัน=แมวสีสัน
+{{A}}M={{A}}M
+CUTGRIL=CutGril
+พลังโจมตีเพิ่มขึ้นอย่างถาวร และเพิ่มพลังโจมตีตามพัฒนาการของพลังจิตพื้นฐานของเทพธิดาเก้าสี·หนิงหรงหรง=Attack power is permanently enhanced, with additional increases based on the growth of the Nine-Colored Goddess, Ning Rongrong's, core spiritual power.
+{{A}} ชั้น={{A}}
+หัวเห็ดคุง=หัวเห็ดคุง
+สถานการณ์\nจริง=DMG\nRanking
+สถานะที่ได้รับจากเทพธิดาเก้าสี·หนิงหรงหรงเป็นตามจำนวนคุณสมบัติพื้นฐานสูงสุดของลูกทีม เสริมคุณสมบัติพื้นฐานสูงสุดสอดคล้องของลูกทีมตามจำนวนชั้นของสถานะ=The blessing received from the Nine-Colored Goddess, Ning Rongrong, boosts the team members' strongest fundamental attributes. This enhancement aligns with the highest base qualities of the team and increases according to the number of status layers.
+รางวัล\nสัตว์ยักษ์=Behemoth\nReward
+ขอสำ\nนักช่วย=Rally
+อันดับในสำนัก=Sect
+ดาเมจจากการโจมตีปกติลดลง {{A}}%=Damage from normal attacks decreased {{A}}%
+ร้อนสงคราม=Upsurge
+ดาเมจจากการโจมตีปกติลดลง =Damage from normal attacks decreased 
+อันดับสำนัก=Server
+เหลือเวลาท้าทาย:=Challenge time left:
+แดดจ้า=Scorching Sun
+วานรยักษ์ไททัน=Titan Ape
+<href\=6|565596401575871318><color\=#37ff53>[CUTGRIL]</color></href>กดถูกใจคุณ=<href\=6|565596401575871318><color\=#37ff53>[CutGril]</color></href>liked you.
+<color\=#37FF53>ผู้ท้าทาย:38/500</color>=<color\=#37FF53>Challenger: 38/500</color>
+<color\=#37FF53>ผู้ท้าทาย:7/500</color>=<color\=#37FF53>Challenger: 7/500</color>
+Yagjกำหนดเป้าหมายสำนักรวมพล<color\=#f5b428> < วานรยักษ์ไททัน > </color>=YAGJ set rally target to<color\=#f5b428> < Titan Ape > </color>
+<color\=#f5b428> < วานรยักษ์ไททัน > </color>=<color\=#f5b428> < Titan Ape > </color>
+มังกรมายายะเยือก=Frost Visage
+วัวอสรพิษมรกต=Celestial Oxerpent
+วิญญาณเต่าดำ=Genbu Spirit
+เข้าแผนที่=Enter Map
+อันดับสัตว์สงครามยักษ์=Behemoth\nRank
+บันทึกสนามรบ=Battlefield\nLog
+สนามรบ=Battle\nfield
+แนวหน้าสงคราม:ด่านเจียหลิง=Warfront: Jialing Pass
+<href\=6|565596418916541813><color\=#37ff53>[CTY]</color></href>อัปวิญญาจารย์<href\=2|565596491320850113><color\=#dd7131>[อาอิ๋น]</color></href>ถึง <color\=#37ff53>5</color> ดาวแล้ว!=<href\=6|565596418916541813><color\=#37ff53>[CTY]</color></href>Apsawin<href\=2|565596491320850113><color\=#dd7131>[Ahi]</color></href>to <color\=#37ff53>5</color> Star!
+อันดับสัตว์ยักษ์=Behemoth Rank
+ประวัติสนาม=Battlefield\nRecord
+เป้าหมายรวมพล=Rally Target
+เปลี่ยนแผนที่=Switch Map
+ด่านเจียหลิง=Jialing Pass
+({{A}})=({{A}})
+<color\=#2f51cf>Kanilk3</color>ช่วย<color\=#2f51cf>Xà Mâu Đấu La</color>เคลียร์<color\=#ff1919>สำนักฝึกฝน-พัฒนาอสูรพิทักษ์·ต่อสู้</color>ระดับยากเย็น!=<color\=#2f51cf>Kanilk3</color>help<color\=#2f51cf>Xà mâ đấu la</color>clear<color\=#ff1919>Demon Defense Training-Fight Development</color>Hard level!
+ยินดีด้วย <color\=#2f51cf>เก่าเยว่</color>ได้รับ<color\=#dd7131>เผาระเบิด</color>จาก<color\=#37ff53>ฝึกยอดยุทธ์</color>!=congratulations <color\=#2f51cf>Old</color>and score <color\=#dd7131>Bomb</color>from<color\=#37ff53>Practice</color>!
+SPD ของตัวละครกำหนดลำดับลงมือ=SPD determines the order of action.
+ลงมือ=Order
+หลังแก้ไขทีม จะบันทึกอัตโนมัติ=Formation changes are automatically saved
+ทีม {{A}} คน={{A}}-Character\nFormation
+ตั้งค่าทีม=Formation Settings
+โอนตีบวกวงแหวนอัตโนมัติ=Automatic Halo\nEnhancement Transfer
+ขาดวิญญาจารย์สายโจมตีว่องไว=Lack of Agility Spiritmaster
+วิญญาจารย์สำรอง=Pillar Formation
+แก้ไข=Edit
+ใช้กระดูกล่วงหน้าสำรอง=Use Pillar Spiritbone Preset
+กดตำแหน่งทีมที่ต้องการบันทึก=Tap to save the formation
+บันทึกแผนวงแหวนตัวละครขณะนี้เป็นวงแหวน/อาวุธลับล่วงหน้า=Save the current Halo/Hidden Weapon scheme
+dariel=Dariel
+มารสวรรค์=มารสวรรค์
+BigDaddy =BIGDADDY 
+เลเวลที่แล้ว ศัตรูได้รับอวยพรไม่เกิน {{A}} ครั้ง ปลดล็อก=Last level, the enemy received a greeting no more than {{A}}.
+ท้าทายหลายเท่า=Multi Challenge
+สิทธิ์รางวัล:<color\=#FF0000>{{A}}</color>/<color\=#FFFFFF>{{A}}</color>=Reward Attempts:<color\=#FF0000>{{A}}</color>/<color\=#FFFFFF>{{A}}</color>
+ท้าทาย=Challenge
+กวาง{{A}} สมบัติ. LV{{B}}=Jadehorn Lv. {{B}}
+ข้อมูลสัตว์วิญญาณ=Spirit Beast Handbook
+ปฏิทินสัตว์วิญญาณ=Calendar
+<color\=#2f51cf>Amr Eid</color>ผ่าน<color\=#37ff53>ฝึกยอดยุทธ์</color>-<color\=#37ff53>แกว่งกระบี่แปดทิศ ศึกสุดยอด</color>แล้ว=<color\=#2f51cf>AMR EID</color>Clear <color\=#37ff53>Practice</color>-<color\=#37ff53>Swinging the sword eight directions</color>already
+เมื่อเริ่มเทิร์นทำให้ดาเมจที่ทหารมิตร <color\=#5c3600>3</color> คนที่มีโจมตีสูงสุดสร้างเพิ่มขึ้นถาวร <color\=#5c3600>4.80%</color> ซ้อนสูงสุด <color\=#5c3600>5</color> ชั้น=When starting to turn, the damage to the soldiers <color\=#5c3600>3</color> People with the highest attack are permanently created. <color\=#5c3600>4.80%</color> Maximum <color\=#5c3600>5</color> floor
+กวางนิล.เสียงกวาง=Ether Deer· Decree
+ทำให้ดาเมจท้ายสุดจากการโจมตีปกติเสริมและการโจมตีปกติของเพื่อนจะเพื่มขึ้นถาวร<color\=#5c3600>15.00%</color>=Causing the final damage from normal attacks and normal attacks of friends to increase permanently<color\=#5c3600>15.00%</color>
+เอฟเฟกต์รักษาเพิ่มขึ้น <color\=#5c3600>18.00%</color>=More treatment effects <color\=#5c3600>18.00%</color>
+กวางมงคล·หยั่งรู้=Auspicious Deer· Heart
+ทำให้ดาเมจท้ายสุดที่สร้างก่อน <color\=#5c3600>5</color> เทิร์นของเพื่อนอัปเกรด<color\=#5c3600>4%</color> ดาเมจท้ายสุดที่สร้างหลังจากนี้จะเพื่มขึ้น<color\=#5c3600>12.00%</color>;=Boost the final DMG dealt by allies for the first <color\=#5c3600>5</color> turns by <color\=#5c3600>4%</color>, and afterwards by <color\=#5c3600>12.00%</color>
+ดรอปวงแหวน=Halo Drops
+LV {{A}}=LV {{A}}
+(เปิดวันพฤหัส,เสาร์,อาทิตย์)=(Open Thursday, Saturday, Sunday)
+กวาง{{A}} สมบัติ=Jadehorn
+กวาง\n{{A}} สมบัติ=Jadehorn
+วิญญาณ\nเต่าดำ=Genbu Spirit
+วัวอสรพิษ\nมรกต=Celestial Oxerpent
+แมงมุม\nปีศาจนรก=Nether Arachnid
+นางพญา\nผีเสื้อ=Butterfly Queen
+มังกรมายา\nยะเยือก=Frost Visage
+วานรยักษ์\nไททัน=Titan Ape
+แมงป่อง\nเหล็กมรกต=Emerald Scorpion
+กลยุทธ์=Guide
+คลิปผ่านด่าน=Stage Video
+ได้รับดาเมจลดลง <color\=#5c3600>8.26%</color>;เอฟเฟกต์รักษาเพิ่มขึ้น <color\=#5c3600>18.00%</color>=DMG↓ <color\=#5c3600>8.26%</color>Increased treatment effects <color\=#5c3600>18.00%</color>
+กวางนิล.หยั่งรู้=Ether Deer· Heart
+กวางนิล.แสงแก้ว=Ether Deer· Light
+ทำให้ทหารมิตร <color\=#5c3600>3</color> คนที่มีโจมตีสูงสุด เพิ่มโจมตีปกติและเสริมดาเมจโจมตีปกติ <color\=#5c3600>18.00%</color>=Make a friend <color\=#5c3600>3</color> The most attacked person\nIncrease normal attacks and promote normal attacks <color\=#5c3600>18.00%</color>
+Crizx=CRIZX
+กวางมงคล·แสงแก้ว=Auspicious Deer· Light
+เต่าดำ.บุกค่าย=Genbu· Charge
+เมื่อเริ่มต่อสู้ทำให้ลูกทีม <color\=#5c3600>3</color> คนที่มีโจมตีสูงสุด เทิร์นที่ <color\=#5c3600>1</color> ทำดาเมจเพิ่มขึ้น <color\=#5c3600>13.50%</color> เทิร์นที่ <color\=#5c3600>2</color> ทำดาเมจเพิ่มขึ้น <color\=#5c3600>6.75%</color>=When starting to fight, the team <color\=#5c3600>3</color> People with the highest attack at <color\=#5c3600>1</color> More damage <color\=#5c3600>13.50%</color> Turn <color\=#5c3600>2</color> More damage <color\=#5c3600>6.75%</color>
+เต่าดำ.บารมีอสรพิษ=Genbu· Momentum
+เมื่อได้รับดาเมจ มีอัตรา <color\=#5c3600>60%</color> ทำให้ดาเมจครั้งนี้ลดลง <color\=#5c3600>23.50%</color>=When receiving damage <color\=#5c3600>60%</color> Causing this damage to decrease <color\=#5c3600>23.50%</color>
+·วิญญาณเต่าดำจะค่อยๆปล่อยหลายสกิลหลังจากโจมตีปกติแล้ว และดาเมจจะค่อยๆเพิ่มขึ้น\n\n·พยายามทำการควบคุมให้ได้ก่อนที่เขาจะปล่อนแอคทีฟสกิล หลีกเลี่ยงดาเมจสูงของแอคทีฟสกิลทำการลดสมาชิกฝ่ายตน=· Black turtle spirit will gradually release many skills after normal attack\nAnd the damage will gradually increase\n\n· Try to control before he cut the active skill.\nAvoiding the high level of Active Skill to reduce their members.
+ลูกทีมได้รับดาเมจลดลง <color\=#5c3600>4%</color>, ตนเองได้รับดาเมจลดลง <color\=#5c3600>8.00%</color>=The team has decreased damage. <color\=#5c3600>4%</color>, I have reduced damage. <color\=#5c3600>8.00%</color>
+เต่า.บารมีอสรพิษ=Black Tortoise· Momentum
