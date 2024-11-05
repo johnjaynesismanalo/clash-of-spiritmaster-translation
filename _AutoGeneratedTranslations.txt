@@ -1,6 +1,5 @@
 ﻿{{A}}k ปี={{A}}k year
 <color\=#dd7131>[ไต้มู่ไป๋]</color>=<color\=#dd7131>[Dai Mubai]</color>
-[ ((A)) ]<color\=#f5b428>เส้นทางโต้วหลัว {{A}}</color>=[{{A}}] <color\=#f5b428> Douluo Path {{A}}</color>
 ผ่าน=Clear 
 หลัง<href\=6|565596398945928825><color\=#37ff53>[Mulozn]</color></href>ร่วมกิจกรรมฝูงอสูรกลายพันธุ์ที่มิติป่า Ⅲ  และฆ่าฝูงอสูรฟีนิกซ์สำเร็จ เขาก็ได้เจอ <href\=2|565596629705068329><color\=#000000>[50k ปี·วงแหวนแมลงชั่ว]</color></href> ช่างน่าอิจฉาจริงๆ เลย!=<href\=6|565596398945928825><color\=#37ff53>[Mulozn]</color></href>Participated in the demon -mutant group of the forest dimension and killing a group of Phoenix demon. <href\=2|565596629705068329><color\=#000000>[50k year · Evil ring]</color></href> So jealous!
 <color\=#61ddf7>จี้ต๋าเจิ้น:</color>จับทีมไปตีร่น<color\=#37ff53>ฝูงอสูรกลายพันธุ์</color>ที่ป่าสนธยา เป้าหมาย:<color\=#ff1919>มิติป่า Ⅲ·ฝูงอสูรฟีนิกซ์(พื้นฐาน)</color><href\=11|565596629715304791><color\=#37ff53>[เข้าทีม]</href></color>=<color\=#61ddf7>Tao Zhen:</color>Catch the team to play<color\=#37ff53>Mutated monster horde</color>At the Twilight Pao Forest:<color\=#ff1919>Pa Pa Dimension ⅲ · Phoenix demon (basic)</color><href\=11|565596629715304791><color\=#37ff53>[Enter the team]</href></color>
@@ -10,7 +9,7 @@
 ไลน์ 1=World 1
 เมืองเทียนโต้ว=Heavenia
 เจ้าหอ=Master
-โลก=word
+โลก=World
 2.6.1_54_31_108_45_41_288_41_19_19_2.8.2_2.19_2.19.17=2.6.1_54_31_108_45_41_288_41_19_19_2.8.2_2.19.19.17
 กำลังตรวจสอบเวอร์ชั่น โปรดรอสักครู่=Checking the version Please wait a moment
 ปิดเสียงแล้ว=Muted
@@ -66,8 +65,8 @@
 จ้าวอู๋จี๋=Zhao Wu Ji
 ล่าสัตว์วิญญาณ=Spirit Hunt
 เริ่มแล้ว=Start
-ทีมลงดัน=Formation
-ระบบ=system
+ทีมลงดัน=Grandmaster
+ระบบ=System
 ศูนย์\nกลยุทธ์=Strategic\nCenter
 แสงเทพเก้าสี=9-Colored\nDivine Light
 เสาศักดิ์สิทธิ์ฝึกฝน =Sacred Pillar Trial
@@ -84,7 +83,7 @@
 สายใย=Bond
 อุปกรณ์วิญญาณ=Artifact
 เป้=Backpack
-จัดทีม=Formation
+จัดทีม=Lineup
 วิญญา\nจารย์=Spirit\nMaster
 <color\=#FF0000>[เคลียร์เควสย่อย อัปเลเวล]</color>=<color\=#FF0000>[Complete Side quests to level up]</color>
 [ 54 ]<color\=#2797f6>เส้นทางโต้วหลัว(ยากเย็น)</color>=[54]<color\=#2797f6>Douluo Path (Hard)</color>
@@ -260,7 +259,7 @@ Welcome all country to my guild ยินดีต้อนรับทุกค
 คลัง\nสำ\nนัก=Sect\nVault
 สวน\nสมุน\nไพร=Sect\nGarden
 ห้อง\nโถง\nสำ\nนัก=Sect\nLobby
-สำนักประมูล\n=Bureau\n
+สำนักประมูล\n=Sect\nAuction
 Tarot Club=Tarot Club
 สาขาสำนัก=Division
 ห้องโถงสำนัก=Sect Hall
@@ -1089,7 +1088,7 @@ x8888=x8888
 แต้ม=Score
 กระสุน 2 แต้ม=2 Ammo
 ไม่มี CD=No CD
-สกิล=H.Wpn Skill
+สกิล=Skill
 2.96%=2.96%
 CRIT DMG=CRIT DMG
 70738=70738
@@ -1098,7 +1097,7 @@ HP=HP
 DEF=DEF
 11494=11494
 ATK อาวุธลับ=H.Wpn ATK
-คุณสมบัติ=H.Wpn Stats
+คุณสมบัติ=Stats
 ตัวอย่างหล่อ=Forge Preview
 หล่อ=Forge
 <color\=#B00808>0</color>/2=<color\=#B00808>0</color>/2
@@ -1214,7 +1213,7 @@ NguyễnDoãn=Nguyễndoãn
 โลกประกาศจับ=Most Wanted
  สิทธิ์:ไม่จำกัด= Attempts: Unlimited
 ระยะเวลา:วันศุกร์-06:00 - 20:32=Event Time: Friday 06:00-20:32
-แชท=Chat
+แชท=Private
 78/700=78/700
 <color\=#5c3600>พยายามเอาชนะ</color>บอสประกาศจับทั่วทุกมุมโลก รับ<color\=#5c3600>รางวัลเจ้าของบอส</color>จำนวนมาก และได้รับรางวัลดรอป<color\=#5c3600>กระดูกวิญญาณที่ล้ำค่าอย่างยิ่ง!</color>=<color\=#5c3600>Try to overcome</color>Boss announced to catch all over the world.<color\=#5c3600>Boss owner</color>A lot and received the drop award<color\=#5c3600>The very precious spirit bones!</color>
 <href\=6|565596403772287022><color\=#37ff53>[เตาเสี้ยวฟาชุ่ย]</color></href>ได้รับวิญญาจารย์SSR<href\=2|565596404084533606><color\=#dd7131>[ยวี่เทียนซิน]</color></href>จากการปลุกพลังวิญญาณยุทธ์!=<href\=6|565596403772287022><color\=#37ff53>[Fresh Fash Tui]</color></href>Received ssr<href\=2|565596404084533606><color\=#dd7131>[Yu Tianxin]</color></href>From awakening the power of the strategy!
@@ -1759,7 +1758,7 @@ DEEPAK=Deepak
 เวลารีเฟรช:<color\=#00CB13>16:34:08</color>=Refresh time:<color\=#00CB13>16:34:08</color>
 เวลารีเฟรช:<color\=#00CB13>16:34:07</color>=Refresh time:<color\=#00CB13>16:34:07</color>
 เหลือสิทธิ์:{{A}}=Left right: {{A}}
-รังอสูรในกวี=Demonstone in the poet
+รังอสูรในกวี=Epic Den
 พยัคฆ์ตามรกต=Tiger according to the emerald
 kjhjkh=kjhjkh
 jhkjh=jhkjh
@@ -1776,10 +1775,10 @@ Lv.{{A}} ({{B}} ปี-{{C}} ปี)=LV.{{A}} ({{B}} Year - {{C}} Year)
 ใจกลางป่า Ⅱ=Forest (Core) II			
 สัตว์วิญญาณชุดถัดไปปรากฏใน:=Spirit Beasts refresh in:
 รังถัดไป=Reset Den
-ท้า=defy
+ท้า=Fight
 ถอย=Retreat
 สูงสุด  {{A}}ปี=Maximum {{A}} year
-อายุ=age
+อายุ=Year
 ประเภทดรอป=Drop type
 อัปอีก <color\=#F4B32A>2</color> เลเวลปลดล็อกถึง <color\=#F4B32A>ใจกลางป่า Ⅲ</color>=<color\=#F4B32A>2</color> more level(s) to unlock <color\=#F4B32A>Fores (Core) III</color>
 หมูเขี้ยวยักษ์=Giant pork
@@ -1796,7 +1795,7 @@ Lv.{{A}} ({{B}} ปี-{{C}} ปี)=LV.{{A}} ({{B}} Year - {{C}} Year)
 ลองอีกครั้ง=Again
 {{A}} ปี={{A}} Year
 {{A}}k ปี={{A}}K Year
-รังอสูรมือเอก{{A}}=Demonstone Hand Hands {{A}}
+รังอสูรมือเอก{{A}}=Elite Den
 รีเฟรช<#comm&comm_currency_0001>{{A}}ทันที=Refresh for <#comm&comm_currency_0001>{{A}}
 รีเฟรช<#comm&comm_currency_0001>{{A}}ทันที=Refresh for <#comm&comm_currency_0001>{{A}}
 รีเฟรช<#comm&comm_currency_0001>{{A}}ทันที=Refresh for <#comm&comm_currency_0001>{{A}}
@@ -1814,7 +1813,7 @@ Lv.{{A}} ({{B}} ปี-{{C}} ปี)=LV.{{A}} ({{B}} Year - {{C}} Year)
 ป่ารอบนอก Ⅰ=Forest (Peripheral) I			
 Lv.{{A}}=Lv.{{A}}
 ใจกลางป่า Ⅲ=Forest (Core) III			
-สายพืช=Crop
+สายพืช=Plant
 รีเฟรช {{A}} น.=Refresh {{A}}
 เปิดศึกหลัง {{A}} นาที{{B}} วินาที=Battlefield opens in {{A}} minutes {{B}} second
 ต้นไม้แห่งชีวิต {{A}} แสนปี={{A}}00,000\nTree of Life 
@@ -1929,7 +1928,7 @@ ATK ลดลง=ATK↓
 ไม่มีข้อมูล=No information
 CRIT สูงขึ้น=CRIT DMG↑
 ตรา {{A}} สมบัติ={{A}} brand
-ชื่อผู้เล่น=Player name
+ชื่อผู้เล่น=Name
 พลังจิตสูงขึ้น =Willpower↑
 เมตตาเทพ=Divine Grace
 หั่วอู่=Huh
@@ -1961,7 +1960,7 @@ x{{A}}=X{{A}}
 อันดับผู้เล่น=Player
 ดาเมจ=Damage
 ชื่อทีม=Team Name
-อันดับ=Rank
+อันดับ=Leaderboard
 ออโต้=Auto
 ปีศาจแมงมุมเลือดสังหาร=Bloodthirsty Demon Spider
 ยุพาชมพู=Pink Spider
@@ -1998,7 +1997,7 @@ Clitoris=Clitoris
 LIJIN=Lijin
 CP:<color\=#E9B528>{{A}}</color>=CP:<color\=#E9B528>{{A}}</color>
 Top{{A}}Sv=Top{{A}}sv
-หัวหน้าทีม=Team leader
+หัวหน้าทีม=Leader
 สแตนด์บาย=Standby
 เวทีประลอง=Stage
 ดูแผนที่=See the map
@@ -2015,7 +2014,7 @@ desing_UI_WinArcticRegion_{{A}}_{{B}}=Desing_UI_WINARCTICREGION_{{A}}_{{B}}
 เจ้าเวทีประลองปัจจุบัน:=Current show stage:
 กำลังช่วงชิง(<color\=#f5b428>{{A}} นาที{{A}} วินาที</color>)=Hunting (<color\=#f5b428>{{A}} minutes {{A}} second</color>)
 กำลังช่วงชิง(<color\=#f5b428>{{A}} วินาที</color>)=Hunting (<color\=#f5b428>{{A}} second</color>)
-ทีม=team
+ทีม=Party
 ทีม phongbe{{A}}=PHONGBE{{A}} team
 ส่งข้อความเรียกรวมให้ลูกทีมแล้ว=Send a message to the team.
 Phoenix=Phoenix
@@ -2123,7 +2122,7 @@ BigDaddy =BIGDADDY
 เมื่อเริ่มเทิร์นทำให้ดาเมจที่ทหารมิตร <color\=#5c3600>3</color> คนที่มีโจมตีสูงสุดสร้างเพิ่มขึ้นถาวร <color\=#5c3600>4.80%</color> ซ้อนสูงสุด <color\=#5c3600>5</color> ชั้น=When starting to turn, the damage to the soldiers <color\=#5c3600>3</color> People with the highest attack are permanently created. <color\=#5c3600>4.80%</color> Maximum <color\=#5c3600>5</color> floor
 กวางนิล.เสียงกวาง=Ether Deer· Decree
 ทำให้ดาเมจท้ายสุดจากการโจมตีปกติเสริมและการโจมตีปกติของเพื่อนจะเพื่มขึ้นถาวร<color\=#5c3600>15.00%</color>=Causing the final damage from normal attacks and normal attacks of friends to increase permanently<color\=#5c3600>15.00%</color>
-เอฟเฟกต์รักษาเพิ่มขึ้น <color\=#5c3600>18.00%</color>=More treatment effects <color\=#5c3600>18.00%</color>
+เอฟเฟกต์รักษาเพิ่มขึ้น <color\=#5c3600>{{A}}%</color>=Healing done↑ <color\=#5c3600>{{A}}%</color>
 กวางมงคล·หยั่งรู้=Auspicious Deer· Heart
 ทำให้ดาเมจท้ายสุดที่สร้างก่อน <color\=#5c3600>5</color> เทิร์นของเพื่อนอัปเกรด<color\=#5c3600>4%</color> ดาเมจท้ายสุดที่สร้างหลังจากนี้จะเพื่มขึ้น<color\=#5c3600>12.00%</color>;=Boost the final DMG dealt by allies for the first <color\=#5c3600>5</color> turns by <color\=#5c3600>4%</color>, and afterwards by <color\=#5c3600>12.00%</color>
 ดรอปวงแหวน=Halo Drops
@@ -2140,7 +2139,7 @@ LV {{A}}=LV {{A}}
 แมงป่อง\nเหล็กมรกต=Emerald Scorpion
 กลยุทธ์=Guide
 คลิปผ่านด่าน=Stage Video
-ได้รับดาเมจลดลง <color\=#5c3600>8.26%</color>;เอฟเฟกต์รักษาเพิ่มขึ้น <color\=#5c3600>18.00%</color>=DMG↓ <color\=#5c3600>8.26%</color>Increased treatment effects <color\=#5c3600>18.00%</color>
+ได้รับดาเมจลดลง <color\=#5c3600>8.26%</color>;เอฟเฟกต์รักษาเพิ่มขึ้น <color\=#5c3600>18.00%</color>=DMG↓ <color\=#5c3600>8.26%</color> Healing done↑ <color\=#5c3600>18.00%</color>
 กวางนิล.หยั่งรู้=Ether Deer· Heart
 กวางนิล.แสงแก้ว=Ether Deer· Light
 ทำให้ทหารมิตร <color\=#5c3600>3</color> คนที่มีโจมตีสูงสุด เพิ่มโจมตีปกติและเสริมดาเมจโจมตีปกติ <color\=#5c3600>18.00%</color>=Make a friend <color\=#5c3600>3</color> The most attacked person\nIncrease normal attacks and promote normal attacks <color\=#5c3600>18.00%</color>
@@ -2153,3 +2152,197 @@ Crizx=CRIZX
 ·วิญญาณเต่าดำจะค่อยๆปล่อยหลายสกิลหลังจากโจมตีปกติแล้ว และดาเมจจะค่อยๆเพิ่มขึ้น\n\n·พยายามทำการควบคุมให้ได้ก่อนที่เขาจะปล่อนแอคทีฟสกิล หลีกเลี่ยงดาเมจสูงของแอคทีฟสกิลทำการลดสมาชิกฝ่ายตน=· Black turtle spirit will gradually release many skills after normal attack\nAnd the damage will gradually increase\n\n· Try to control before he cut the active skill.\nAvoiding the high level of Active Skill to reduce their members.
 ลูกทีมได้รับดาเมจลดลง <color\=#5c3600>4%</color>, ตนเองได้รับดาเมจลดลง <color\=#5c3600>8.00%</color>=The team has decreased damage. <color\=#5c3600>4%</color>, I have reduced damage. <color\=#5c3600>8.00%</color>
 เต่า.บารมีอสรพิษ=Black Tortoise· Momentum
+นับถอยหลังเริ่มท้าทาย : <color\=#f5b428>7 ชม.7 นาที3 วินาที</color>=Countdown began to challenge: <color\=#f5b428>7 hrs. 7 minutes 3 second</color>
+นับถอยหลังเริ่มท้าทาย : <color\=#f5b428>7 ชม.7 นาที2 วินาที</color>=Countdown began to challenge: <color\=#f5b428>7 hrs. 7 minutes 2 second</color>
+นับถอยหลังเริ่มท้าทาย : <color\=#f5b428>7 ชม.7 นาที1 วินาที</color>=Countdown began to challenge: <color\=#f5b428>7 hrs. 7 minutes 1 second</color>
+<color\=#61ddf7>ถ้งซุย:</color><#f02020>=<color\=#61ddf7>Tong Sui:</color><#f02020>
+<color\=#61ddf7>ถ้งซุย:</color><#f02013>=<color\=#61ddf7>Tong Sui:</color><#f02013>
+เริ่มใน {{A}} ชม.=Start in {{A}}.
+วันอังคาร=Tuesday
+วันพฤหัส=Thursday
+วันเสาร์=Saturday
+วันอาทิตย์=Sunday
+ยังไม่เปิด=Closed
+ชื่อสำนัก/เซิร์ฟ=Sect/Server
+ปริมาณดาเมจสูงสุด=MAX DMG
+อันดับสำนัก/เซิร์ฟ=Sect/Server
+เก็บเกี่ยวสมุนไพร=Harvest herbs
+นับถอยหลังเริ่มท้าทาย : <color\=#f5b428>{{A}} ชม.{{B}} นาที</color>=Battle begins in: <color\=#f5b428>{{A}} hour(s) {{B}} minute(s)</color>
+นับถอยหลังเริ่มท้าทาย : <color\=#f5b428>{{A}} ชม.</color>=Battle begins in: <color\=#f5b428>{{A}} hour(s)</color>
+นับถอยหลังเริ่มท้าทาย : <color\=#f5b428>{{A}} ชม.{{B}} นาที{{C}} วินาที</color>=Battle begins in: <color\=#f5b428>{{A}} hour(s) {{B}} minute(s) {{C}} second(s)</color>
+[ ((A)) ]<color\=#f5b428>เส้นทางโต้วหลัว {{B}}</color>=[{{A}}] <color\=#f5b428> Douluo Path</color>
+[ {{A}} ]<color\=#f5b428>เส้นทางโต้วหลัว 16-5</color>=[55]<color\=#f5b428>Douluo Path 16-5</color>
+[ 55 ]<color\=#2797f6>เส้นทางโต้วหลัว(ยากเย็น)</color>=[55]<color\=#2797f6>Douluo Path (Hard)</color>
+{{A}}k={{A}}K
+ออนไลน์:{{A}}=Online: {{A}}
+<color\=#090909>ถังไป๋เยว่</color>=<color\=#090909>ถังไป๋เยว่</color>
+<color\=#090909>จอมโหด</color>=<color\=#090909>จอมโหด</color>
+<color\=#090909>ถ้งซุย</color>=<color\=#090909>ถ้งซุย</color>
+<color\=#090909>{{A}}ชม.ก่อน</color>=<color\=#090909>{{A}} hour(s)\nago</color>
+<color\=#090909>Angela</color>=<color\=#090909>Angela</color>
+<color\=#090909>leader</color>=<color\=#090909>Leader</color>
+<color\=#090909>Trâu VN</color>=<color\=#090909>Trapu VN</color>
+<color\=#090909>เซี่ยเฉี่ยว</color>=<color\=#090909>เซี่ยเฉี่ยว</color>
+<color\=#090909>Насвай</color>=<color\=#090909>Насвай</color>
+<color\=#090909>Aim</color>=<color\=#090909>AIM</color>
+<color\=#090909>Bbbbbb</color>=<color\=#090909>BBBBB</color>
+<color\=#090909>CCCCCC</color>=<color\=#090909>CCCCC</color>
+<color\=#090909>{{A}}วันก่อน</color>=<color\=#090909>{{A}} day(s) ago</color>
+<color\=#090909>HuoYuhuo</color>=<color\=#090909>Huoyuhuo</color>
+วัสดุสมุนไพร:          x{{A}}K=Herbs:				   X{{A}}K
+เงินทุนสำนัก:          x{{A}}K=Sect Fund: 			  X{{A}}K
+<href\=6|565596397999818392><color\=#37ff53>[Neto]</color></href>สำเร็จผลงานปริศนา<color\=#37ff53>ลงไม้ลงมือ</color>แล้ว=<href\=6|565596397999818392><color\=#37ff53>[Neto]</color></href>Successful work<color\=#37ff53>Put the wood</color>already
+สงครามเทียนโต้วเริ่มแล้ว ของให้สำนักต่างๆ เช้าไปชิงเมืองในสนามรบ<color\=#37ff53><href\=13|357001&1\=865>[ไป]</href></color>=The Heavenia Conquest has started.<color\=#37ff53><href\=13|357001&1\=865>[Go]</href></color>
+เมืองฮั่นเซิน(กลาง)=Hansun City (M)
+<color\=#37ff53>เมืองฮั่นเซิน(กลาง)</color>=<color\=#37ff53>Hansun City (M)</color>
+เปลี่ยนเมือง=Change Map
+เปิดใน {{A}} =Opens in {{A}} 
+{{A}} วัน{{B}} ชม. สิ้นสุด=Ends in {{A}} day(s) {{B}} hour(s)
+นับถอยหลัง:<color\=#37FF53>{{A}} นาที{{B}} วินาที</color>=Ends in: <color\=#37FF53>{{A}} minute(s) {{B}} second(s)</color>
+ประตูเมือง=City Gate
+ใจกลาง=Center
+ประตูซ้าย(เฮ่าเทียน)=Left door (Hea Tian)
+ประตูขวา(เฮ่าเทียน)=Right door (Hea Tian)
+หลังชนะสำนักของอสูรพิทักษ์ จะได้รับสถานะอมตะ\n<color\=#f5b428>อัปเกรดดาเมจ 100% SPD สูงขึ้น 10%</color>=Occupier will receive\n<color\=#f5b428>Upgrade the 100% SPD higher 10%</color>
+ฉันปลุกใจ=AP
+เจ้าของเมือ=Occupier
+ค่าพิชัย=Score
+ดูเพิ่มเติม=See more
+ราง\nวัล=Rewards
+เมืองเคอเค่อ(เล็ก)=Colt City (S)
+ไม่มีสำนักยึดครอง=Unoccupied
+เมืองนั่วหลัน(เล็ก)=Nolan City (S)
+เมืองเคอเอิน(เล็ก)=Coben City (S)
+ฝ่ายรับ=Defense
+Kanilk{{A}}=KANILK{{A}}
+ขณะนี้การเชื่อมต่อไม่เสถียร=Connection is unstable.
+เมืองโนติง(เล็ก)=Nuoding City (S)
+เมืองคุนติ(เล็ก)=Quntine City (S)
+เมืองปรัชญา(เล็ก)=Saint City (S)
+เมืองซิงโต้ว(เล็ก)=Aster City (S)
+เมืองหม่าติง(เล็ก)=Martin City(S)
+เมืองประจิม(กลาง)=Gengxin City (M)
+เมืองฮั่นไฮ่(กลาง)=Hangai City (M)
+เมืองสั่วทัว(ใหญ่)=Suotuo City (L)
+เมืองหลงซิ่ง(ใหญ่)=Longxing City (M)
+เขตวังหลวงเทียนโต้ว=Imperial City
+วิหารอสุรา=Asura Temple
+ชื่อสำนัก=Sect
+ค่าอำนาจ=Faction Points
+เพิ่มค่าอำนาจได้ด้วยการยึดเมือง=Faction Points will increase after occupying a city.
+รวมพลโจมตี=Offensive Rally
+รวมพลป้องกัน=Defensive Rally
+ยังไม่มีเมืองที่กำลังรวมพลโจมตี=No cities set for offensive rally.
+ยังไม่มีเมืองที่กำลังรวมพลปกป้อง=No cities set for protective rally.
+ตั้งค่ารวมพล=Set Rally
+อิทธิฤทธิ์เทียนโต้ว=Season\nRewards
+พลังสัตว์ยักษ์=Behemoth Power
+ผลงานสำนัก=Sect\nHegemony
+ผลงานผู้เล่น=Player\nHegemony
+สร้างผลงาน({{A}})=Living Legend ({{A}})
+บรรลุเงื่อนไข=Conditions
+ภายในซีซัน ได้รับค่าพิชัยรวม {{A}} ({{B}})=Gain {{A}} exploits in a season ({{B}}).
+ค่ายวาร์ปประตูเมืองซ้าย=Left Gate
+เมืองคู่ปู้(เล็ก)=Kubu City (S)
+ค่ายวาร์ปประตูเมืองขวา=Right Gate
+Tee{{A}}=Tee{{A}}
+สำนักที่สะสมแต้มถึง <color\=#034800>10000</color> ก่อน จะยึดครองได้=Sects needs to reach <color\=#034800>10000</color> Faction Points before being to occupy.
+กติกา=rules
+เปิดใน {{A}} นาที{{B}} วินาที =Open in {{A}} minutes {{B}} second 
+เป็นผล : {{A}}=As a result: {{A}}
+พรอสุรา=Pornsura
+การเข้าวิหารจะไม่เกิด CD การเปลี่ยนเมือง=The temple will not cause CD to change the city.
+สำนักที่ยึด=Occupier
+ขณะยึดเมืองใหม่จะได้รับ<color\=#034800>ค่าอำนาจเพิ่ม</color> ขณะต่อสู้<color\=#034800> พาสซีฟวงแหวนของศัตรูจะไม่เป็นผล</color> และ<color\=#034800>คุณสมบัติทั้งหมดลดลง 60%</color>=While holding a new city to receive<color\=#034800>Additional power</color> While fighting<color\=#034800> The enemy's ring will not be effective.</color> and <color\=#034800>All features decreased 60%</color>
+พรการยึดครอง=Blessing
+Thầnยึดครองเมืองคุนติ(เล็ก)=THầN occupies Kunti (Lek)
+สำนักสนามรบ=Sects
+จำนวนสำนัก:<color\=#ff1919>0</color>=Number of sects:<color\=#ff1919>0</color>
+ไม่มีสำนักลงศึก=No Sects
+จำนวนคน=Players
+เข้าต่อสู้=Enter
+{{A}}/นาที={{A}}/Min
+สำนักนี้เก่งเกินไป จึงระงับการรวมพล=This school is too good.\nTherefore suspended the integration
+สำนักนี้เก่งเกินไป จึงระงับการโจมตี=This school is too good.\nTherefore suspended the attack
+ยึดครองวิหาร=Temple Occupation
+รางวัลประมูลจะถูกนำไปประมูลในสำนักหลังกิจกรรมสิ้นสุด=The auction will start once the activity ends.
+รางวัลไอเทม=Item Reward
+รางวัลยึดเมือง=City Occupation
+รางวัลตำแหน่งผู้เล่น=Personal Rank
+รางวัลของสมาชิก=Sect Staff
+รางวัลสำนักประมูล=Sect Auction
+รางวัล=Rewards
+เจ้าเทียนโต้ว({{A}})=Daring ({{A}})
+ภายในซีซัน ได้รับค่าอำนาจอันดับ {{A}} {{B}} ครั้ง ({{C}})=Ranked No.{{A}} on the seasonal Faction Rankings {{B}} times ({{C}}).
+เขมือบภูผา({{A}})=Heavenia Overlord ({{A}})
+เมฆายิ่งใหญ่({{A}})=Aspiring Apex ({{A}})
+สำนัก\nบรรลุ=Sect\nAchieves
+{{A}} นาที คืนชีพ=Respawning in {{A}} minute(s)
+<color\=#2f51cf>MYN WOW</color>ร่วมกิจกรรม<color\=#37ff53>แสงแก้วหยกงาม</color> และโชคดีสุ่มจับได้<href\=2|565596647656530057><color\=#dd7131>[เถ้าธุลี]</color></href> ดวงดีสุดๆไปเลย!=<color\=#2f51cf>Myn Wow</color>Participate in activities<color\=#37ff53>แสงแก้วหยกงาม</color> And luckily randomly caught<href\=2|565596647656530057><color\=#dd7131>[The ashes]</color></href> The horoscope is so good!
+<color\=#2f51cf>MYN WOW</color>ร่วมกิจกรรม<color\=#37ff53>แสงแก้วหยกงาม</color> และโชคดีสุ่มจับได้<href\=2|565596647656530058><color\=#ff2727>[แพ็กเลือกร่างจริง SP]</color></href> ดวงดีสุดๆไปเลย!=<color\=#2f51cf>Myn Wow</color>Participate in activities<color\=#37ff53>แสงแก้วหยกงาม</color> And luckily randomly caught<href\=2|565596647656530058><color\=#ff2727>[Pack to choose a real body SP]</color></href> The horoscope is so good!
+แอร์ คนบ้าดักปล้น=Air conditioner
+บอสรอดชีวิต:{{A}} คน=Respawned Bosses: {{A}}
+มนุษย์หมาป่าเขียว=Cyan Wolfgang
+มู่ซี หมอพิษกัดกระดูก=Poisoner Muxi
+ราชินียุพาชมพู=Pink Scorpion
+โรงเรียนเชร็ค=Monster Academy
+สมบูรณ์=Perfect
+หมู่บ้าน=Village
+สังเวียนวิญญาณ=Grand Arena
+บทที่ {{A}}=Chapter {{A}}
+มอบหมาย=Errand
+ดำเนินการ=Manage
+ผ่านแล้ว=Completed
+หุบเขาสองขั้ว=Eye of Ice and Fire
+โรงเรียนโนติง=Nuoding Academy
+ไม่มีงานหมอบหมาย=No Errands
+สิทธิ์รางวัลมอบหมายทีม:{{A}}=Group Errand\nReward Attempts: {{A}}
+สิทธิ์ประกาศจับ : <color\=#32DF4B>{{A}}</color>=Bounty Attempts: <color\=#32DF4B>{{A}}</color>
+ราชาปฐพี=Pandinus
+อาวุธลับโจมตีหนัก=Bruiser
+คืนชีพใน:=Resurrects in:		
+ติดตาม=Follow
+ปีศาจแมงมุมใต้ดิน=Underground Demon Spider
+ซัพพอร์ต,ป้องกัน=Support\nDefense
+บันทึกประกาศจับ=Most Wanted Log
+เหลือสิทธิ์รับรางวัล:<color\=#37ff53>{{A}}</color>=Reward attempts left: <color\=#37ff53>{{A}}</color>
+ถังคิวคิว=Queue tank
+{{A}} วินาที คืนชีพ=Respawning in : {{A}} second(s)
+<color\=#61ddf7>Đường Số O:</color><#f02003>=<color\=#61ddf7>Đường số o:</color><#f02003>
+<color\=#61ddf7>Angela:</color><#f02012>=<color\=#61ddf7>Angela:</color><#f02012>
+ลี่เจียน นักเลงค่าหัว=Gangster Li
+สำรวจแล้ว=Progress
+เควสสำรวจ=Quests
+หีบสำรวจ=Chest
+เริ่มสำรวจ=Enter
+เฉลยคำตอบใน {{A}}s=Answer in {{A}}S
+what=What
+ถังไป๋เยว่=Bin Bai Ye
+Xà Mâu Đấu La=Xà mâ đấu la
+คำตอบที่ถูกของข้อ <color\=#034800>3</color> คือ:<color\=#034800>หนังสือราชกิจจานุเบกษา</color>=The correct answer of the joints <color\=#034800>3</color> is:<color\=#034800>Government Gazette book</color>
+เริ่มข้อถัดไปใน {{A}}s=Start next to {{A}}S.
+คำตอบของข้อที่ 3 คือ:<color\=#034800>หนังสือราชกิจจานุเบกษา</color>\n<color\=#061a66>FoxyLady</color>เป็นคนแรกที่ตอบถูก=The answer to 3 is:<color\=#034800>Government Gazette book</color>\n<color\=#061a66>Foxylady</color>Is the first person to answer correctly
+ข้อที่ <color\=#034800>3</color>(ตอบถูกแล้ว <color\=#034800>1/10</color> ข้อ)=That <color\=#034800>3</color>(The answer is correct <color\=#034800>1/10</color> )
+(ใช้เสียงตอบได้)=(Can use the answer)
+แฮฟเนียทคืออะไร=What is a havani?
+จุดไฟ=Light
+ตอบคำถาม=Answer questions
+สิทธิ์ถ่ายทอดพลัง:=Power transfer rights:
+สิทธิ์กิน:=Eating rights:
+รีเฟรชหมูกระทะแล้ว:=Refresh pork pan:
+อันดับตอบคำถาม=Ranked questions
+ถ่ายทอดพลัง=Convey power
+กินหมูกระทะ=Eat pork pan
+<color\=#61ddf7>Xà Mâu Đấu La:</color>13=<color\=#61ddf7>Xà mody đấu la:</color>13
+ไทยรัฐ=Thai Rath
+ดูเฉพาะ@ฉัน=Watch only@me
+ส่ง=send
+แตะเพื่อป้อนข้อความ=Tap to enter the message
+ดูแค่อั่งเปา=Look at Ang Pao.
+อสูรพิทักษ์·วานรยักษ์ไททัน=Demon Phithak Wan, Giant Titan
+กู่หรง=Ku Rong
+หนิวเกา=Niu Kao
+เย่หลิงหลิง=Ye Ling Ling
+ไป๋เฮ่อ=Bai He
+ไททัน=Titan
+หมูกระทะ=grilled pork
